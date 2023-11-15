@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202105-5"
+  ],
+  "affected": "88.0-1",
+  "fixed": "88.0.1-1",
+  "issues": [
+    "CVE-2021-29952"
+  ],
+  "name": "AVG-1917",
+  "packages": [
+    "firefox"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

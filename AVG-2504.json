@@ -1,0 +1,25 @@
+{
+  "advisories": [
+    "ASA-202110-7"
+  ],
+  "affected": "95.0.4638.54-2",
+  "fixed": "95.0.4638.69-1",
+  "issues": [
+    "CVE-2021-38004",
+    "CVE-2021-38003",
+    "CVE-2021-38002",
+    "CVE-2021-38001",
+    "CVE-2021-38000",
+    "CVE-2021-37999",
+    "CVE-2021-37998",
+    "CVE-2021-37997"
+  ],
+  "name": "AVG-2504",
+  "packages": [
+    "chromium"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

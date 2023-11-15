@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201610-11"
+  ],
+  "affected": "4.4.25-1",
+  "fixed": "4.4.26-1",
+  "issues": [
+    "CVE-2016-5195"
+  ],
+  "name": "AVG-50",
+  "packages": [
+    "linux-lts"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "privilege escalation"
+}

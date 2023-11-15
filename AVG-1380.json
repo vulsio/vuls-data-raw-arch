@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "3.38.2-1",
+  "fixed": "3.38.2.1-1",
+  "issues": [
+    "CVE-2020-27837"
+  ],
+  "name": "AVG-1380",
+  "packages": [
+    "gdm"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "authentication bypass"
+}

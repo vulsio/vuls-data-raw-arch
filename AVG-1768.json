@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "6.0.2-1",
+  "fixed": "6.0.3-1",
+  "issues": [
+    "CVE-2021-3481"
+  ],
+  "name": "AVG-1768",
+  "packages": [
+    "qt6-svg"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "information disclosure"
+}

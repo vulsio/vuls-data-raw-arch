@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "4.91-2",
+  "fixed": "4.92-1",
+  "issues": [
+    "CVE-2020-28020"
+  ],
+  "name": "AVG-1912",
+  "packages": [
+    "exim"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

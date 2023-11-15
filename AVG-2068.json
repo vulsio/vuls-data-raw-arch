@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "12.1.1-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-3013"
+  ],
+  "name": "AVG-2068",
+  "packages": [
+    "ripgrep"
+  ],
+  "severity": "Medium",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

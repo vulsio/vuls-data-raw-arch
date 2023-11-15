@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "11.0.10.u9-1",
+  "fixed": "11.0.11.u9-1",
+  "issues": [
+    "CVE-2021-2161"
+  ],
+  "name": "AVG-1866",
+  "packages": [
+    "jdk11-openjdk"
+  ],
+  "severity": "Medium",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "incorrect calculation"
+}

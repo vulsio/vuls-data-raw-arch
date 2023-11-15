@@ -1,0 +1,18 @@
+{
+  "advisories": [],
+  "affected": "7.78.0-1",
+  "fixed": "7.79.0-1",
+  "issues": [
+    "CVE-2021-22947",
+    "CVE-2021-22946",
+    "CVE-2021-22945"
+  ],
+  "name": "AVG-2388",
+  "packages": [
+    "libcurl-gnutls"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

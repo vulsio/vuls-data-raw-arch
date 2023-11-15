@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.12.arch1-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2020-26541"
+  ],
+  "name": "AVG-1878",
+  "packages": [
+    "linux"
+  ],
+  "severity": "Medium",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "certificate verification bypass"
+}

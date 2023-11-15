@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.28.2-2",
+  "fixed": "2.28.3-1",
+  "issues": [
+    "CVE-2020-9952"
+  ],
+  "name": "AVG-1292",
+  "packages": [
+    "webkit2gtk"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "cross-site scripting"
+}

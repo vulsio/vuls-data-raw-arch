@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "9.2.0-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-32610"
+  ],
+  "name": "AVG-2224",
+  "packages": [
+    "drupal"
+  ],
+  "severity": "Medium",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "directory traversal"
+}

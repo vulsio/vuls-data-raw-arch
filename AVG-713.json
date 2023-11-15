@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201806-8",
+    "ASA-201806-8"
+  ],
+  "affected": "2.2.7-1",
+  "fixed": "2.2.8-1",
+  "issues": [
+    "CVE-2018-12020"
+  ],
+  "name": "AVG-713",
+  "packages": [
+    "gnupg"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": "58931",
+  "type": "content spoofing"
+}

@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202102-36"
+  ],
+  "affected": "3.3.1-1",
+  "fixed": "3.4-1",
+  "issues": [
+    "CVE-2020-36242"
+  ],
+  "name": "AVG-1541",
+  "packages": [
+    "python-cryptography"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "incorrect calculation"
+}

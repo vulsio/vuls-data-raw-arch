@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "4.9.1-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2017-11545",
+    "CVE-2017-11544"
+  ],
+  "name": "AVG-397",
+  "packages": [
+    "tcpdump"
+  ],
+  "severity": "Medium",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "denial of service"
+}

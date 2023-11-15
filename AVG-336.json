@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201707-8"
+  ],
+  "affected": "0.3.0.8-3",
+  "fixed": "0.3.0.9-1",
+  "issues": [
+    "CVE-2017-0377"
+  ],
+  "name": "AVG-336",
+  "packages": [
+    "tor"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "session hijacking"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.1.1.l-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-4044"
+  ],
+  "name": "AVG-2641",
+  "packages": [
+    "openssl"
+  ],
+  "severity": "Medium",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "denial of service"
+}

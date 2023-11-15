@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "8.6.11-1",
+  "fixed": "8.6.12-1",
+  "issues": [
+    "CVE-2021-35331"
+  ],
+  "name": "AVG-2135",
+  "packages": [
+    "tcl"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202107-56"
+  ],
+  "affected": "0.9.22-1",
+  "fixed": "0.9.23-1",
+  "issues": [
+    "CVE-2021-31800"
+  ],
+  "name": "AVG-1916",
+  "packages": [
+    "impacket"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": "70714",
+  "type": "directory traversal"
+}

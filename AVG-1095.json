@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202002-4"
+  ],
+  "affected": "2020.0.0-1",
+  "fixed": "2020.0.0-2",
+  "issues": [
+    "CVE-2019-14868"
+  ],
+  "name": "AVG-1095",
+  "packages": [
+    "ksh"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary command execution"
+}

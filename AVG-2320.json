@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.10.7-1",
+  "fixed": "1.10.8-1",
+  "issues": [
+    "CVE-2021-39137"
+  ],
+  "name": "AVG-2320",
+  "packages": [
+    "go-ethereum"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "incorrect calculation"
+}

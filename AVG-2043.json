@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202107-35"
+  ],
+  "affected": "0.2.0-3",
+  "fixed": "0.2.1-1",
+  "issues": [
+    "CVE-2021-33896"
+  ],
+  "name": "AVG-2043",
+  "packages": [
+    "dino"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "directory traversal"
+}

@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "5.9.1.arch1-1",
+  "fixed": "5.9.2.arch1-1",
+  "issues": [
+    "CVE-2020-27675",
+    "CVE-2020-27673"
+  ],
+  "name": "AVG-1472",
+  "packages": [
+    "linux"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

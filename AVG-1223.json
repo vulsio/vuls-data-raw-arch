@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.4.63-1",
+  "fixed": "5.4.64-1",
+  "issues": [
+    "CVE-2020-14386"
+  ],
+  "name": "AVG-1223",
+  "packages": [
+    "linux-lts"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "privilege escalation"
+}

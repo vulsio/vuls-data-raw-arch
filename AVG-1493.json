@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "84.0.2-1",
+  "fixed": "85.0-1",
+  "issues": [
+    "CVE-2021-23959",
+    "CVE-2021-23957"
+  ],
+  "name": "AVG-1493",
+  "packages": [
+    "firefox"
+  ],
+  "severity": "Medium",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "multiple issues"
+}

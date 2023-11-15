@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202106-52"
+  ],
+  "affected": "3.6.0-1",
+  "fixed": "3.6.1-1",
+  "issues": [
+    "CVE-2021-32690"
+  ],
+  "name": "AVG-2078",
+  "packages": [
+    "helm"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "information disclosure"
+}

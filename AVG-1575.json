@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.66.6-1",
+  "fixed": "2.66.7-1",
+  "issues": [
+    "CVE-2021-27218"
+  ],
+  "name": "AVG-1575",
+  "packages": [
+    "glib2"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "incorrect calculation"
+}

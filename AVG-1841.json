@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.285-1",
+  "fixed": "2.286-1",
+  "issues": [
+    "CVE-2021-28165"
+  ],
+  "name": "AVG-1841",
+  "packages": [
+    "jenkins"
+  ],
+  "severity": "High",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "denial of service"
+}

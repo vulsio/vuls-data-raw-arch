@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201911-9"
+  ],
+  "affected": "5.3.7.a-1",
+  "fixed": "5.3.7.b-1",
+  "issues": [
+    "CVE-2019-17666"
+  ],
+  "name": "AVG-1063",
+  "packages": [
+    "linux-hardened"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

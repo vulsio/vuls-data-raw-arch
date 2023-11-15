@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.9.8.a-1",
+  "fixed": "5.9.9.a-1",
+  "issues": [
+    "CVE-2020-16119"
+  ],
+  "name": "AVG-1245",
+  "packages": [
+    "linux-hardened"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": "68257",
+  "type": "arbitrary code execution"
+}

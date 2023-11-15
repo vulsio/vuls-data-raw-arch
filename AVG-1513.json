@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "5.10.12.hardened1-1",
+  "fixed": "5.10.13.hardened1-1",
+  "issues": [
+    "CVE-2021-3348",
+    "CVE-2021-26708"
+  ],
+  "name": "AVG-1513",
+  "packages": [
+    "linux-hardened"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

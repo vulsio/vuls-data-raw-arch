@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "14.0.1-1",
+  "fixed": "14.0.3-1",
+  "issues": [
+    "CVE-2021-22233"
+  ],
+  "name": "AVG-2137",
+  "packages": [
+    "gitlab"
+  ],
+  "severity": "Medium",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "information disclosure"
+}

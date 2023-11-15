@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.7.3-9",
+  "fixed": "5.8-1",
+  "issues": [
+    "CVE-2018-18066"
+  ],
+  "name": "AVG-783",
+  "packages": [
+    "net-snmp"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

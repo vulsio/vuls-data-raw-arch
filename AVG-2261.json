@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202108-9"
+  ],
+  "affected": "2.8.9-3",
+  "fixed": "2.8.9-4",
+  "issues": [
+    "CVE-2021-38165"
+  ],
+  "name": "AVG-2261",
+  "packages": [
+    "lynx"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": "71764",
+  "type": "information disclosure"
+}

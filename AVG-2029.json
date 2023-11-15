@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.7.1-2",
+  "fixed": "1.7.2-1",
+  "issues": [
+    "CVE-2021-32923"
+  ],
+  "name": "AVG-2029",
+  "packages": [
+    "vault"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "authentication bypass"
+}

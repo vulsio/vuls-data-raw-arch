@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.0.0.73-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-30481"
+  ],
+  "name": "AVG-1800",
+  "packages": [
+    "steam"
+  ],
+  "severity": "High",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

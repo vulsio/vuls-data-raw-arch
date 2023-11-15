@@ -1,0 +1,21 @@
+{
+  "advisories": [],
+  "affected": "0.13.67-1",
+  "fixed": "0.13.68-1",
+  "issues": [
+    "CVE-2018-6869",
+    "CVE-2018-6542",
+    "CVE-2018-6541",
+    "CVE-2018-6540",
+    "CVE-2018-6484",
+    "CVE-2018-6381"
+  ],
+  "name": "AVG-667",
+  "packages": [
+    "zziplib"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

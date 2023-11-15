@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "3.3.0-2",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-3420"
+  ],
+  "name": "AVG-1628",
+  "packages": [
+    "riscv32-elf-newlib"
+  ],
+  "severity": "Medium",
+  "status": "Vulnerable",
+  "ticket": "70050",
+  "type": "arbitrary code execution"
+}

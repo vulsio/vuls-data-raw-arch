@@ -1,0 +1,21 @@
+{
+  "advisories": [
+    "ASA-201810-9"
+  ],
+  "affected": "2.6.3-1",
+  "fixed": "2.6.4-1",
+  "issues": [
+    "CVE-2018-18227",
+    "CVE-2018-18226",
+    "CVE-2018-18225",
+    "CVE-2018-12086"
+  ],
+  "name": "AVG-779",
+  "packages": [
+    "wireshark-cli"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

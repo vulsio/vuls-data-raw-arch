@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.5.0-3",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-3575"
+  ],
+  "name": "AVG-2850",
+  "packages": [
+    "openjpeg2"
+  ],
+  "severity": "Medium",
+  "status": "Vulnerable",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

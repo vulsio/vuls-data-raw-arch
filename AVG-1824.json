@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "0.6.22-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-27815"
+  ],
+  "name": "AVG-1824",
+  "packages": [
+    "libexif"
+  ],
+  "severity": "Low",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "denial of service"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "7.1.0.6-1",
+  "fixed": "7.1.0.7-1",
+  "issues": [
+    "CVE-2021-39212"
+  ],
+  "name": "AVG-2378",
+  "packages": [
+    "imagemagick"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "access restriction bypass"
+}

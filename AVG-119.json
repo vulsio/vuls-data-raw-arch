@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201701-2"
+  ],
+  "affected": "1.6.26-2",
+  "fixed": "1.6.27-1",
+  "issues": [
+    "CVE-2016-10087"
+  ],
+  "name": "AVG-119",
+  "packages": [
+    "libpng"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

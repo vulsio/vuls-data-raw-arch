@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201804-6"
+  ],
+  "affected": "1:1.1.0.g-1",
+  "fixed": "1:1.1.0.h-1",
+  "issues": [
+    "CVE-2017-3738"
+  ],
+  "name": "AVG-551",
+  "packages": [
+    "lib32-openssl"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "private key recovery"
+}

@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "2021.08.09-1",
+  "fixed": "2021.08.24-1",
+  "issues": [
+    "CVE-2021-39283",
+    "CVE-2021-39282"
+  ],
+  "name": "AVG-2306",
+  "packages": [
+    "live-media"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

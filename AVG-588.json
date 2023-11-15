@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201801-13"
+  ],
+  "affected": "2.92-7",
+  "fixed": "2.92-8",
+  "issues": [
+    "CVE-2018-5702"
+  ],
+  "name": "AVG-588",
+  "packages": [
+    "transmission-cli"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": "57086",
+  "type": "arbitrary command execution"
+}

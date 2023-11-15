@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.54.3-3",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-27064"
+  ],
+  "name": "AVG-1820",
+  "packages": [
+    "code"
+  ],
+  "severity": "High",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "privilege escalation"
+}

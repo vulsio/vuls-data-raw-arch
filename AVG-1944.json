@@ -1,0 +1,20 @@
+{
+  "advisories": [
+    "ASA-202105-21",
+    "ASA-202105-20"
+  ],
+  "affected": "5.0.5.sdk202-1",
+  "fixed": "5.0.6.sdk203-1",
+  "issues": [
+    "CVE-2021-31204"
+  ],
+  "name": "AVG-1944",
+  "packages": [
+    "dotnet-sdk",
+    "dotnet-runtime"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "privilege escalation"
+}

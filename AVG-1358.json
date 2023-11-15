@@ -1,0 +1,18 @@
+{
+  "advisories": [],
+  "affected": "5.26.1-1",
+  "fixed": "5.26.2-1",
+  "issues": [
+    "CVE-2020-29511",
+    "CVE-2020-29510",
+    "CVE-2020-29509"
+  ],
+  "name": "AVG-1358",
+  "packages": [
+    "mattermost"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "incorrect calculation"
+}

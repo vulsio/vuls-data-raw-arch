@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2:4.3.2-6",
+  "fixed": "2:4.4-1",
+  "issues": [
+    "CVE-2020-35965"
+  ],
+  "name": "AVG-1397",
+  "packages": [
+    "ffmpeg"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

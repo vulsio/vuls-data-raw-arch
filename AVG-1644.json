@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.11.2.arch1-1",
+  "fixed": "5.11.3.arch1-1",
+  "issues": [
+    "CVE-2020-25639"
+  ],
+  "name": "AVG-1644",
+  "packages": [
+    "linux"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

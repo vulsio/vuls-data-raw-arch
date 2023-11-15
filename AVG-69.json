@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201703-9"
+  ],
+  "affected": "2.0.10-1",
+  "fixed": "2.0.12-1",
+  "issues": [
+    "CVE-2016-9591",
+    "CVE-2016-8886"
+  ],
+  "name": "AVG-69",
+  "packages": [
+    "jasper"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

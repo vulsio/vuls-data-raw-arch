@@ -1,0 +1,20 @@
+{
+  "advisories": [
+    "ASA-201908-13"
+  ],
+  "affected": "1.16.0-1",
+  "fixed": "1.16.1-1",
+  "issues": [
+    "CVE-2019-9516",
+    "CVE-2019-9513",
+    "CVE-2019-9511"
+  ],
+  "name": "AVG-1023",
+  "packages": [
+    "nginx"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

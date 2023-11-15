@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201707-11"
+  ],
+  "affected": "1.12.0-2",
+  "fixed": "1.12.1-1",
+  "issues": [
+    "CVE-2017-7529"
+  ],
+  "name": "AVG-345",
+  "packages": [
+    "nginx"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "information disclosure"
+}

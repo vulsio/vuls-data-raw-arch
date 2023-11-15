@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "4.3.026-1",
+  "fixed": "4.3.027-1",
+  "issues": [
+    "CVE-2014-6277"
+  ],
+  "name": "AVG-924",
+  "packages": [
+    "bash"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

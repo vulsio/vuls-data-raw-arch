@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201701-31"
+  ],
+  "affected": "1.14-1",
+  "fixed": "1.14.1-1",
+  "issues": [
+    "CVE-2017-5357"
+  ],
+  "name": "AVG-145",
+  "packages": [
+    "ed"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

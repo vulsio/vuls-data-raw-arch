@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201710-31"
+  ],
+  "affected": "62.0.3202.62-1",
+  "fixed": "62.0.3202.75-1",
+  "issues": [
+    "CVE-2017-15396"
+  ],
+  "name": "AVG-472",
+  "packages": [
+    "chromium"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

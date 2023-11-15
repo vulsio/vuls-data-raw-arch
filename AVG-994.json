@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201906-18"
+  ],
+  "affected": "67.0.2-1",
+  "fixed": "67.0.3-1",
+  "issues": [
+    "CVE-2019-11707"
+  ],
+  "name": "AVG-994",
+  "packages": [
+    "firefox"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

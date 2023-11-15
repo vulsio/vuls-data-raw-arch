@@ -1,0 +1,19 @@
+{
+  "advisories": [],
+  "affected": "4.14.11-1",
+  "fixed": "4.16.1-1",
+  "issues": [
+    "CVE-2017-17741",
+    "CVE-2017-17450",
+    "CVE-2017-17448",
+    "CVE-2017-16644"
+  ],
+  "name": "AVG-572",
+  "packages": [
+    "linux-zen"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

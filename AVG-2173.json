@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.19.1-1",
+  "fixed": "1.19.2-1",
+  "issues": [
+    "CVE-2021-36222"
+  ],
+  "name": "AVG-2173",
+  "packages": [
+    "krb5"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

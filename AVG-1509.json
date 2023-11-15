@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.4.93-2",
+  "fixed": "5.4.94-1",
+  "issues": [
+    "CVE-2021-3347"
+  ],
+  "name": "AVG-1509",
+  "packages": [
+    "linux-lts"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

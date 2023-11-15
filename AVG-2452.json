@@ -1,0 +1,19 @@
+{
+  "advisories": [],
+  "affected": "94.0.4606.71-2",
+  "fixed": "94.0.4606.81-1",
+  "issues": [
+    "CVE-2021-37980",
+    "CVE-2021-37979",
+    "CVE-2021-37978",
+    "CVE-2021-37977"
+  ],
+  "name": "AVG-2452",
+  "packages": [
+    "chromium"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

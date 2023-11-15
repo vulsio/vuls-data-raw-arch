@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2021.9.1-1",
+  "fixed": "2021.10.0-1",
+  "issues": [
+    "CVE-2021-42343"
+  ],
+  "name": "AVG-2496",
+  "packages": [
+    "python-dask"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202105-2"
+  ],
+  "affected": "3.3.3-3",
+  "fixed": "4.0.1-1",
+  "issues": [
+    "CVE-2021-21241"
+  ],
+  "name": "AVG-1434",
+  "packages": [
+    "python-flask-security-too"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": "70041",
+  "type": "cross-site request forgery"
+}

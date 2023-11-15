@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201710-11"
+  ],
+  "affected": "3.99.5-3",
+  "fixed": "3.99.5-4",
+  "issues": [
+    "CVE-2017-15018"
+  ],
+  "name": "AVG-437",
+  "packages": [
+    "lame"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": "55889",
+  "type": "denial of service"
+}

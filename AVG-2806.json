@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "7.4.0-4",
+  "fixed": "7.4.1-1",
+  "issues": [
+    "CVE-2022-3140"
+  ],
+  "name": "AVG-2806",
+  "packages": [
+    "libreoffice-fresh"
+  ],
+  "severity": "Unknown",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "unknown"
+}

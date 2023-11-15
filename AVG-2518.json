@@ -1,0 +1,23 @@
+{
+  "advisories": [
+    "ASA-202111-3"
+  ],
+  "affected": "91.2.1-1",
+  "fixed": "91.3.0-1",
+  "issues": [
+    "CVE-2021-38509",
+    "CVE-2021-38508",
+    "CVE-2021-38507",
+    "CVE-2021-38506",
+    "CVE-2021-38504",
+    "CVE-2021-38503"
+  ],
+  "name": "AVG-2518",
+  "packages": [
+    "thunderbird"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

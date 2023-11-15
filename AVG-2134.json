@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "0.38-1",
+  "fixed": "0.39-1",
+  "issues": [
+    "CVE-2020-14355"
+  ],
+  "name": "AVG-2134",
+  "packages": [
+    "spice-gtk"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "8.5.5-1",
+  "fixed": "8.5.6-1",
+  "issues": [
+    "CVE-2018-14773"
+  ],
+  "name": "AVG-744",
+  "packages": [
+    "drupal"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "access restriction bypass"
+}

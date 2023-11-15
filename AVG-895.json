@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.0.0-2",
+  "fixed": null,
+  "issues": [
+    "CVE-2019-5736"
+  ],
+  "name": "AVG-895",
+  "packages": [
+    "podman-docker"
+  ],
+  "severity": "High",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "privilege escalation"
+}

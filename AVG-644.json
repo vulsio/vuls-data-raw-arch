@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201803-23"
+  ],
+  "affected": "3.2.0-2",
+  "fixed": "3.2.1-1",
+  "issues": [
+    "CVE-2017-12627"
+  ],
+  "name": "AVG-644",
+  "packages": [
+    "xerces-c"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

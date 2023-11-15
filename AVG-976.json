@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201906-9"
+  ],
+  "affected": "8.1.1186-1",
+  "fixed": "8.1.1467-1",
+  "issues": [
+    "CVE-2019-12735"
+  ],
+  "name": "AVG-976",
+  "packages": [
+    "gvim"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

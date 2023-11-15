@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.2.10-6",
+  "fixed": "1.2.10-7",
+  "issues": [
+    "CVE-2021-20314"
+  ],
+  "name": "AVG-2280",
+  "packages": [
+    "libspf2"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": "72802",
+  "type": "arbitrary code execution"
+}

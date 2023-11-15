@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-202009-4"
+  ],
+  "affected": "3.1-1",
+  "fixed": "3.1.1-1",
+  "issues": [
+    "CVE-2020-24584",
+    "CVE-2020-24583"
+  ],
+  "name": "AVG-1217",
+  "packages": [
+    "python-django"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": "67794",
+  "type": "multiple issues"
+}

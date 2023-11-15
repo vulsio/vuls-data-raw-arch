@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.13.1-1",
+  "fixed": "2.13.2-1",
+  "issues": [
+    "CVE-2021-21237"
+  ],
+  "name": "AVG-1458",
+  "packages": [
+    "git-lfs"
+  ],
+  "severity": "High",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "arbitrary command execution"
+}

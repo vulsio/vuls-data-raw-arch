@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202110-12"
+  ],
+  "affected": "9.16.21-1",
+  "fixed": "9.16.22-1",
+  "issues": [
+    "CVE-2021-25219"
+  ],
+  "name": "AVG-2502",
+  "packages": [
+    "bind"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

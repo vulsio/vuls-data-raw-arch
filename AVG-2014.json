@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.5.6-5",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-33560"
+  ],
+  "name": "AVG-2014",
+  "packages": [
+    "lib32-libgcrypt15"
+  ],
+  "severity": "Medium",
+  "status": "Vulnerable",
+  "ticket": null,
+  "type": "private key recovery"
+}

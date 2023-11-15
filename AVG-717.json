@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201806-9"
+  ],
+  "affected": "67.0.3396.79-1",
+  "fixed": "67.0.3396.87-1",
+  "issues": [
+    "CVE-2018-6149"
+  ],
+  "name": "AVG-717",
+  "packages": [
+    "chromium"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

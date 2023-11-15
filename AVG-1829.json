@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.9.4-1",
+  "fixed": "1.9.5-1",
+  "issues": [
+    "CVE-2020-25864"
+  ],
+  "name": "AVG-1829",
+  "packages": [
+    "consul"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "cross-site scripting"
+}

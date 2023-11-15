@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "5.12.13.hardened1-1",
+  "fixed": "5.12.14.hardened1-1",
+  "issues": [
+    "CVE-2021-35039",
+    "CVE-2021-22543"
+  ],
+  "name": "AVG-2121",
+  "packages": [
+    "linux-hardened"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

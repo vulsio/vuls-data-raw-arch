@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.30.6-1",
+  "fixed": "2.32.0-1",
+  "issues": [
+    "CVE-2021-30682"
+  ],
+  "name": "AVG-2217",
+  "packages": [
+    "wpewebkit"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "information disclosure"
+}

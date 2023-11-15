@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-202102-3"
+  ],
+  "affected": "3.4.2-1",
+  "fixed": "3.4.3-1",
+  "issues": [
+    "CVE-2021-22174",
+    "CVE-2021-22173"
+  ],
+  "name": "AVG-1510",
+  "packages": [
+    "wireshark-cli"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

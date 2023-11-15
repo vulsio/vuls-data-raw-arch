@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "7.6.0-1",
+  "fixed": "7.6.1-1",
+  "issues": [
+    "CVE-2023-0842"
+  ],
+  "name": "AVG-2841",
+  "packages": [
+    "web-ext"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "insufficient validation"
+}

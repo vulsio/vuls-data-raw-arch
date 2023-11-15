@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "4.11.6-3",
+  "fixed": "4.12.1-1",
+  "issues": [
+    "CVE-2017-1000379",
+    "CVE-2017-1000365"
+  ],
+  "name": "AVG-323",
+  "packages": [
+    "linux"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

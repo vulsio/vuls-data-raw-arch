@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.6.5-1",
+  "fixed": "1.6.6-1",
+  "issues": [
+    "CVE-2022-31030"
+  ],
+  "name": "AVG-2755",
+  "packages": [
+    "containerd"
+  ],
+  "severity": "Unknown",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

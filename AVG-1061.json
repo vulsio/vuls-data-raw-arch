@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201911-7"
+  ],
+  "affected": "7.0.0-1",
+  "fixed": "7.0.1-1",
+  "issues": [
+    "CVE-2019-13720"
+  ],
+  "name": "AVG-1061",
+  "packages": [
+    "electron"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

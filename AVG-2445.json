@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "8.1.5-1",
+  "fixed": "8.1.6-1",
+  "issues": [
+    "CVE-2021-39226"
+  ],
+  "name": "AVG-2445",
+  "packages": [
+    "grafana"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "authentication bypass"
+}

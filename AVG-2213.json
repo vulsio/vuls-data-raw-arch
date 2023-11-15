@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.30.4-2",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-30762"
+  ],
+  "name": "AVG-2213",
+  "packages": [
+    "wpewebkit"
+  ],
+  "severity": "High",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

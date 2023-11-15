@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "3.9.2-1",
+  "fixed": "3.9.3-1",
+  "issues": [
+    "CVE-2021-3426"
+  ],
+  "name": "AVG-1675",
+  "packages": [
+    "python"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "information disclosure"
+}

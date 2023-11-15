@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "13.9.1-1",
+  "fixed": "13.9.2-1",
+  "issues": [
+    "CVE-2021-22186",
+    "CVE-2021-22185"
+  ],
+  "name": "AVG-1648",
+  "packages": [
+    "gitlab"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

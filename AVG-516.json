@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1:3.4-5",
+  "fixed": "1:3.4.1-1",
+  "issues": [
+    "CVE-2017-16840"
+  ],
+  "name": "AVG-516",
+  "packages": [
+    "ffmpeg"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

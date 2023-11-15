@@ -1,0 +1,25 @@
+{
+  "advisories": [
+    "ASA-202104-4"
+  ],
+  "affected": "78.9.1-3",
+  "fixed": "78.10.0-1",
+  "issues": [
+    "CVE-2021-29948",
+    "CVE-2021-29946",
+    "CVE-2021-24002",
+    "CVE-2021-23999",
+    "CVE-2021-23998",
+    "CVE-2021-23995",
+    "CVE-2021-23994",
+    "CVE-2021-23961"
+  ],
+  "name": "AVG-1836",
+  "packages": [
+    "thunderbird"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

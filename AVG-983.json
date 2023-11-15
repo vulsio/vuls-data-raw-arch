@@ -1,0 +1,20 @@
+{
+  "advisories": [
+    "ASA-201906-13"
+  ],
+  "affected": "5.1.10.arch1-1",
+  "fixed": "5.1.11.arch1-1",
+  "issues": [
+    "CVE-2019-11479",
+    "CVE-2019-11478",
+    "CVE-2019-11477"
+  ],
+  "name": "AVG-983",
+  "packages": [
+    "linux"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

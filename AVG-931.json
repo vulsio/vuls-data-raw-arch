@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201903-15"
+  ],
+  "affected": "7.0.8.34-1",
+  "fixed": "7.0.8.35-1",
+  "issues": [
+    "CVE-2019-9956"
+  ],
+  "name": "AVG-931",
+  "packages": [
+    "imagemagick"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201705-14"
+  ],
+  "affected": "2.12.2-4",
+  "fixed": "2.13.0-1",
+  "issues": [
+    "CVE-2017-8386"
+  ],
+  "name": "AVG-267",
+  "packages": [
+    "git"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "access restriction bypass"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "0.30.2-1",
+  "fixed": "0.31.0-1",
+  "issues": [
+    "CVE-2021-21419"
+  ],
+  "name": "AVG-1928",
+  "packages": [
+    "python-eventlet"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

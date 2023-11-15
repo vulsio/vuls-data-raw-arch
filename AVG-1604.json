@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "15.9.0-1",
+  "fixed": "15.10.0-1",
+  "issues": [
+    "CVE-2021-22884",
+    "CVE-2021-22883"
+  ],
+  "name": "AVG-1604",
+  "packages": [
+    "nodejs"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

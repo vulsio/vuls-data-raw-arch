@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201704-12"
+  ],
+  "affected": "7.53.1-2",
+  "fixed": "7.54.0-1",
+  "issues": [
+    "CVE-2017-7468"
+  ],
+  "name": "AVG-241",
+  "packages": [
+    "curl"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "certificate verification bypass"
+}

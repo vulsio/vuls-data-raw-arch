@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.10.81-1",
+  "fixed": "5.10.82-1",
+  "issues": [
+    "CVE-2021-4002"
+  ],
+  "name": "AVG-2589",
+  "packages": [
+    "linux-lts"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

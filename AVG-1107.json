@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202003-1"
+  ],
+  "affected": "80.0.3987.122-1",
+  "fixed": "80.0.3987.132-1",
+  "issues": [
+    "CVE-2020-6420"
+  ],
+  "name": "AVG-1107",
+  "packages": [
+    "chromium"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "access restriction bypass"
+}

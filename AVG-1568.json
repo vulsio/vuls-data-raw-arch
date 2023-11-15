@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202102-43"
+  ],
+  "affected": "0.13.0-1",
+  "fixed": "0.14.0-1",
+  "issues": [
+    "CVE-2020-13949"
+  ],
+  "name": "AVG-1568",
+  "packages": [
+    "thrift"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

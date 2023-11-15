@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.0.0-1",
+  "fixed": "1.0.1-1",
+  "issues": [
+    "CVE-2021-32765"
+  ],
+  "name": "AVG-2441",
+  "packages": [
+    "hiredis"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.8-1",
+  "fixed": "5.8.1-1",
+  "issues": [
+    "CVE-2021-39200"
+  ],
+  "name": "AVG-2373",
+  "packages": [
+    "wordpress"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "information disclosure"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "3.4.4-1",
+  "fixed": "3.4.5-1",
+  "issues": [
+    "CVE-2021-22207"
+  ],
+  "name": "AVG-1864",
+  "packages": [
+    "wireshark-cli"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "4.20.11.arch1-1",
+  "fixed": "4.20.12.arch1-1",
+  "issues": [
+    "CVE-2019-8912"
+  ],
+  "name": "AVG-989",
+  "packages": [
+    "linux"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "0.9.11-3",
+  "fixed": "0.9.12-1",
+  "issues": [
+    "CVE-2018-7226",
+    "CVE-2018-7225"
+  ],
+  "name": "AVG-628",
+  "packages": [
+    "libvncserver"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

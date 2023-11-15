@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "83.0-2",
+  "fixed": "84.0-1",
+  "issues": [
+    "CVE-2020-26977",
+    "CVE-2020-26975"
+  ],
+  "name": "AVG-1363",
+  "packages": [
+    "firefox"
+  ],
+  "severity": "Medium",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "multiple issues"
+}

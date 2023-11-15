@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.1.0a-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2016-6309"
+  ],
+  "name": "AVG-31",
+  "packages": [
+    "openssl"
+  ],
+  "severity": "Critical",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

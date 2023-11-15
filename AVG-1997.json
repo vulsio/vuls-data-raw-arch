@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-202106-6"
+  ],
+  "affected": "7.76.1-1",
+  "fixed": "7.77.0-1",
+  "issues": [
+    "CVE-2021-22901",
+    "CVE-2021-22898"
+  ],
+  "name": "AVG-1997",
+  "packages": [
+    "libcurl-compat"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

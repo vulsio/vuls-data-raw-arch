@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.7.0-1",
+  "fixed": "5.7.1-1",
+  "issues": [
+    "CVE-2018-7408"
+  ],
+  "name": "AVG-626",
+  "packages": [
+    "npm"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "access restriction bypass"
+}

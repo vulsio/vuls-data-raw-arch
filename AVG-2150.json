@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202107-26"
+  ],
+  "affected": "8.2.0-2",
+  "fixed": "8.3.0-1",
+  "issues": [
+    "CVE-2021-34552"
+  ],
+  "name": "AVG-2150",
+  "packages": [
+    "python-pillow"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

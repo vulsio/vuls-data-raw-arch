@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.9.6.arch1-1",
+  "fixed": "5.9.7.arch1-1",
+  "issues": [
+    "CVE-2020-25704"
+  ],
+  "name": "AVG-1268",
+  "packages": [
+    "linux"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

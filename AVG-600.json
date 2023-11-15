@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201801-31"
+  ],
+  "affected": "0.3.2-1",
+  "fixed": "0.3.2-2",
+  "issues": [
+    "CVE-2017-17858"
+  ],
+  "name": "AVG-600",
+  "packages": [
+    "zathura-pdf-mupdf"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

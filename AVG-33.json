@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201609-30"
+  ],
+  "affected": "1.0.2.i-1",
+  "fixed": "1.0.2.j-1",
+  "issues": [
+    "CVE-2016-7052"
+  ],
+  "name": "AVG-33",
+  "packages": [
+    "openssl"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

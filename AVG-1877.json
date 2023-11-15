@@ -1,0 +1,20 @@
+{
+  "advisories": [],
+  "affected": "89.0.4389.128-1",
+  "fixed": "90.0.4430.72-1",
+  "issues": [
+    "CVE-2021-21212",
+    "CVE-2021-21211",
+    "CVE-2021-21208",
+    "CVE-2021-21205",
+    "CVE-2021-21204"
+  ],
+  "name": "AVG-1877",
+  "packages": [
+    "chromium"
+  ],
+  "severity": "High",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "multiple issues"
+}

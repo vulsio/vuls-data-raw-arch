@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201912-4"
+  ],
+  "affected": "4.7-3",
+  "fixed": "4.8-1",
+  "issues": [
+    "CVE-2019-19882"
+  ],
+  "name": "AVG-1079",
+  "packages": [
+    "shadow"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": "64836",
+  "type": "privilege escalation"
+}

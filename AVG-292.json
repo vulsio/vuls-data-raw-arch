@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201706-35"
+  ],
+  "affected": "3.2.29-2",
+  "fixed": "3.3.0-1",
+  "issues": [
+    "CVE-2017-0553"
+  ],
+  "name": "AVG-292",
+  "packages": [
+    "libnl"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "privilege escalation"
+}

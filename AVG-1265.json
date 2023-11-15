@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202011-6"
+  ],
+  "affected": "82.0.2-1",
+  "fixed": "82.0.3-1",
+  "issues": [
+    "CVE-2020-26950"
+  ],
+  "name": "AVG-1265",
+  "packages": [
+    "firefox"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

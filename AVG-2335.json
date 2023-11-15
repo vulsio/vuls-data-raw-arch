@@ -1,0 +1,18 @@
+{
+  "advisories": [],
+  "affected": "14.2.1-1",
+  "fixed": "14.2.2-1",
+  "issues": [
+    "CVE-2021-22258",
+    "CVE-2021-22257",
+    "CVE-2021-22238"
+  ],
+  "name": "AVG-2335",
+  "packages": [
+    "gitlab"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

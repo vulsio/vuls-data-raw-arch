@@ -1,0 +1,29 @@
+{
+  "advisories": [
+    "ASA-201805-21"
+  ],
+  "affected": "52.7.0-2",
+  "fixed": "52.8.0-1",
+  "issues": [
+    "CVE-2018-5185",
+    "CVE-2018-5184",
+    "CVE-2018-5183",
+    "CVE-2018-5178",
+    "CVE-2018-5170",
+    "CVE-2018-5168",
+    "CVE-2018-5162",
+    "CVE-2018-5161",
+    "CVE-2018-5159",
+    "CVE-2018-5155",
+    "CVE-2018-5154",
+    "CVE-2018-5150"
+  ],
+  "name": "AVG-707",
+  "packages": [
+    "thunderbird"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

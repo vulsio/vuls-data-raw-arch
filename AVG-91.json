@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201612-2"
+  ],
+  "affected": "45.5.0-1",
+  "fixed": "45.5.1-1",
+  "issues": [
+    "CVE-2016-9079"
+  ],
+  "name": "AVG-91",
+  "packages": [
+    "thunderbird"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

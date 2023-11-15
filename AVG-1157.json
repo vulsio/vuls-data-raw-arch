@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202005-11"
+  ],
+  "affected": "1:8.05-1",
+  "fixed": "1:8.10-1",
+  "issues": [
+    "CVE-2020-12823"
+  ],
+  "name": "AVG-1157",
+  "packages": [
+    "openconnect"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "42.1-1",
+  "fixed": "42.2-1",
+  "issues": [
+    "CVE-2022-29536"
+  ],
+  "name": "AVG-2684",
+  "packages": [
+    "epiphany"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

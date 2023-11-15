@@ -1,0 +1,19 @@
+{
+  "advisories": [],
+  "affected": "6.8.3-1",
+  "fixed": "7.0-1",
+  "issues": [
+    "CVE-2021-29429",
+    "CVE-2021-29428",
+    "CVE-2021-29427"
+  ],
+  "name": "AVG-1809",
+  "packages": [
+    "gradle",
+    "gradle-src"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

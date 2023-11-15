@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "0.9.2-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-3563"
+  ],
+  "name": "AVG-1979",
+  "packages": [
+    "keystone"
+  ],
+  "severity": "Medium",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "private key recovery"
+}

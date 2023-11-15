@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "3.2.3-5",
+  "fixed": null,
+  "issues": [
+    "CVE-2018-1311"
+  ],
+  "name": "AVG-1354",
+  "packages": [
+    "xerces-c"
+  ],
+  "severity": "Medium",
+  "status": "Vulnerable",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

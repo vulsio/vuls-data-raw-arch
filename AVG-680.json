@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "66.0.3359.117-1",
+  "fixed": "66.0.3359.139-1",
+  "issues": [
+    "CVE-2018-6118"
+  ],
+  "name": "AVG-680",
+  "packages": [
+    "chromium"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

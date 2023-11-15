@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.13.1-1",
+  "fixed": "1.13.2-1",
+  "issues": [
+    "CVE-2021-3382"
+  ],
+  "name": "AVG-1538",
+  "packages": [
+    "gitea"
+  ],
+  "severity": "Medium",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "denial of service"
+}

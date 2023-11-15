@@ -1,0 +1,20 @@
+{
+  "advisories": [
+    "ASA-201804-3"
+  ],
+  "affected": "0.13.68-1",
+  "fixed": "0.13.69-1",
+  "issues": [
+    "CVE-2018-7727",
+    "CVE-2018-7726",
+    "CVE-2018-7725"
+  ],
+  "name": "AVG-612",
+  "packages": [
+    "zziplib"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

@@ -1,0 +1,19 @@
+{
+  "advisories": [],
+  "affected": "2.26.0-1",
+  "fixed": "2.27.0-1",
+  "issues": [
+    "CVE-2017-7226",
+    "CVE-2017-7225",
+    "CVE-2017-7224",
+    "CVE-2017-7223"
+  ],
+  "name": "AVG-936",
+  "packages": [
+    "binutils"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

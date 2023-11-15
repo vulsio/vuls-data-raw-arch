@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "4.9.34-1",
+  "fixed": "4.9.35-1",
+  "issues": [
+    "CVE-2017-1000365"
+  ],
+  "name": "AVG-990",
+  "packages": [
+    "linux-lts"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "insufficient validation"
+}

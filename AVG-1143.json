@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-202004-22"
+  ],
+  "affected": "81.0.4044.122-2",
+  "fixed": "81.0.4044.129-1",
+  "issues": [
+    "CVE-2020-6462",
+    "CVE-2020-6461"
+  ],
+  "name": "AVG-1143",
+  "packages": [
+    "chromium"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

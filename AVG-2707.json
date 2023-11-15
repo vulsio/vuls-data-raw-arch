@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.1.1-1",
+  "fixed": "1.1.2-1",
+  "issues": [
+    "CVE-2022-29162"
+  ],
+  "name": "AVG-2707",
+  "packages": [
+    "runc"
+  ],
+  "severity": "Low",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "incorrect calculation"
+}

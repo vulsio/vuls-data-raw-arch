@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201907-6"
+  ],
+  "affected": "75.0.3770.100-1",
+  "fixed": "75.0.3770.142-1",
+  "issues": [
+    "CVE-2019-5848",
+    "CVE-2019-5847"
+  ],
+  "name": "AVG-1005",
+  "packages": [
+    "chromium"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

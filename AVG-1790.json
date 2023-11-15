@@ -1,0 +1,19 @@
+{
+  "advisories": [],
+  "affected": "78.9.0-1",
+  "fixed": "78.9.1-1",
+  "issues": [
+    "CVE-2021-29949",
+    "CVE-2021-23993",
+    "CVE-2021-23992",
+    "CVE-2021-23991"
+  ],
+  "name": "AVG-1790",
+  "packages": [
+    "thunderbird"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

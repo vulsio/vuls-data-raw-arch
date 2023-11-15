@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.11.18.hardened1-1",
+  "fixed": "5.11.19.hardened1-1",
+  "issues": [
+    "CVE-2021-31829"
+  ],
+  "name": "AVG-1931",
+  "packages": [
+    "linux-hardened"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "information disclosure"
+}

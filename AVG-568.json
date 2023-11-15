@@ -1,0 +1,22 @@
+{
+  "advisories": [],
+  "affected": "4.13.11-1",
+  "fixed": "4.14-1",
+  "issues": [
+    "CVE-2017-16650",
+    "CVE-2017-16649",
+    "CVE-2017-16648",
+    "CVE-2017-16647",
+    "CVE-2017-16646",
+    "CVE-2017-16645",
+    "CVE-2017-16643"
+  ],
+  "name": "AVG-568",
+  "packages": [
+    "linux-hardened"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

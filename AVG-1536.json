@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "3.34.0-1",
+  "fixed": "3.34.1-1",
+  "issues": [
+    "CVE-2021-20227"
+  ],
+  "name": "AVG-1536",
+  "packages": [
+    "sqlite"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

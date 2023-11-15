@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "4.3.0-3",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-32294"
+  ],
+  "name": "AVG-2405",
+  "packages": [
+    "libgig"
+  ],
+  "severity": "Medium",
+  "status": "Vulnerable",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

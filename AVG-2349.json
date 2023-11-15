@@ -1,0 +1,18 @@
+{
+  "advisories": [],
+  "affected": "5.10.61-2",
+  "fixed": "5.10.62-1",
+  "issues": [
+    "CVE-2021-3753",
+    "CVE-2021-3743",
+    "CVE-2021-3739"
+  ],
+  "name": "AVG-2349",
+  "packages": [
+    "linux-lts"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

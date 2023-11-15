@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.3.20-6",
+  "fixed": "1.3.21-1",
+  "issues": [
+    "CVE-2021-3622"
+  ],
+  "name": "AVG-2248",
+  "packages": [
+    "hivex"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

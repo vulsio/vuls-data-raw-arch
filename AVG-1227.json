@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "0.4.15-2",
+  "fixed": "0.4.16-1",
+  "issues": [
+    "CVE-2020-25219"
+  ],
+  "name": "AVG-1227",
+  "packages": [
+    "lib32-libproxy"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

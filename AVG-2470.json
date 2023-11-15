@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "9.0.53-1",
+  "fixed": "9.0.54-1",
+  "issues": [
+    "CVE-2021-42340"
+  ],
+  "name": "AVG-2470",
+  "packages": [
+    "tomcat9"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

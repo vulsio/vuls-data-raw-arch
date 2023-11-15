@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.12.0-2",
+  "fixed": null,
+  "issues": [
+    "CVE-2020-23109"
+  ],
+  "name": "AVG-2520",
+  "packages": [
+    "libheif"
+  ],
+  "severity": "Medium",
+  "status": "Vulnerable",
+  "ticket": null,
+  "type": "information disclosure"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "6.9.8.8-2",
+  "fixed": "6.9.8.9-1",
+  "issues": [
+    "CVE-2017-11352"
+  ],
+  "name": "AVG-354",
+  "packages": [
+    "imagemagick"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.2.5-1",
+  "fixed": "2.2.5-2",
+  "issues": [
+    "CVE-2018-9234"
+  ],
+  "name": "AVG-943",
+  "packages": [
+    "gnupg"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "insufficient validation"
+}

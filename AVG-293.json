@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201706-11"
+  ],
+  "affected": "1.0.2-2",
+  "fixed": "1.0.3-1",
+  "issues": [
+    "CVE-2017-9469",
+    "CVE-2017-9468"
+  ],
+  "name": "AVG-293",
+  "packages": [
+    "irssi"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

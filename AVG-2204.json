@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "6.2.4-1",
+  "fixed": "6.2.5-1",
+  "issues": [
+    "CVE-2021-32761"
+  ],
+  "name": "AVG-2204",
+  "packages": [
+    "redis"
+  ],
+  "severity": "High",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

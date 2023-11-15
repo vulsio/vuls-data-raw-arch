@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.14.14.arch1-1",
+  "fixed": "5.14.15.arch1-1",
+  "issues": [
+    "CVE-2021-43056"
+  ],
+  "name": "AVG-2501",
+  "packages": [
+    "linux"
+  ],
+  "severity": "Low",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "denial of service"
+}

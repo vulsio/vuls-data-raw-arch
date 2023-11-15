@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1:18.09.6-1",
+  "fixed": "1:18.09.7-1",
+  "issues": [
+    "CVE-2018-15664"
+  ],
+  "name": "AVG-968",
+  "packages": [
+    "docker"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "privilege escalation"
+}

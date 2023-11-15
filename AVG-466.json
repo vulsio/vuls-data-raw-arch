@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201711-7"
+  ],
+  "affected": "7.56.0-1",
+  "fixed": "7.56.1-1",
+  "issues": [
+    "CVE-2017-1000257"
+  ],
+  "name": "AVG-466",
+  "packages": [
+    "lib32-curl"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "information disclosure"
+}

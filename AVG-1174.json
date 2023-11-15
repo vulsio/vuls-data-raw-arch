@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.10.0-1",
+  "fixed": "6.3.0-1",
+  "issues": [
+    "CVE-2020-10703"
+  ],
+  "name": "AVG-1174",
+  "packages": [
+    "libvirt"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

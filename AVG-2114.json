@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.7.0-4",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-35958"
+  ],
+  "name": "AVG-2114",
+  "packages": [
+    "tensorflow"
+  ],
+  "severity": "Medium",
+  "status": "Vulnerable",
+  "ticket": null,
+  "type": "arbitrary file overwrite"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.10-2",
+  "fixed": null,
+  "issues": [
+    "CVE-2019-8341"
+  ],
+  "name": "AVG-904",
+  "packages": [
+    "python-jinja"
+  ],
+  "severity": "Medium",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "content spoofing"
+}

@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "5.11.19.hardened1-1",
+  "fixed": "5.11.20.hardened1-1",
+  "issues": [
+    "CVE-2021-3543",
+    "CVE-2021-3506"
+  ],
+  "name": "AVG-1954",
+  "packages": [
+    "linux-hardened"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

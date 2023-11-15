@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201707-1"
+  ],
+  "affected": "1.7.7-1",
+  "fixed": "1.7.8-1",
+  "issues": [
+    "CVE-2017-7526"
+  ],
+  "name": "AVG-338",
+  "packages": [
+    "libgcrypt"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "private key recovery"
+}

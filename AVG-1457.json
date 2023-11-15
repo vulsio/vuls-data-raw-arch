@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202101-39"
+  ],
+  "affected": "23.2-3",
+  "fixed": "23.2.2-1",
+  "issues": [
+    "CVE-2020-35733"
+  ],
+  "name": "AVG-1457",
+  "packages": [
+    "erlang"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "certificate verification bypass"
+}

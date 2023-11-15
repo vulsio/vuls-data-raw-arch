@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201807-7"
+  ],
+  "affected": "7.60.0-1",
+  "fixed": "7.61.0-1",
+  "issues": [
+    "CVE-2018-0500"
+  ],
+  "name": "AVG-732",
+  "packages": [
+    "lib32-libcurl-gnutls"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

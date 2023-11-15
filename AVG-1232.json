@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202009-8"
+  ],
+  "affected": "6.5.0-1",
+  "fixed": "6.5.0-2",
+  "issues": [
+    "CVE-2020-14339"
+  ],
+  "name": "AVG-1232",
+  "packages": [
+    "libvirt"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": "67807",
+  "type": "privilege escalation"
+}

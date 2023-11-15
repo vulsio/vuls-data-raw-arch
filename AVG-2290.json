@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "13.3-3",
+  "fixed": "13.4-1",
+  "issues": [
+    "CVE-2021-3677"
+  ],
+  "name": "AVG-2290",
+  "packages": [
+    "postgresql"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "information disclosure"
+}

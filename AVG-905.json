@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201902-22"
+  ],
+  "affected": "1.8.2-1",
+  "fixed": "1.8.3-1",
+  "issues": [
+    "CVE-2019-8337"
+  ],
+  "name": "AVG-905",
+  "packages": [
+    "msmtp"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "certificate verification bypass"
+}

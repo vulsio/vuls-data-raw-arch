@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "1.9.3+7+g24fe30e-2",
+  "fixed": "1:1.9.3-1",
+  "issues": [
+    "CVE-2021-3404",
+    "CVE-2021-3403"
+  ],
+  "name": "AVG-1552",
+  "packages": [
+    "libytnef"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": "70056",
+  "type": "arbitrary code execution"
+}

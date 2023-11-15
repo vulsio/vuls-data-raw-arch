@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "7.76.1-1",
+  "fixed": "7.77.0-1",
+  "issues": [
+    "CVE-2021-22897"
+  ],
+  "name": "AVG-2016",
+  "packages": [
+    "curl"
+  ],
+  "severity": "Low",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "incorrect calculation"
+}

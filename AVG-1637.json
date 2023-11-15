@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.3.10-1",
+  "fixed": "2.4.0-1",
+  "issues": [
+    "CVE-2021-26813"
+  ],
+  "name": "AVG-1637",
+  "packages": [
+    "python-markdown2"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

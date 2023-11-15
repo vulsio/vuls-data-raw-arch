@@ -1,0 +1,20 @@
+{
+  "advisories": [
+    "ASA-202106-50"
+  ],
+  "affected": "0.4.5.8-2",
+  "fixed": "0.4.5.9-1",
+  "issues": [
+    "CVE-2021-34550",
+    "CVE-2021-34549",
+    "CVE-2021-34548"
+  ],
+  "name": "AVG-2075",
+  "packages": [
+    "tor"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

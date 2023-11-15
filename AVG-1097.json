@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-202002-6"
+  ],
+  "affected": "2.3.9.2-1",
+  "fixed": "2.3.9.3-1",
+  "issues": [
+    "CVE-2020-7957",
+    "CVE-2020-7046"
+  ],
+  "name": "AVG-1097",
+  "packages": [
+    "dovecot"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "4.9.56-1",
+  "fixed": "4.9.57-1",
+  "issues": [
+    "CVE-2017-15265"
+  ],
+  "name": "AVG-510",
+  "packages": [
+    "linux-lts"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "privilege escalation"
+}

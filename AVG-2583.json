@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.4.2-1",
+  "fixed": "5.5.2-1",
+  "issues": [
+    "CVE-2021-4021"
+  ],
+  "name": "AVG-2583",
+  "packages": [
+    "radare2"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.27.0-1",
+  "fixed": "2.28.0-1",
+  "issues": [
+    "CVE-2017-7227"
+  ],
+  "name": "AVG-937",
+  "packages": [
+    "binutils"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

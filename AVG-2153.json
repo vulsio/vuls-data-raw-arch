@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202107-27"
+  ],
+  "affected": "2.25.0-1",
+  "fixed": "2.26.0-1",
+  "issues": [
+    "CVE-2021-24119"
+  ],
+  "name": "AVG-2153",
+  "packages": [
+    "mbedtls"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "information disclosure"
+}

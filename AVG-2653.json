@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.4.0-1",
+  "fixed": "5.16.12.arch1-1",
+  "issues": [
+    "CVE-2022-25636"
+  ],
+  "name": "AVG-2653",
+  "packages": [
+    "linux"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "privilege escalation"
+}

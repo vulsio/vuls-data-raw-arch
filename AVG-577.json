@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201801-6"
+  ],
+  "affected": "4.9.74-1",
+  "fixed": "4.9.75-1",
+  "issues": [
+    "CVE-2017-5754"
+  ],
+  "name": "AVG-577",
+  "packages": [
+    "linux-lts"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "access restriction bypass"
+}

@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-202005-1"
+  ],
+  "affected": "2019.2.3-1",
+  "fixed": "2019.2.4-1",
+  "issues": [
+    "CVE-2020-11652",
+    "CVE-2020-11651"
+  ],
+  "name": "AVG-1147",
+  "packages": [
+    "salt"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

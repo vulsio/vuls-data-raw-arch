@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.4.76-1",
+  "fixed": "5.4.77-1",
+  "issues": [
+    "CVE-2020-8694"
+  ],
+  "name": "AVG-1275",
+  "packages": [
+    "linux-lts"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "information disclosure"
+}

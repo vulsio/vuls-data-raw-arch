@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "3.0.2-2",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-41816"
+  ],
+  "name": "AVG-2582",
+  "packages": [
+    "ruby"
+  ],
+  "severity": "Medium",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

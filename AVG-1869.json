@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "12.16-1",
+  "fixed": "12.25-1",
+  "issues": [
+    "CVE-2021-22204"
+  ],
+  "name": "AVG-1869",
+  "packages": [
+    "perl-image-exiftool"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.11.2.zen1-1",
+  "fixed": "5.11.3.zen1-1",
+  "issues": [
+    "CVE-2020-25639"
+  ],
+  "name": "AVG-1646",
+  "packages": [
+    "linux-zen"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

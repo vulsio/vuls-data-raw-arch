@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2021.09.03-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-41137"
+  ],
+  "name": "AVG-2467",
+  "packages": [
+    "minio"
+  ],
+  "severity": "High",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "access restriction bypass"
+}

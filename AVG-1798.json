@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.11.12.zen1-1",
+  "fixed": "5.11.13.zen1-1",
+  "issues": [
+    "CVE-2021-29154"
+  ],
+  "name": "AVG-1798",
+  "packages": [
+    "linux-zen"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "privilege escalation"
+}

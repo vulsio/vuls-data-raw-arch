@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201701-19"
+  ],
+  "affected": "1:1.12.5-1",
+  "fixed": "1:1.12.6-1",
+  "issues": [
+    "CVE-2016-9962"
+  ],
+  "name": "AVG-133",
+  "packages": [
+    "docker"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": "52493",
+  "type": "privilege escalation"
+}

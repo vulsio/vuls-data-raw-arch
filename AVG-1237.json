@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.7.19.a-1",
+  "fixed": "5.8.a-1",
+  "issues": [
+    "CVE-2020-14386"
+  ],
+  "name": "AVG-1237",
+  "packages": [
+    "linux-hardened"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "privilege escalation"
+}

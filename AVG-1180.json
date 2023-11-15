@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202007-4"
+  ],
+  "affected": "2:4.2.3-2",
+  "fixed": "2:4.3.1-1",
+  "issues": [
+    "CVE-2020-13904"
+  ],
+  "name": "AVG-1180",
+  "packages": [
+    "ffmpeg"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

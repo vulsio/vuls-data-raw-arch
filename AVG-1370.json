@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.5.2-3",
+  "fixed": null,
+  "issues": [
+    "CVE-2020-22083"
+  ],
+  "name": "AVG-1370",
+  "packages": [
+    "python-jsonpickle"
+  ],
+  "severity": "Low",
+  "status": "Vulnerable",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

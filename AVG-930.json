@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201903-14"
+  ],
+  "affected": "66.0-1",
+  "fixed": "66.0.1-1",
+  "issues": [
+    "CVE-2019-9813",
+    "CVE-2019-9810"
+  ],
+  "name": "AVG-930",
+  "packages": [
+    "firefox"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

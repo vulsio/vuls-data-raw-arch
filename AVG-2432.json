@@ -1,0 +1,21 @@
+{
+  "advisories": [],
+  "affected": "14.3.0-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-39889",
+    "CVE-2021-39888",
+    "CVE-2021-39885",
+    "CVE-2021-39884",
+    "CVE-2021-39883",
+    "CVE-2021-22259"
+  ],
+  "name": "AVG-2432",
+  "packages": [
+    "gitlab"
+  ],
+  "severity": "High",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "multiple issues"
+}

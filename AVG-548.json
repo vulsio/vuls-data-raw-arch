@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.1.0.g-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2017-3737"
+  ],
+  "name": "AVG-548",
+  "packages": [
+    "openssl"
+  ],
+  "severity": "Medium",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "information disclosure"
+}

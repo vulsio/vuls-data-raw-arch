@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-202107-43"
+  ],
+  "affected": "1.10.10-1",
+  "fixed": "1.10.11-1",
+  "issues": [
+    "CVE-2021-36374",
+    "CVE-2021-36373"
+  ],
+  "name": "AVG-2151",
+  "packages": [
+    "ant"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

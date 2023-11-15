@@ -1,0 +1,18 @@
+{
+  "advisories": [],
+  "affected": "340.104-20",
+  "fixed": "390.25-1",
+  "issues": [
+    "CVE-2017-5754",
+    "CVE-2017-5753",
+    "CVE-2017-5715"
+  ],
+  "name": "AVG-584",
+  "packages": [
+    "nvidia-dkms"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "access restriction bypass"
+}

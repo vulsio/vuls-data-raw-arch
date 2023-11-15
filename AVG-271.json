@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201705-16"
+  ],
+  "affected": "2.4.1-2",
+  "fixed": "2.4.2-1",
+  "issues": [
+    "CVE-2017-7479",
+    "CVE-2017-7478"
+  ],
+  "name": "AVG-271",
+  "packages": [
+    "openvpn"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

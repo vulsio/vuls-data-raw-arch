@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.11.6.zen1-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-3428"
+  ],
+  "name": "AVG-1695",
+  "packages": [
+    "linux-zen"
+  ],
+  "severity": "Medium",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "denial of service"
+}

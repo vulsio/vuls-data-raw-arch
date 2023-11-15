@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202107-44"
+  ],
+  "affected": "3.4.6-1",
+  "fixed": "3.4.7-1",
+  "issues": [
+    "CVE-2021-22235"
+  ],
+  "name": "AVG-2160",
+  "packages": [
+    "wireshark-cli"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

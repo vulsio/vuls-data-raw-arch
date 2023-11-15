@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "7.51-1",
+  "fixed": "7.52-1",
+  "issues": [
+    "CVE-2016-9451"
+  ],
+  "name": "AVG-75",
+  "packages": [
+    "drupal"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "open redirect"
+}

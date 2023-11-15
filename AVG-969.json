@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201906-2"
+  ],
+  "affected": "2.2.1-1",
+  "fixed": "2.2.2-1",
+  "issues": [
+    "CVE-2019-12308",
+    "CVE-2019-11358"
+  ],
+  "name": "AVG-969",
+  "packages": [
+    "python-django"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "cross-site scripting"
+}

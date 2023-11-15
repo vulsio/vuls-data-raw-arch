@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.10.14.zen1-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-20194"
+  ],
+  "name": "AVG-1560",
+  "packages": [
+    "linux-zen"
+  ],
+  "severity": "Medium",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "privilege escalation"
+}

@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201908-17"
+  ],
+  "affected": "1.39.1-1",
+  "fixed": "1.39.2-1",
+  "issues": [
+    "CVE-2019-9513",
+    "CVE-2019-9511"
+  ],
+  "name": "AVG-1024",
+  "packages": [
+    "libnghttp2"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

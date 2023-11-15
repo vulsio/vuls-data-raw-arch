@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.2.16-1",
+  "fixed": "1.2.16-2",
+  "issues": [
+    "CVE-2020-35701"
+  ],
+  "name": "AVG-1433",
+  "packages": [
+    "cacti"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": "69300",
+  "type": "arbitrary code execution"
+}

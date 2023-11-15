@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201903-10"
+  ],
+  "affected": "5.0.3-1",
+  "fixed": "5.1-1",
+  "issues": [
+    "CVE-2019-8943"
+  ],
+  "name": "AVG-909",
+  "packages": [
+    "wordpress"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "directory traversal"
+}

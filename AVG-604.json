@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "1:5.5.4-1",
+  "fixed": "1:5.5.5-1",
+  "issues": [
+    "CVE-2012-6706"
+  ],
+  "name": "AVG-604",
+  "packages": [
+    "unrar",
+    "libunrar"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

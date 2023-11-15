@@ -1,0 +1,23 @@
+{
+  "advisories": [
+    "ASA-201611-25",
+    "ASA-201611-24"
+  ],
+  "affected": "2.2.1-1",
+  "fixed": "2.2.2-1",
+  "issues": [
+    "CVE-2016-9376",
+    "CVE-2016-9375",
+    "CVE-2016-9374",
+    "CVE-2016-9373"
+  ],
+  "name": "AVG-78",
+  "packages": [
+    "wireshark-qt",
+    "wireshark-cli"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

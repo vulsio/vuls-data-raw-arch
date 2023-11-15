@@ -1,0 +1,18 @@
+{
+  "advisories": [],
+  "affected": "2.185-1",
+  "fixed": "2.186-1",
+  "issues": [
+    "CVE-2019-10354",
+    "CVE-2019-10353",
+    "CVE-2019-10352"
+  ],
+  "name": "AVG-1012",
+  "packages": [
+    "jenkins"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

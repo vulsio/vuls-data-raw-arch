@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.6-2",
+  "fixed": "2.8.0-1",
+  "issues": [
+    "CVE-2021-29425"
+  ],
+  "name": "AVG-1805",
+  "packages": [
+    "java-commons-io"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "directory traversal"
+}

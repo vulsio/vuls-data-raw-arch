@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.10.14.arch1-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-20194"
+  ],
+  "name": "AVG-1558",
+  "packages": [
+    "linux"
+  ],
+  "severity": "Medium",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "privilege escalation"
+}

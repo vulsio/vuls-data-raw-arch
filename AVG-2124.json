@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1:7.3.0-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-3631"
+  ],
+  "name": "AVG-2124",
+  "packages": [
+    "libvirt"
+  ],
+  "severity": "Medium",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "information disclosure"
+}

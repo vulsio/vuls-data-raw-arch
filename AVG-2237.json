@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202108-11"
+  ],
+  "affected": "1:0.11.9-2",
+  "fixed": "1:0.11.10-1",
+  "issues": [
+    "CVE-2021-37601"
+  ],
+  "name": "AVG-2237",
+  "packages": [
+    "prosody"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": "71641",
+  "type": "information disclosure"
+}

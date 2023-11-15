@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.6.25-2",
+  "fixed": "1.14.0-1",
+  "issues": [
+    "CVE-2020-13848"
+  ],
+  "name": "AVG-1175",
+  "packages": [
+    "libupnp"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.4.2-1",
+  "fixed": "5.5-1",
+  "issues": [
+    "CVE-2018-1071"
+  ],
+  "name": "AVG-652",
+  "packages": [
+    "zsh"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

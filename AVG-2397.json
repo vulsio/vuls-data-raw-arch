@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "0.6.1-2",
+  "fixed": "0.6.2-1",
+  "issues": [
+    "CVE-2021-41387"
+  ],
+  "name": "AVG-2397",
+  "packages": [
+    "seatd"
+  ],
+  "severity": "High",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "privilege escalation"
+}

@@ -1,0 +1,18 @@
+{
+  "advisories": [],
+  "affected": "455.45.01-1",
+  "fixed": "460.32.03-1",
+  "issues": [
+    "CVE-2021-1055",
+    "CVE-2021-1054",
+    "CVE-2021-1051"
+  ],
+  "name": "AVG-1418",
+  "packages": [
+    "nvidia-utils"
+  ],
+  "severity": "High",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "multiple issues"
+}

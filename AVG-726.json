@@ -1,0 +1,20 @@
+{
+  "advisories": [
+    "ASA-201807-1"
+  ],
+  "affected": "11.0.0-1",
+  "fixed": "11.0.1-1",
+  "issues": [
+    "CVE-2018-3740",
+    "CVE-2018-12607",
+    "CVE-2018-12606"
+  ],
+  "name": "AVG-726",
+  "packages": [
+    "gitlab"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

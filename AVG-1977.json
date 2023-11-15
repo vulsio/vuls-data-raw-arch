@@ -1,0 +1,18 @@
+{
+  "advisories": [],
+  "affected": "0.52-2",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-33481",
+    "CVE-2021-33480",
+    "CVE-2021-33479"
+  ],
+  "name": "AVG-1977",
+  "packages": [
+    "gocr"
+  ],
+  "severity": "Medium",
+  "status": "Vulnerable",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

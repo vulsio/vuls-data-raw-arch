@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202101-33"
+  ],
+  "affected": "5.10.6.arch1-1",
+  "fixed": "5.10.7.arch1-1",
+  "issues": [
+    "CVE-2020-28374"
+  ],
+  "name": "AVG-1442",
+  "packages": [
+    "linux"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "directory traversal"
+}

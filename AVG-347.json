@@ -1,0 +1,20 @@
+{
+  "advisories": [
+    "ASA-201707-19",
+    "ASA-201707-22"
+  ],
+  "affected": "8.0.0628-1",
+  "fixed": "8.0.0722-1",
+  "issues": [
+    "CVE-2017-11109"
+  ],
+  "name": "AVG-347",
+  "packages": [
+    "gvim",
+    "vim"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": "54773",
+  "type": "arbitrary code execution"
+}

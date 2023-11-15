@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201706-7"
+  ],
+  "affected": "8.0.42-1",
+  "fixed": "8.0.44-1",
+  "issues": [
+    "CVE-2017-5664"
+  ],
+  "name": "AVG-291",
+  "packages": [
+    "tomcat8"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "access restriction bypass"
+}

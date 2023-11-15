@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.0.31-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-3246"
+  ],
+  "name": "AVG-2186",
+  "packages": [
+    "lib32-libsndfile"
+  ],
+  "severity": "Medium",
+  "status": "Vulnerable",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "0.74-1",
+  "fixed": "0.75-1",
+  "issues": [
+    "CVE-2021-33500"
+  ],
+  "name": "AVG-1978",
+  "packages": [
+    "putty"
+  ],
+  "severity": "Low",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "denial of service"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.12.6.arch1-1",
+  "fixed": "5.12.7.arch1-1",
+  "issues": [
+    "CVE-2020-26558"
+  ],
+  "name": "AVG-2049",
+  "packages": [
+    "linux"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "private key recovery"
+}

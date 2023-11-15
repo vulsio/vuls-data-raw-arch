@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "3.2.2-1",
+  "fixed": "3.2.3-1",
+  "issues": [
+    "CVE-2021-34813"
+  ],
+  "name": "AVG-2077",
+  "packages": [
+    "libolm"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

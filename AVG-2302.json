@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "0.4.6.6-1",
+  "fixed": "0.4.6.7-1",
+  "issues": [
+    "CVE-2021-38385"
+  ],
+  "name": "AVG-2302",
+  "packages": [
+    "tor"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

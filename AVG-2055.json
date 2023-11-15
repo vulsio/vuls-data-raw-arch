@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202106-44"
+  ],
+  "affected": "1.39-1",
+  "fixed": "1.40-1",
+  "issues": [
+    "CVE-2021-33833"
+  ],
+  "name": "AVG-2055",
+  "packages": [
+    "connman"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201908-6"
+  ],
+  "affected": "76.0.3809.87-1",
+  "fixed": "76.0.3809.100-1",
+  "issues": [
+    "CVE-2019-5868",
+    "CVE-2019-5867"
+  ],
+  "name": "AVG-1018",
+  "packages": [
+    "chromium"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

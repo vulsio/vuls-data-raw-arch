@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "4.0.1-4",
+  "fixed": "4.1.0-1",
+  "issues": [
+    "CVE-2021-32618"
+  ],
+  "name": "AVG-1965",
+  "packages": [
+    "python-flask-security-too"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "open redirect"
+}

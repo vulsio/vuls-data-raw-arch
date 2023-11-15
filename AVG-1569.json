@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.4.57-1",
+  "fixed": "2.4.58-1",
+  "issues": [
+    "CVE-2021-27212"
+  ],
+  "name": "AVG-1569",
+  "packages": [
+    "openldap"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

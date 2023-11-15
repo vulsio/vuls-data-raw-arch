@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201810-15"
+  ],
+  "affected": "1.20.2-1",
+  "fixed": "1.20.3-1",
+  "issues": [
+    "CVE-2018-14665"
+  ],
+  "name": "AVG-788",
+  "packages": [
+    "xorg-server"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "privilege escalation"
+}

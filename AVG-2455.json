@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.11.3-1",
+  "fixed": "1.12.0-1",
+  "issues": [
+    "CVE-2021-41133"
+  ],
+  "name": "AVG-2455",
+  "packages": [
+    "flatpak"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "sandbox escape"
+}

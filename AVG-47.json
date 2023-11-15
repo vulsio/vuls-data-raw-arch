@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201610-10"
+  ],
+  "affected": "2.0.12-1",
+  "fixed": "2.0.13-1",
+  "issues": [
+    "CVE-2016-8606",
+    "CVE-2016-8605"
+  ],
+  "name": "AVG-47",
+  "packages": [
+    "guile"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

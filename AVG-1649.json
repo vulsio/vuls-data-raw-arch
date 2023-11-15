@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202103-7"
+  ],
+  "affected": "2:4.3.1-4",
+  "fixed": "2:4.3.2-1",
+  "issues": [
+    "CVE-2020-35964"
+  ],
+  "name": "AVG-1649",
+  "packages": [
+    "ffmpeg"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

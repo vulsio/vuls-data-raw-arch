@@ -1,0 +1,20 @@
+{
+  "advisories": [
+    "ASA-202106-10",
+    "ASA-202106-11"
+  ],
+  "affected": "4.4.2-2",
+  "fixed": "4.4.2.P1-1",
+  "issues": [
+    "CVE-2021-25217"
+  ],
+  "name": "AVG-2004",
+  "packages": [
+    "dhclient",
+    "dhcp"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

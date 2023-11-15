@@ -1,0 +1,18 @@
+{
+  "advisories": [],
+  "affected": "2.0.24-1",
+  "fixed": "2.0.25-1",
+  "issues": [
+    "CVE-2021-3272",
+    "CVE-2021-26927",
+    "CVE-2021-26926"
+  ],
+  "name": "AVG-1497",
+  "packages": [
+    "jasper"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

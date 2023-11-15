@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "2.19.92-1",
+  "fixed": "2.20.0-1",
+  "issues": [
+    "CVE-2018-4113",
+    "CVE-2018-4101"
+  ],
+  "name": "AVG-942",
+  "packages": [
+    "webkit2gtk"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

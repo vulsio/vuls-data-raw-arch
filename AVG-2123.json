@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202107-11"
+  ],
+  "affected": "3.2.4-1",
+  "fixed": "3.2.5-1",
+  "issues": [
+    "CVE-2021-35042"
+  ],
+  "name": "AVG-2123",
+  "packages": [
+    "python-django"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "insufficient validation"
+}

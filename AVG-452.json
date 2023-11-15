@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1:2.6-10",
+  "fixed": null,
+  "issues": [
+    "CVE-2017-13084"
+  ],
+  "name": "AVG-452",
+  "packages": [
+    "wpa_supplicant"
+  ],
+  "severity": "High",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "man-in-the-middle"
+}

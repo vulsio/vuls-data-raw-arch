@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "4.5-1",
+  "fixed": "4.5.1-1",
+  "issues": [
+    "CVE-2021-41072"
+  ],
+  "name": "AVG-2380",
+  "packages": [
+    "squashfs-tools"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "directory traversal"
+}

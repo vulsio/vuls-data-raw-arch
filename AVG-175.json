@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201702-14"
+  ],
+  "affected": "67-1",
+  "fixed": "77-1",
+  "issues": [
+    "CVE-2017-0359"
+  ],
+  "name": "AVG-175",
+  "packages": [
+    "diffoscope"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary file overwrite"
+}

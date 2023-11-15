@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201703-8"
+  ],
+  "affected": "4.10.1-1",
+  "fixed": "4.10.2-1",
+  "issues": [
+    "CVE-2017-2636"
+  ],
+  "name": "AVG-192",
+  "packages": [
+    "linux"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": "53242",
+  "type": "privilege escalation"
+}

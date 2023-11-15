@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.9.12-1",
+  "fixed": "1.9.13-1",
+  "issues": [
+    "CVE-2021-40985"
+  ],
+  "name": "AVG-2521",
+  "packages": [
+    "htmldoc"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

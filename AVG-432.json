@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201710-10"
+  ],
+  "affected": "1.19.3-3",
+  "fixed": "1.19.4-1",
+  "issues": [
+    "CVE-2017-13723",
+    "CVE-2017-13721"
+  ],
+  "name": "AVG-432",
+  "packages": [
+    "xorg-server"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

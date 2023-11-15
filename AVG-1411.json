@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.4.87-1",
+  "fixed": "5.4.88-1",
+  "issues": [
+    "CVE-2020-36158"
+  ],
+  "name": "AVG-1411",
+  "packages": [
+    "linux-lts"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

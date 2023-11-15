@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "3.0.7.1-2",
+  "fixed": null,
+  "issues": [
+    "CVE-2019-13615"
+  ],
+  "name": "AVG-1008",
+  "packages": [
+    "vlc"
+  ],
+  "severity": "Medium",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "information disclosure"
+}

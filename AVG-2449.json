@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "2.314-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-21683",
+    "CVE-2021-21682"
+  ],
+  "name": "AVG-2449",
+  "packages": [
+    "jenkins"
+  ],
+  "severity": "Medium",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "directory traversal"
+}

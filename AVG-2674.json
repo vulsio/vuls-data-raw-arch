@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.17.0-1",
+  "fixed": "5.17.1-1",
+  "issues": [
+    "CVE-2022-28356"
+  ],
+  "name": "AVG-2674",
+  "packages": [
+    "linux-hardened"
+  ],
+  "severity": "High",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

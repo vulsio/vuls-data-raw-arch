@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201812-1"
+  ],
+  "affected": "5.5.0-1",
+  "fixed": "5.7.2-1",
+  "issues": [
+    "CVE-2018-19352",
+    "CVE-2018-19351"
+  ],
+  "name": "AVG-820",
+  "packages": [
+    "jupyter-notebook"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": "60910",
+  "type": "cross-site scripting"
+}

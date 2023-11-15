@@ -1,0 +1,20 @@
+{
+  "advisories": [
+    "ASA-202005-9"
+  ],
+  "affected": "2.3.10-2",
+  "fixed": "2.3.10.1-1",
+  "issues": [
+    "CVE-2020-10967",
+    "CVE-2020-10958",
+    "CVE-2020-10957"
+  ],
+  "name": "AVG-1162",
+  "packages": [
+    "dovecot"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

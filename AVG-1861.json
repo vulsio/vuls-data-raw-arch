@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.5.1-1",
+  "fixed": "2.5.2-1",
+  "issues": [
+    "CVE-2020-15078"
+  ],
+  "name": "AVG-1861",
+  "packages": [
+    "openvpn"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "authentication bypass"
+}

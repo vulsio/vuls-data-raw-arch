@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.23.0-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2020-8561"
+  ],
+  "name": "AVG-2394",
+  "packages": [
+    "kube-apiserver"
+  ],
+  "severity": "Medium",
+  "status": "Vulnerable",
+  "ticket": null,
+  "type": "information disclosure"
+}

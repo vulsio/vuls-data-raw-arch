@@ -1,0 +1,21 @@
+{
+  "advisories": [
+    "ASA-201806-12"
+  ],
+  "affected": "2.3.1-1",
+  "fixed": "2.3.1-2",
+  "issues": [
+    "CVE-2018-12562",
+    "CVE-2018-12561",
+    "CVE-2018-12560",
+    "CVE-2018-12559"
+  ],
+  "name": "AVG-721",
+  "packages": [
+    "cantata"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

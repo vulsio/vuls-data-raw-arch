@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "4.9.38-1",
+  "fixed": "4.9.39-1",
+  "issues": [
+    "CVE-2017-1000371",
+    "CVE-2017-1000370"
+  ],
+  "name": "AVG-312",
+  "packages": [
+    "linux-lts"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "access restriction bypass"
+}

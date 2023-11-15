@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.0.6-1",
+  "fixed": "2.0.7-1",
+  "issues": [
+    "CVE-2021-32055"
+  ],
+  "name": "AVG-1922",
+  "packages": [
+    "mutt"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "information disclosure"
+}

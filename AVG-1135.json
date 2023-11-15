@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202004-16"
+  ],
+  "affected": "2.4.8-4",
+  "fixed": "2.4.9-1",
+  "issues": [
+    "CVE-2020-11810"
+  ],
+  "name": "AVG-1135",
+  "packages": [
+    "openvpn"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

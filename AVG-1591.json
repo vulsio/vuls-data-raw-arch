@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.4.2-1",
+  "fixed": "2.4.8-1",
+  "issues": [
+    "CVE-2021-27375"
+  ],
+  "name": "AVG-1591",
+  "packages": [
+    "traefik"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "insufficient validation"
+}

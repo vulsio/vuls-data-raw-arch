@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "4.91-1",
+  "fixed": "4.92-1",
+  "issues": [
+    "CVE-2019-10149"
+  ],
+  "name": "AVG-982",
+  "packages": [
+    "exim"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

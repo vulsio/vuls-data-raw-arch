@@ -1,0 +1,22 @@
+{
+  "advisories": [
+    "ASA-202005-7"
+  ],
+  "affected": "68.7.0-2",
+  "fixed": "68.8.0-1",
+  "issues": [
+    "CVE-2020-6831",
+    "CVE-2020-12397",
+    "CVE-2020-12395",
+    "CVE-2020-12392",
+    "CVE-2020-12387"
+  ],
+  "name": "AVG-1155",
+  "packages": [
+    "thunderbird"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

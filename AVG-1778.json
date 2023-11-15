@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "1.14.0-1",
+  "fixed": "1.15.1-1",
+  "issues": [
+    "CVE-2021-21404"
+  ],
+  "name": "AVG-1778",
+  "packages": [
+    "syncthing",
+    "syncthing-relaysrv"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

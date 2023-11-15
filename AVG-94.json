@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "0.0-1",
+  "fixed": "2.2.27-1",
+  "issues": [
+    "CVE-2016-8652"
+  ],
+  "name": "AVG-94",
+  "packages": [
+    "dovecot"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

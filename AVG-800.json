@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201811-5"
+  ],
+  "affected": "7.61.1-1",
+  "fixed": "7.62.0-1",
+  "issues": [
+    "CVE-2018-16840"
+  ],
+  "name": "AVG-800",
+  "packages": [
+    "libcurl-compat"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

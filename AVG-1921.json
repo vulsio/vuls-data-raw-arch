@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "6.0.37-1",
+  "fixed": "6.0.48-1",
+  "issues": [
+    "CVE-2021-22904",
+    "CVE-2021-22885"
+  ],
+  "name": "AVG-1921",
+  "packages": [
+    "metasploit"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

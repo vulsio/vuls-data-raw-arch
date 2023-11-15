@@ -1,0 +1,19 @@
+{
+  "advisories": [],
+  "affected": "4.3.2439.39-1",
+  "fixed": "4.3.2439.44-1",
+  "issues": [
+    "CVE-2021-37980",
+    "CVE-2021-37979",
+    "CVE-2021-37978",
+    "CVE-2021-37977"
+  ],
+  "name": "AVG-2453",
+  "packages": [
+    "vivaldi"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

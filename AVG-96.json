@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201612-7"
+  ],
+  "affected": "4.4.35-1",
+  "fixed": "4.4.36-1",
+  "issues": [
+    "CVE-2016-8655"
+  ],
+  "name": "AVG-96",
+  "packages": [
+    "linux-lts"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "privilege escalation"
+}

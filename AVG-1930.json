@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.12.1.zen2-1",
+  "fixed": "5.12.2.zen1-1",
+  "issues": [
+    "CVE-2021-31829"
+  ],
+  "name": "AVG-1930",
+  "packages": [
+    "linux-zen"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "information disclosure"
+}

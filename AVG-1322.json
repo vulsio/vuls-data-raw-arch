@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202012-16"
+  ],
+  "affected": "2.9-3",
+  "fixed": "2.9-4",
+  "issues": [
+    "CVE-2020-12695"
+  ],
+  "name": "AVG-1322",
+  "packages": [
+    "hostapd"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": "68861",
+  "type": "proxy injection"
+}

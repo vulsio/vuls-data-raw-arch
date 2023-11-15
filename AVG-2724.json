@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.6.1-1",
+  "fixed": "2.6.2-1",
+  "issues": [
+    "CVE-2022-29155"
+  ],
+  "name": "AVG-2724",
+  "packages": [
+    "openldap"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "sql injection"
+}

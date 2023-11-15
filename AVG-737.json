@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201807-11"
+  ],
+  "affected": "1.7.0-2",
+  "fixed": "1.7.1-1",
+  "issues": [
+    "CVE-2018-14056",
+    "CVE-2018-14055"
+  ],
+  "name": "AVG-737",
+  "packages": [
+    "znc"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

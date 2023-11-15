@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "6.12-1",
+  "fixed": "6.13-1",
+  "issues": [
+    "CVE-2021-20208"
+  ],
+  "name": "AVG-1839",
+  "packages": [
+    "cifs-utils"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "information disclosure"
+}

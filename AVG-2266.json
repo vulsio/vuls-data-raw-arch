@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202108-10"
+  ],
+  "affected": "3.1.2-1",
+  "fixed": "3.1.4-1",
+  "issues": [
+    "CVE-2021-32797"
+  ],
+  "name": "AVG-2266",
+  "packages": [
+    "jupyterlab"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "cross-site scripting"
+}

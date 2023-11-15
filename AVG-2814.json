@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.9.7-1",
+  "fixed": "5.9.8-1",
+  "issues": [
+    "CVE-2022-40617"
+  ],
+  "name": "AVG-2814",
+  "packages": [
+    "strongswan"
+  ],
+  "severity": "Unknown",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "unknown"
+}

@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201906-5"
+  ],
+  "affected": "1.0.7-2",
+  "fixed": "1.0.8-2",
+  "issues": [
+    "CVE-2019-12210",
+    "CVE-2019-12209"
+  ],
+  "name": "AVG-973",
+  "packages": [
+    "pam-u2f"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "information disclosure"
+}

@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "5.14.9.arch2-1",
+  "fixed": "5.14.10.arch1-1",
+  "issues": [
+    "CVE-2021-3764",
+    "CVE-2021-3744"
+  ],
+  "name": "AVG-2548",
+  "packages": [
+    "linux"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

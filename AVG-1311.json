@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1:2.4.1-4",
+  "fixed": null,
+  "issues": [
+    "CVE-2020-11867"
+  ],
+  "name": "AVG-1311",
+  "packages": [
+    "audacity"
+  ],
+  "severity": "Low",
+  "status": "Vulnerable",
+  "ticket": null,
+  "type": "information disclosure"
+}

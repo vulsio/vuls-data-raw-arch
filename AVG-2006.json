@@ -1,0 +1,21 @@
+{
+  "advisories": [
+    "ASA-202106-42"
+  ],
+  "affected": "2:1.16.4-1",
+  "fixed": "2:1.16.5-1",
+  "issues": [
+    "CVE-2021-33198",
+    "CVE-2021-33197",
+    "CVE-2021-33196",
+    "CVE-2021-33195"
+  ],
+  "name": "AVG-2006",
+  "packages": [
+    "go"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

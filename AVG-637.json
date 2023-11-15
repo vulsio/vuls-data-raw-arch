@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "26.1-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2017-1000383"
+  ],
+  "name": "AVG-637",
+  "packages": [
+    "emacs-nox"
+  ],
+  "severity": "Low",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "information disclosure"
+}

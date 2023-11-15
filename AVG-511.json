@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "4.13.7.a-1",
+  "fixed": "4.13.8.a-1",
+  "issues": [
+    "CVE-2017-15265"
+  ],
+  "name": "AVG-511",
+  "packages": [
+    "linux-hardened"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "privilege escalation"
+}

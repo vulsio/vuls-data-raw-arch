@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201803-9",
+    "ASA-201803-9"
+  ],
+  "affected": "10.2-1",
+  "fixed": "10.3-1",
+  "issues": [
+    "CVE-2018-1058"
+  ],
+  "name": "AVG-643",
+  "packages": [
+    "postgresql"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "privilege escalation"
+}

@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201910-10"
+  ],
+  "affected": "4.01.01-2",
+  "fixed": "4.02-1",
+  "issues": [
+    "CVE-2019-16927"
+  ],
+  "name": "AVG-1048",
+  "packages": [
+    "xpdf"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": "63980",
+  "type": "arbitrary code execution"
+}

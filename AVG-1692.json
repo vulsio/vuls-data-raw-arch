@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.0.25-1",
+  "fixed": "2.0.27-1",
+  "issues": [
+    "CVE-2021-3467"
+  ],
+  "name": "AVG-1692",
+  "packages": [
+    "jasper"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

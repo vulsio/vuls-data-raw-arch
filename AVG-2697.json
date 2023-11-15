@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "21.11-1",
+  "fixed": "22.03-1",
+  "issues": [
+    "CVE-2022-0669",
+    "CVE-2021-3839"
+  ],
+  "name": "AVG-2697",
+  "packages": [
+    "dpdk"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

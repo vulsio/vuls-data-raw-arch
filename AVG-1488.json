@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202101-44"
+  ],
+  "affected": "2020.12.2-1",
+  "fixed": "2021.1.4-1",
+  "issues": [
+    "CVE-2021-3152"
+  ],
+  "name": "AVG-1488",
+  "packages": [
+    "home-assistant"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": "69398",
+  "type": "information disclosure"
+}

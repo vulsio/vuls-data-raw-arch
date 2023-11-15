@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201908-4"
+  ],
+  "affected": "4.92-1",
+  "fixed": "4.92.1-1",
+  "issues": [
+    "CVE-2019-13917"
+  ],
+  "name": "AVG-1011",
+  "packages": [
+    "exim"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

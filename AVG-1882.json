@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-202105-14"
+  ],
+  "affected": "10.5.9-1",
+  "fixed": "10.5.10-1",
+  "issues": [
+    "CVE-2021-2166",
+    "CVE-2021-2154"
+  ],
+  "name": "AVG-1882",
+  "packages": [
+    "mariadb"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

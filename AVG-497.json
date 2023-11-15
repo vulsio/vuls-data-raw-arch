@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "6.9.9.3-1",
+  "fixed": "6.9.9.7-1",
+  "issues": [
+    "CVE-2017-13134"
+  ],
+  "name": "AVG-497",
+  "packages": [
+    "imagemagick"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

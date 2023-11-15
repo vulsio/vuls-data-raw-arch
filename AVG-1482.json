@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.4.4.4-5",
+  "fixed": "2.0.2-1",
+  "issues": [
+    "CVE-2020-35518"
+  ],
+  "name": "AVG-1482",
+  "packages": [
+    "389-ds-base"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "information disclosure"
+}

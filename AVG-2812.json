@@ -1,0 +1,20 @@
+{
+  "advisories": [],
+  "affected": "22.08.0-1",
+  "fixed": "22.08.0-2",
+  "issues": [
+    "CVE-2022-38784",
+    "CVE-2022-27337"
+  ],
+  "name": "AVG-2812",
+  "packages": [
+    "poppler-glib",
+    "poppler-qt6",
+    "poppler",
+    "poppler-qt5"
+  ],
+  "severity": "Unknown",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "unknown"
+}

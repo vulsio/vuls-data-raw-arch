@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "3.38.0-2",
+  "fixed": "3.38.1-1",
+  "issues": [
+    "CVE-2020-36314"
+  ],
+  "name": "AVG-1779",
+  "packages": [
+    "file-roller"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "directory traversal"
+}

@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202003-9"
+  ],
+  "affected": "2.27.91-1",
+  "fixed": "2.28.0-1",
+  "issues": [
+    "CVE-2020-10018"
+  ],
+  "name": "AVG-1114",
+  "packages": [
+    "webkit2gtk"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

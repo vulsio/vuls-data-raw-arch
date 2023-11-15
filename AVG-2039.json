@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "3.1.3-2",
+  "fixed": "3.2.0-1",
+  "issues": [
+    "CVE-2021-30475"
+  ],
+  "name": "AVG-2039",
+  "packages": [
+    "aom"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

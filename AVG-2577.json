@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.2.4-6",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-44038"
+  ],
+  "name": "AVG-2577",
+  "packages": [
+    "quagga"
+  ],
+  "severity": "Medium",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "privilege escalation"
+}

@@ -1,0 +1,21 @@
+{
+  "advisories": [
+    "ASA-201712-2"
+  ],
+  "affected": "1.1.17-1",
+  "fixed": "1.1.28-1",
+  "issues": [
+    "CVE-2017-16785",
+    "CVE-2017-16661",
+    "CVE-2017-16660",
+    "CVE-2017-16641"
+  ],
+  "name": "AVG-537",
+  "packages": [
+    "cacti"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

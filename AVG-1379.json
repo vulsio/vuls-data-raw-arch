@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "0.79.0-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2020-26284"
+  ],
+  "name": "AVG-1379",
+  "packages": [
+    "hugo"
+  ],
+  "severity": "Medium",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "arbitrary command execution"
+}

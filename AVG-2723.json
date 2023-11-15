@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.1.0-1",
+  "fixed": "2.1.1-1",
+  "issues": [
+    "CVE-2022-24761"
+  ],
+  "name": "AVG-2723",
+  "packages": [
+    "python-waitress"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "unknown"
+}

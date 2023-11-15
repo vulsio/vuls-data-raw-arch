@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "59.0-2",
+  "fixed": "59.0.1-1",
+  "issues": [
+    "CVE-2018-5147"
+  ],
+  "name": "AVG-659",
+  "packages": [
+    "firefox"
+  ],
+  "severity": "Critical",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

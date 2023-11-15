@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "0.2.4-2",
+  "fixed": "0.3.1-1",
+  "issues": [
+    "CVE-2021-28650",
+    "CVE-2020-36241"
+  ],
+  "name": "AVG-1537",
+  "packages": [
+    "gnome-autoar"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "directory traversal"
+}

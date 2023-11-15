@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201710-13"
+  ],
+  "affected": "1.0rc4-1",
+  "fixed": "1.0rc6-1",
+  "issues": [
+    "CVE-2017-15214",
+    "CVE-2017-15213"
+  ],
+  "name": "AVG-439",
+  "packages": [
+    "flyspray"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "cross-site scripting"
+}

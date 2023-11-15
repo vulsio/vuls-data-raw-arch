@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202111-6"
+  ],
+  "affected": "8.2.3-1",
+  "fixed": "8.2.4-1",
+  "issues": [
+    "CVE-2021-41244"
+  ],
+  "name": "AVG-2559",
+  "packages": [
+    "grafana"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "access restriction bypass"
+}

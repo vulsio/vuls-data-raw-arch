@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201711-16"
+  ],
+  "affected": "1.5-1",
+  "fixed": "1.6-1",
+  "issues": [
+    "CVE-2017-15922"
+  ],
+  "name": "AVG-471",
+  "packages": [
+    "libextractor"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

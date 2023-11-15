@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201711-24"
+  ],
+  "affected": "2.1.0-1",
+  "fixed": "2.1.1-1",
+  "issues": [
+    "CVE-2017-12636",
+    "CVE-2017-12635"
+  ],
+  "name": "AVG-495",
+  "packages": [
+    "couchdb"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

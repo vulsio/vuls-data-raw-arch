@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201804-2"
+  ],
+  "affected": "1.1.0.g-1",
+  "fixed": "1.1.0.h-1",
+  "issues": [
+    "CVE-2018-0739",
+    "CVE-2017-3738"
+  ],
+  "name": "AVG-540",
+  "packages": [
+    "openssl"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

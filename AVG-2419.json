@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "94.0.4606.54-1",
+  "fixed": "94.0.4606.61-1",
+  "issues": [
+    "CVE-2021-37973"
+  ],
+  "name": "AVG-2419",
+  "packages": [
+    "chromium"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

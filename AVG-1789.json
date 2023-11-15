@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.7.2-1",
+  "fixed": "3.0.1-1",
+  "issues": [
+    "CVE-2021-28965"
+  ],
+  "name": "AVG-1789",
+  "packages": [
+    "ruby"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "incorrect calculation"
+}

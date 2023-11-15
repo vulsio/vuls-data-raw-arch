@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-202012-7"
+  ],
+  "affected": "4.3.1-1",
+  "fixed": "4.4.0-1",
+  "issues": [
+    "CVE-2020-29130",
+    "CVE-2020-29129"
+  ],
+  "name": "AVG-1305",
+  "packages": [
+    "libslirp"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "information disclosure"
+}

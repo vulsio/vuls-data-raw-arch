@@ -1,0 +1,19 @@
+{
+  "advisories": [],
+  "affected": "88.0.1-1",
+  "fixed": "89.0-1",
+  "issues": [
+    "CVE-2021-29965",
+    "CVE-2021-29964",
+    "CVE-2021-29963",
+    "CVE-2021-29962"
+  ],
+  "name": "AVG-2019",
+  "packages": [
+    "firefox"
+  ],
+  "severity": "High",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "multiple issues"
+}

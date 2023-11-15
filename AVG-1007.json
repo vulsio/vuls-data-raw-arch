@@ -1,0 +1,19 @@
+{
+  "advisories": [],
+  "affected": "1.40.1-1",
+  "fixed": "1.40.2-1",
+  "issues": [
+    "CVE-2019-12795",
+    "CVE-2019-12449",
+    "CVE-2019-12448",
+    "CVE-2019-12447"
+  ],
+  "name": "AVG-1007",
+  "packages": [
+    "gvfs"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.2.1-2",
+  "fixed": null,
+  "issues": [
+    "CVE-2020-23922"
+  ],
+  "name": "AVG-1855",
+  "packages": [
+    "giflib"
+  ],
+  "severity": "Medium",
+  "status": "Vulnerable",
+  "ticket": null,
+  "type": "information disclosure"
+}

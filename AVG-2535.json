@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.4.3-1",
+  "fixed": "5.4.4-1",
+  "issues": [
+    "CVE-2021-43519"
+  ],
+  "name": "AVG-2535",
+  "packages": [
+    "lua"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

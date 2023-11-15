@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202107-73"
+  ],
+  "affected": "4.5.0-1",
+  "fixed": "4.5.1-1",
+  "issues": [
+    "CVE-2021-36754"
+  ],
+  "name": "AVG-2222",
+  "packages": [
+    "powerdns"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

@@ -1,0 +1,21 @@
+{
+  "advisories": [
+    "ASA-201902-23"
+  ],
+  "affected": "60.5.0-1",
+  "fixed": "60.5.1-1",
+  "issues": [
+    "CVE-2019-5785",
+    "CVE-2018-18509",
+    "CVE-2018-18356",
+    "CVE-2018-18335"
+  ],
+  "name": "AVG-908",
+  "packages": [
+    "thunderbird"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

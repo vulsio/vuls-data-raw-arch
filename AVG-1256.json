@@ -1,0 +1,24 @@
+{
+  "advisories": [
+    "ASA-202011-1"
+  ],
+  "affected": "81.0.2-1",
+  "fixed": "82.0-1",
+  "issues": [
+    "CVE-2020-15969",
+    "CVE-2020-15684",
+    "CVE-2020-15683",
+    "CVE-2020-15682",
+    "CVE-2020-15681",
+    "CVE-2020-15680",
+    "CVE-2020-15254"
+  ],
+  "name": "AVG-1256",
+  "packages": [
+    "firefox"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

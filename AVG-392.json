@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201709-9"
+  ],
+  "affected": "4.12.12-1",
+  "fixed": "4.12.13-1",
+  "issues": [
+    "CVE-2017-1000251"
+  ],
+  "name": "AVG-392",
+  "packages": [
+    "linux"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": "55601",
+  "type": "arbitrary code execution"
+}

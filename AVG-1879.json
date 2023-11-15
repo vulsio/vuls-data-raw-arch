@@ -1,0 +1,21 @@
+{
+  "advisories": [],
+  "affected": "5.15.8.arch1-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-43976",
+    "CVE-2021-4095",
+    "CVE-2021-4028",
+    "CVE-2021-3847",
+    "CVE-2021-3752",
+    "CVE-2021-3669"
+  ],
+  "name": "AVG-1879",
+  "packages": [
+    "linux"
+  ],
+  "severity": "Medium",
+  "status": "Vulnerable",
+  "ticket": null,
+  "type": "multiple issues"
+}

@@ -1,0 +1,20 @@
+{
+  "advisories": [],
+  "affected": "5.14.14.hardened1-1",
+  "fixed": "5.14.16.hardened1-1",
+  "issues": [
+    "CVE-2021-43389",
+    "CVE-2021-43267",
+    "CVE-2021-42327",
+    "CVE-2021-3896",
+    "CVE-2021-3760"
+  ],
+  "name": "AVG-2499",
+  "packages": [
+    "linux-hardened"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

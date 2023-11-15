@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "15.0.2.u7-1",
+  "fixed": "16.0.1.u9-1",
+  "issues": [
+    "CVE-2021-2163"
+  ],
+  "name": "AVG-1847",
+  "packages": [
+    "jre-openjdk-headless",
+    "jdk-openjdk"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "insufficient validation"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.10.11.hardened1-1",
+  "fixed": "5.10.12.hardened1-1",
+  "issues": [
+    "CVE-2021-3347"
+  ],
+  "name": "AVG-1507",
+  "packages": [
+    "linux-hardened"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

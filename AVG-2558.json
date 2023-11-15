@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "6.2.1-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-43618"
+  ],
+  "name": "AVG-2558",
+  "packages": [
+    "gmp"
+  ],
+  "severity": "Low",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "denial of service"
+}

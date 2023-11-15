@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.4.75-1",
+  "fixed": "5.4.76-1",
+  "issues": [
+    "CVE-2020-25704"
+  ],
+  "name": "AVG-1271",
+  "packages": [
+    "linux-lts"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

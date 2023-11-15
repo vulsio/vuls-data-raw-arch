@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202105-24"
+  ],
+  "affected": "1.8.1-2",
+  "fixed": "1.8.2-1",
+  "issues": [
+    "CVE-2021-29510"
+  ],
+  "name": "AVG-1951",
+  "packages": [
+    "python-pydantic"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

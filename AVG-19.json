@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201609-15"
+  ],
+  "affected": "2.7-1",
+  "fixed": "2.8-1",
+  "issues": [
+    "CVE-2016-4425"
+  ],
+  "name": "AVG-19",
+  "packages": [
+    "jansson"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201701-3"
+  ],
+  "affected": "1.10.0-1",
+  "fixed": "1.10.2-2",
+  "issues": [
+    "CVE-2016-9446",
+    "CVE-2016-9445"
+  ],
+  "name": "AVG-76",
+  "packages": [
+    "gst-plugins-bad"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "4.9.6-1",
+  "fixed": "4.9.7-1",
+  "issues": [
+    "CVE-2017-6001"
+  ],
+  "name": "AVG-187",
+  "packages": [
+    "linux"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "privilege escalation"
+}

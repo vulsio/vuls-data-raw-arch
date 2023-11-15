@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201908-11"
+  ],
+  "affected": "68.0.1-2",
+  "fixed": "68.0.2-1",
+  "issues": [
+    "CVE-2019-11733"
+  ],
+  "name": "AVG-1025",
+  "packages": [
+    "firefox"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "information disclosure"
+}

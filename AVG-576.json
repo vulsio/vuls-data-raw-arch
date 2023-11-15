@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201801-11"
+  ],
+  "affected": "1.2.0-1",
+  "fixed": "1.2.1-1",
+  "issues": [
+    "CVE-2017-18021"
+  ],
+  "name": "AVG-576",
+  "packages": [
+    "qtpass"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "private key recovery"
+}

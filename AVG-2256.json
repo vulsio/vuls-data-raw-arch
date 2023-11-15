@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "5.13.7.zen1-1",
+  "fixed": "5.13.8.zen1-1",
+  "issues": [
+    "CVE-2021-35477",
+    "CVE-2021-34556"
+  ],
+  "name": "AVG-2256",
+  "packages": [
+    "linux-zen"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "information disclosure"
+}

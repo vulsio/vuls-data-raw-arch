@@ -1,0 +1,23 @@
+{
+  "advisories": [],
+  "affected": "99.0.1-1",
+  "fixed": "100.0-1",
+  "issues": [
+    "CVE-2022-29918",
+    "CVE-2022-29917",
+    "CVE-2022-29916",
+    "CVE-2022-29915",
+    "CVE-2022-29914",
+    "CVE-2022-29912",
+    "CVE-2022-29911",
+    "CVE-2022-29909"
+  ],
+  "name": "AVG-2709",
+  "packages": [
+    "firefox"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

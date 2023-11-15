@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.11.16.zen1-1",
+  "fixed": "5.12.zen1-1",
+  "issues": [
+    "CVE-2021-30178"
+  ],
+  "name": "AVG-1785",
+  "packages": [
+    "linux-zen"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

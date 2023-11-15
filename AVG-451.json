@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.6-5",
+  "fixed": null,
+  "issues": [
+    "CVE-2017-13084"
+  ],
+  "name": "AVG-451",
+  "packages": [
+    "hostapd"
+  ],
+  "severity": "High",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "man-in-the-middle"
+}

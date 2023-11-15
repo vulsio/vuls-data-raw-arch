@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.2.4-1",
+  "fixed": "2.2.5-1",
+  "issues": [
+    "CVE-2021-44225"
+  ],
+  "name": "AVG-2587",
+  "packages": [
+    "keepalived"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "access restriction bypass"
+}

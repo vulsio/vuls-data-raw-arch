@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.11.8.arch1-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-20292"
+  ],
+  "name": "AVG-1724",
+  "packages": [
+    "linux"
+  ],
+  "severity": "Medium",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "privilege escalation"
+}

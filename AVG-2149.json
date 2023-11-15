@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "89.0.2-1",
+  "fixed": "90.0-1",
+  "issues": [
+    "CVE-2021-29973",
+    "CVE-2021-29971"
+  ],
+  "name": "AVG-2149",
+  "packages": [
+    "firefox"
+  ],
+  "severity": "High",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "multiple issues"
+}

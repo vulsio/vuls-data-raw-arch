@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "202105-1",
+  "fixed": "202108-1",
+  "issues": [
+    "CVE-2021-38575"
+  ],
+  "name": "AVG-2382",
+  "packages": [
+    "edk2-shell"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

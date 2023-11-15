@@ -1,0 +1,20 @@
+{
+  "advisories": [
+    "ASA-202010-9"
+  ],
+  "affected": "5.8.14.a-1",
+  "fixed": "5.8.16.a-1",
+  "issues": [
+    "CVE-2020-24490",
+    "CVE-2020-12352",
+    "CVE-2020-12351"
+  ],
+  "name": "AVG-1251",
+  "packages": [
+    "linux-hardened"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

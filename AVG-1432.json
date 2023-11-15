@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.9.4.p2-2",
+  "fixed": "1.9.5.p1-1",
+  "issues": [
+    "CVE-2021-23240"
+  ],
+  "name": "AVG-1432",
+  "packages": [
+    "sudo"
+  ],
+  "severity": "High",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "arbitrary filesystem access"
+}

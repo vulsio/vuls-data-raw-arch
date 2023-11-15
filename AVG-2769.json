@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "4.16.3-1",
+  "fixed": "4.16.3-2",
+  "issues": [
+    "CVE-2022-32278"
+  ],
+  "name": "AVG-2769",
+  "packages": [
+    "exo"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary command execution"
+}

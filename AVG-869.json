@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "0.73.0-1",
+  "fixed": "0.74.0-1",
+  "issues": [
+    "CVE-2019-7310"
+  ],
+  "name": "AVG-869",
+  "packages": [
+    "poppler"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

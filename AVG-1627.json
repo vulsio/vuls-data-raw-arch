@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.4.8-1",
+  "fixed": "1.4.9-1",
+  "issues": [
+    "CVE-2021-24032"
+  ],
+  "name": "AVG-1627",
+  "packages": [
+    "zstd"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "access restriction bypass"
+}

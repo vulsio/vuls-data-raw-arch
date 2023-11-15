@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.93-1",
+  "fixed": "2.94-1",
+  "issues": [
+    "CVE-2017-17383"
+  ],
+  "name": "AVG-543",
+  "packages": [
+    "jenkins"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "cross-site scripting"
+}

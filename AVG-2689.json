@@ -1,0 +1,22 @@
+{
+  "advisories": [],
+  "affected": "8.322-1",
+  "fixed": "8.323-1",
+  "issues": [
+    "CVE-2022-21496",
+    "CVE-2022-21476",
+    "CVE-2022-21443",
+    "CVE-2022-21434",
+    "CVE-2022-21426"
+  ],
+  "name": "AVG-2689",
+  "packages": [
+    "jre8-openjdk-headless",
+    "jdk8-openjdk",
+    "jre8-openjdk"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "unknown"
+}

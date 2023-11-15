@@ -1,0 +1,20 @@
+{
+  "advisories": [],
+  "affected": "7.83.1-1",
+  "fixed": "7.84.0-1",
+  "issues": [
+    "CVE-2022-32208",
+    "CVE-2022-32207",
+    "CVE-2022-32206"
+  ],
+  "name": "AVG-2817",
+  "packages": [
+    "libcurl-gnutls",
+    "libcurl-compat",
+    "curl"
+  ],
+  "severity": "Unknown",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "unknown"
+}

@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201804-10"
+  ],
+  "affected": "8.5.2-1",
+  "fixed": "8.5.3-1",
+  "issues": [
+    "CVE-2018-7602"
+  ],
+  "name": "AVG-679",
+  "packages": [
+    "drupal"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary command execution"
+}

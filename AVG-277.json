@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.14.10-1",
+  "fixed": "1.15.8-1",
+  "issues": [
+    "CVE-2017-7475"
+  ],
+  "name": "AVG-277",
+  "packages": [
+    "cairo"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202006-11"
+  ],
+  "affected": "3.32.2-1",
+  "fixed": "3.32.3-1",
+  "issues": [
+    "CVE-2020-13871"
+  ],
+  "name": "AVG-1182",
+  "packages": [
+    "sqlite"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202103-12"
+  ],
+  "affected": "1.32.1-3",
+  "fixed": "1.32.1-4",
+  "issues": [
+    "CVE-2021-28831"
+  ],
+  "name": "AVG-1707",
+  "packages": [
+    "busybox"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": "70075",
+  "type": "denial of service"
+}

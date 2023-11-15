@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201705-25"
+  ],
+  "affected": "1.8.20-1",
+  "fixed": "1.8.20.p1-1",
+  "issues": [
+    "CVE-2017-1000367"
+  ],
+  "name": "AVG-282",
+  "packages": [
+    "sudo"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "access restriction bypass"
+}

@@ -1,0 +1,20 @@
+{
+  "advisories": [
+    "ASA-202011-28"
+  ],
+  "affected": "2.30.2-1",
+  "fixed": "2.30.3-1",
+  "issues": [
+    "CVE-2020-9983",
+    "CVE-2020-13584",
+    "CVE-2020-13543"
+  ],
+  "name": "AVG-1291",
+  "packages": [
+    "webkit2gtk"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202011-24"
+  ],
+  "affected": "20200925-1",
+  "fixed": "20201120-1",
+  "issues": [
+    "CVE-2020-28896"
+  ],
+  "name": "AVG-1289",
+  "packages": [
+    "neomutt"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "silent downgrade"
+}

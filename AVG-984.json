@@ -1,0 +1,20 @@
+{
+  "advisories": [
+    "ASA-201906-14"
+  ],
+  "affected": "4.19.51-1",
+  "fixed": "4.19.52-1",
+  "issues": [
+    "CVE-2019-11479",
+    "CVE-2019-11478",
+    "CVE-2019-11477"
+  ],
+  "name": "AVG-984",
+  "packages": [
+    "linux-lts"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

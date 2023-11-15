@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201901-2"
+  ],
+  "affected": "0.115+3+g8638ec5-1",
+  "fixed": "0.115+24+g5230646-1",
+  "issues": [
+    "CVE-2018-19788"
+  ],
+  "name": "AVG-828",
+  "packages": [
+    "polkit"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "privilege escalation"
+}

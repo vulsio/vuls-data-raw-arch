@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.12.2-1",
+  "fixed": "2.12.3-1",
+  "issues": [
+    "CVE-2021-22540"
+  ],
+  "name": "AVG-1859",
+  "packages": [
+    "dart"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "cross-site scripting"
+}

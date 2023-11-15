@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.4.8-1",
+  "fixed": "2.4.13-1",
+  "issues": [
+    "CVE-2021-32813"
+  ],
+  "name": "AVG-2252",
+  "packages": [
+    "traefik"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "privilege escalation"
+}

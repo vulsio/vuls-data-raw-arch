@@ -1,0 +1,18 @@
+{
+  "advisories": [],
+  "affected": "6.12.1-1",
+  "fixed": "6.13.4-1",
+  "issues": [
+    "CVE-2019-16777",
+    "CVE-2019-16776",
+    "CVE-2019-16775"
+  ],
+  "name": "AVG-1082",
+  "packages": [
+    "npm"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary file overwrite"
+}

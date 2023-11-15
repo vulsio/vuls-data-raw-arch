@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.0.2.j-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2016-7056"
+  ],
+  "name": "AVG-141",
+  "packages": [
+    "lib32-openssl"
+  ],
+  "severity": "Medium",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "private key recovery"
+}

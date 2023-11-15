@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.4.44-5",
+  "fixed": "2.4.45-1",
+  "issues": [
+    "CVE-2017-9287"
+  ],
+  "name": "AVG-358",
+  "packages": [
+    "openldap"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

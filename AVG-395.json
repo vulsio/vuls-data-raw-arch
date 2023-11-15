@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201709-4"
+  ],
+  "affected": "4.13.1.a-1",
+  "fixed": "4.13.1.b-1",
+  "issues": [
+    "CVE-2017-1000251"
+  ],
+  "name": "AVG-395",
+  "packages": [
+    "linux-hardened"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": "55602",
+  "type": "arbitrary code execution"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.2-5",
+  "fixed": "2.4-1",
+  "issues": [
+    "CVE-2021-41868"
+  ],
+  "name": "AVG-2436",
+  "packages": [
+    "onionshare"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary file upload"
+}

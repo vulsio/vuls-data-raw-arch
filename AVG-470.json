@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1:1.22.0-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2017-7358"
+  ],
+  "name": "AVG-470",
+  "packages": [
+    "lightdm"
+  ],
+  "severity": "High",
+  "status": "Not affected",
+  "ticket": "56116",
+  "type": "privilege escalation"
+}

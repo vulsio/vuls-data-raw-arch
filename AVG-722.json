@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201905-7"
+  ],
+  "affected": "1.909-1",
+  "fixed": "1.912-1",
+  "issues": [
+    "CVE-2018-12558"
+  ],
+  "name": "AVG-722",
+  "packages": [
+    "perl-email-address"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

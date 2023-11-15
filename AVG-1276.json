@@ -1,0 +1,21 @@
+{
+  "advisories": [
+    "ASA-202011-14",
+    "ASA-202011-14"
+  ],
+  "affected": "12.4-2",
+  "fixed": "12.5-1",
+  "issues": [
+    "CVE-2020-25696",
+    "CVE-2020-25695",
+    "CVE-2020-25694"
+  ],
+  "name": "AVG-1276",
+  "packages": [
+    "postgresql"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

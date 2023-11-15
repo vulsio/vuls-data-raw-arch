@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.7.0-3",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-35940"
+  ],
+  "name": "AVG-2313",
+  "packages": [
+    "apr"
+  ],
+  "severity": "Medium",
+  "status": "Vulnerable",
+  "ticket": null,
+  "type": "information disclosure"
+}

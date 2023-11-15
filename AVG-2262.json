@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.13-2",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-38185"
+  ],
+  "name": "AVG-2262",
+  "packages": [
+    "cpio"
+  ],
+  "severity": "Medium",
+  "status": "Vulnerable",
+  "ticket": null,
+  "type": "arbitrary command execution"
+}

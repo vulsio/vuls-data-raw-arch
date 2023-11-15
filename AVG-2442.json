@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "2.4.49-1",
+  "fixed": "2.4.50-1",
+  "issues": [
+    "CVE-2021-41773",
+    "CVE-2021-41524"
+  ],
+  "name": "AVG-2442",
+  "packages": [
+    "apache"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

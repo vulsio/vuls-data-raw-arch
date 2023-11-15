@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202103-18"
+  ],
+  "affected": "1.4.1-1",
+  "fixed": "1.4.2-1",
+  "issues": [
+    "CVE-2021-3405"
+  ],
+  "name": "AVG-1554",
+  "packages": [
+    "libebml"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": "70039",
+  "type": "arbitrary code execution"
+}

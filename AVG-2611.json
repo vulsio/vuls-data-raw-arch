@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.15.6.zen2-1",
+  "fixed": "5.15.7.zen1-1",
+  "issues": [
+    "CVE-2021-43975"
+  ],
+  "name": "AVG-2611",
+  "packages": [
+    "linux-zen"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

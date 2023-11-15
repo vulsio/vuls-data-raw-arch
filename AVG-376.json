@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201708-5"
+  ],
+  "affected": "2.58.1-1",
+  "fixed": "2.58.2-1",
+  "issues": [
+    "CVE-2017-2885"
+  ],
+  "name": "AVG-376",
+  "packages": [
+    "libsoup"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

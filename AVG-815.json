@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "4.0.8-1",
+  "fixed": "4.0.9-1",
+  "issues": [
+    "CVE-2017-13726"
+  ],
+  "name": "AVG-815",
+  "packages": [
+    "lib32-libtiff"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

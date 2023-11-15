@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "3002.5-3",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-25315"
+  ],
+  "name": "AVG-1677",
+  "packages": [
+    "salt"
+  ],
+  "severity": "Medium",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "authentication bypass"
+}

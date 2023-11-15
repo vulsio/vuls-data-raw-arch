@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201805-13"
+  ],
+  "affected": "7.59.0-2",
+  "fixed": "7.60.0-1",
+  "issues": [
+    "CVE-2018-1000301",
+    "CVE-2018-1000300"
+  ],
+  "name": "AVG-694",
+  "packages": [
+    "curl"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

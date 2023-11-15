@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202107-28"
+  ],
+  "affected": "6.6.0-2",
+  "fixed": "6.6.1-1",
+  "issues": [
+    "CVE-2021-36740"
+  ],
+  "name": "AVG-2154",
+  "packages": [
+    "varnish"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "url request injection"
+}

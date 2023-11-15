@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.0-1",
+  "fixed": "2.0.20170509-1",
+  "issues": [
+    "CVE-2017-8798"
+  ],
+  "name": "AVG-327",
+  "packages": [
+    "miniupnpc"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

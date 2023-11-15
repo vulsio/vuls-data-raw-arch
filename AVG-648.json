@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201803-3"
+  ],
+  "affected": "4.4.0-1",
+  "fixed": "4.4.1-1",
+  "issues": [
+    "CVE-2018-5732"
+  ],
+  "name": "AVG-648",
+  "packages": [
+    "dhclient"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

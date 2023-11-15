@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-202105-19",
+    "ASA-202105-19"
+  ],
+  "affected": "1.29.0-1",
+  "fixed": "1.33.2-1",
+  "issues": [
+    "CVE-2021-29471"
+  ],
+  "name": "AVG-1943",
+  "packages": [
+    "matrix-synapse"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": "70801",
+  "type": "denial of service"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.20.10-3",
+  "fixed": "1.20.11-1",
+  "issues": [
+    "CVE-2021-3472"
+  ],
+  "name": "AVG-1811",
+  "packages": [
+    "xorg-server"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "privilege escalation"
+}

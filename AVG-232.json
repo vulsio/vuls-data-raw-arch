@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "4.10.6-1",
+  "fixed": "4.10.8-1",
+  "issues": [
+    "CVE-2017-7374"
+  ],
+  "name": "AVG-232",
+  "packages": [
+    "linux"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "privilege escalation"
+}

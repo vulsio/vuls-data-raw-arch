@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201811-12"
+  ],
+  "affected": "4.1.4-4",
+  "fixed": "4.1.5-1",
+  "issues": [
+    "CVE-2018-14626",
+    "CVE-2018-10851"
+  ],
+  "name": "AVG-804",
+  "packages": [
+    "powerdns"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

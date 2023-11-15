@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.2.1-2",
+  "fixed": "3.0.0-1",
+  "issues": [
+    "CVE-2021-20199"
+  ],
+  "name": "AVG-1517",
+  "packages": [
+    "podman"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "insufficient validation"
+}

@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201810-11"
+  ],
+  "affected": "5.7.3-9",
+  "fixed": "5.8-1",
+  "issues": [
+    "CVE-2018-18065",
+    "CVE-2015-5621"
+  ],
+  "name": "AVG-777",
+  "packages": [
+    "net-snmp"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

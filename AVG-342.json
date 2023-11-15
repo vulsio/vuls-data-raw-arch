@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201707-13"
+  ],
+  "affected": "1.0.3-1",
+  "fixed": "1.0.4-1",
+  "issues": [
+    "CVE-2017-10966",
+    "CVE-2017-10965"
+  ],
+  "name": "AVG-342",
+  "packages": [
+    "irssi"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

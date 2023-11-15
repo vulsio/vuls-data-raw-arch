@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201803-4"
+  ],
+  "affected": "4.4.0-1",
+  "fixed": "4.4.1-1",
+  "issues": [
+    "CVE-2018-5733"
+  ],
+  "name": "AVG-646",
+  "packages": [
+    "dhcp"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

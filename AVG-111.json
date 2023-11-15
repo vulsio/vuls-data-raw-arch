@@ -1,0 +1,20 @@
+{
+  "advisories": [
+    "ASA-201612-19"
+  ],
+  "affected": "4.5.2-1",
+  "fixed": "4.5.3-1",
+  "issues": [
+    "CVE-2016-2126",
+    "CVE-2016-2125",
+    "CVE-2016-2123"
+  ],
+  "name": "AVG-111",
+  "packages": [
+    "samba"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": "52219",
+  "type": "multiple issues"
+}

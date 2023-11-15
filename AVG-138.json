@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201701-23"
+  ],
+  "affected": "1.10.2-2",
+  "fixed": "1.10.2-3",
+  "issues": [
+    "CVE-2016-1247"
+  ],
+  "name": "AVG-138",
+  "packages": [
+    "nginx"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": "52546",
+  "type": "privilege escalation"
+}

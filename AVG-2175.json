@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202107-39"
+  ],
+  "affected": "8.1-1",
+  "fixed": "8.2-1",
+  "issues": [
+    "CVE-2021-32773"
+  ],
+  "name": "AVG-2175",
+  "packages": [
+    "racket"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "sandbox escape"
+}

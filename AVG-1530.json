@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202102-25"
+  ],
+  "affected": "2:2.9-7",
+  "fixed": "2:2.9-8",
+  "issues": [
+    "CVE-2021-0326"
+  ],
+  "name": "AVG-1530",
+  "packages": [
+    "wpa_supplicant"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": "69525",
+  "type": "arbitrary code execution"
+}

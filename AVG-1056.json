@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "9.14.6-1",
+  "fixed": "9.14.7-1",
+  "issues": [
+    "CVE-2019-6476",
+    "CVE-2019-6475"
+  ],
+  "name": "AVG-1056",
+  "packages": [
+    "bind"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201610-3"
+  ],
+  "affected": "2.5-2",
+  "fixed": "2.6-1",
+  "issues": [
+    "CVE-2016-4477",
+    "CVE-2016-4476"
+  ],
+  "name": "AVG-10",
+  "packages": [
+    "hostapd"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": "49196",
+  "type": "multiple issues"
+}

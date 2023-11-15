@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202204-3"
+  ],
+  "affected": "1:1.2.11-1",
+  "fixed": "1:1.2.12-1",
+  "issues": [
+    "CVE-2018-25032"
+  ],
+  "name": "AVG-2657",
+  "packages": [
+    "zlib"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

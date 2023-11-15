@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.35.2-1",
+  "fixed": "2.35.3-1",
+  "issues": [
+    "CVE-2022-24765"
+  ],
+  "name": "AVG-2679",
+  "packages": [
+    "git"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary command execution"
+}

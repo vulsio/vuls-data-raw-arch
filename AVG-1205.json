@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "9.0.35-1",
+  "fixed": "9.0.37-1",
+  "issues": [
+    "CVE-2020-13935",
+    "CVE-2020-13934"
+  ],
+  "name": "AVG-1205",
+  "packages": [
+    "tomcat9"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

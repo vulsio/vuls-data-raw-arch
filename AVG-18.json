@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201610-8"
+  ],
+  "affected": "5.6.4-2",
+  "fixed": "5.6.5-1",
+  "issues": [
+    "CVE-2016-7420"
+  ],
+  "name": "AVG-18",
+  "packages": [
+    "crypto++"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": "51331",
+  "type": "information disclosure"
+}

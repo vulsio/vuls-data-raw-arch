@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "93.0.4577.82-2",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-37969",
+    "CVE-2021-37964"
+  ],
+  "name": "AVG-2411",
+  "packages": [
+    "chromium"
+  ],
+  "severity": "Medium",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "7.0.11.13-3",
+  "fixed": "7.0.11.14-1",
+  "issues": [
+    "CVE-2021-3610"
+  ],
+  "name": "AVG-2085",
+  "packages": [
+    "imagemagick"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

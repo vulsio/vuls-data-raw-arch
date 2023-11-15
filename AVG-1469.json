@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.4.91-1",
+  "fixed": "5.4.92-1",
+  "issues": [
+    "CVE-2021-3178"
+  ],
+  "name": "AVG-1469",
+  "packages": [
+    "linux-lts"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "directory traversal"
+}

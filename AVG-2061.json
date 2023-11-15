@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.55-3",
+  "fixed": "5.56-1",
+  "issues": [
+    "CVE-2021-3588"
+  ],
+  "name": "AVG-2061",
+  "packages": [
+    "bluez"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "information disclosure"
+}

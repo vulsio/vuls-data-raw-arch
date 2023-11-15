@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "4.9.76-1",
+  "fixed": "4.9.77-1",
+  "issues": [
+    "CVE-2017-17741"
+  ],
+  "name": "AVG-992",
+  "packages": [
+    "linux-lts"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "information disclosure"
+}

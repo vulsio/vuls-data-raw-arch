@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.11.6.hardened1-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-3428"
+  ],
+  "name": "AVG-1694",
+  "packages": [
+    "linux-hardened"
+  ],
+  "severity": "Medium",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "denial of service"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.37.1-3",
+  "fixed": "2.37.2-1",
+  "issues": [
+    "CVE-2021-37600"
+  ],
+  "name": "AVG-2236",
+  "packages": [
+    "util-linux"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

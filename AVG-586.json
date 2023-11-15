@@ -1,0 +1,20 @@
+{
+  "advisories": [
+    "ASA-201806-3"
+  ],
+  "affected": "1.16-1",
+  "fixed": "1.16.1-1",
+  "issues": [
+    "CVE-2018-5730",
+    "CVE-2018-5729",
+    "CVE-2018-5709"
+  ],
+  "name": "AVG-586",
+  "packages": [
+    "krb5"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

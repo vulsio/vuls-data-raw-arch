@@ -1,0 +1,21 @@
+{
+  "advisories": [
+    "ASA-201701-15"
+  ],
+  "affected": "9.11.0.P1-3",
+  "fixed": "9.11.0.P2-1",
+  "issues": [
+    "CVE-2016-9778",
+    "CVE-2016-9444",
+    "CVE-2016-9147",
+    "CVE-2016-9131"
+  ],
+  "name": "AVG-132",
+  "packages": [
+    "bind"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

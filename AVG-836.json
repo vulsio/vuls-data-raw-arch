@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201901-15"
+  ],
+  "affected": "1.8.14-1",
+  "fixed": "1.9.0-1",
+  "issues": [
+    "CVE-2018-20103",
+    "CVE-2018-20102"
+  ],
+  "name": "AVG-836",
+  "packages": [
+    "haproxy"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

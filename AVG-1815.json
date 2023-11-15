@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "3.04-1",
+  "fixed": "3.06.0.1-1",
+  "issues": [
+    "CVE-2021-3496"
+  ],
+  "name": "AVG-1815",
+  "packages": [
+    "jhead"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "13.10.4-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-22903"
+  ],
+  "name": "AVG-1919",
+  "packages": [
+    "gitlab"
+  ],
+  "severity": "Medium",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "open redirect"
+}

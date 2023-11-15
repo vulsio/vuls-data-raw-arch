@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.17.9.hardened1-1",
+  "fixed": "5.17.10.hardened1-1",
+  "issues": [
+    "CVE-2022-1729"
+  ],
+  "name": "AVG-2747",
+  "packages": [
+    "linux-hardened"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "privilege escalation"
+}

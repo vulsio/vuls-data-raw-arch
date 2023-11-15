@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "42.1-1",
+  "fixed": "42.1.1-1",
+  "issues": [
+    "CVE-2022-1736"
+  ],
+  "name": "AVG-2737",
+  "packages": [
+    "gnome-remote-desktop"
+  ],
+  "severity": "Unknown",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "unknown"
+}

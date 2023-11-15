@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "3.2.1-1",
+  "fixed": "3.2.2-1",
+  "issues": [
+    "CVE-2021-32052"
+  ],
+  "name": "AVG-1924",
+  "packages": [
+    "python-django"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "url request injection"
+}

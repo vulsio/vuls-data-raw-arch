@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201901-6"
+  ],
+  "affected": "2.1.4-1",
+  "fixed": "2.1.5-1",
+  "issues": [
+    "CVE-2019-3498"
+  ],
+  "name": "AVG-839",
+  "packages": [
+    "python-django"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "content spoofing"
+}

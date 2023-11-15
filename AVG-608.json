@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201802-6"
+  ],
+  "affected": "4.90-3",
+  "fixed": "4.90.1-1",
+  "issues": [
+    "CVE-2018-6789"
+  ],
+  "name": "AVG-608",
+  "packages": [
+    "exim"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

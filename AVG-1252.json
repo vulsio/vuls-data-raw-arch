@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-202011-4",
+    "ASA-202011-4"
+  ],
+  "affected": "1.20.1-1",
+  "fixed": "1.21.0-1",
+  "issues": [
+    "CVE-2020-26891"
+  ],
+  "name": "AVG-1252",
+  "packages": [
+    "matrix-synapse"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "cross-site scripting"
+}

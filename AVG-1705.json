@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "0.3.6-4",
+  "fixed": "0.3.6-5",
+  "issues": [
+    "CVE-2021-3407"
+  ],
+  "name": "AVG-1705",
+  "packages": [
+    "zathura-pdf-mupdf"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": "70054",
+  "type": "arbitrary code execution"
+}

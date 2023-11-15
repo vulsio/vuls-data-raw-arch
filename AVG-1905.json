@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "14.2.1-1",
+  "fixed": "14.2.2-1",
+  "issues": [
+    "CVE-2021-31799"
+  ],
+  "name": "AVG-1905",
+  "packages": [
+    "gitlab-gitaly"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary command execution"
+}

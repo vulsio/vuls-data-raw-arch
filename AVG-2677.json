@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.37.1-1",
+  "fixed": "1.37.2-1",
+  "issues": [
+    "CVE-2022-28202"
+  ],
+  "name": "AVG-2677",
+  "packages": [
+    "mediawiki"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "cross-site scripting"
+}

@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201711-42"
+  ],
+  "affected": "1.1.14-1",
+  "fixed": "1.1.15-1",
+  "issues": [
+    "CVE-2017-16612"
+  ],
+  "name": "AVG-532",
+  "packages": [
+    "lib32-libxcursor"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

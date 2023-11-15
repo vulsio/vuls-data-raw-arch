@@ -1,0 +1,18 @@
+{
+  "advisories": [],
+  "affected": "90.0.4430.212-1",
+  "fixed": "91.0.4472.77-1",
+  "issues": [
+    "CVE-2021-30540",
+    "CVE-2021-30528",
+    "CVE-2021-30521"
+  ],
+  "name": "AVG-2044",
+  "packages": [
+    "chromium"
+  ],
+  "severity": "High",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "multiple issues"
+}

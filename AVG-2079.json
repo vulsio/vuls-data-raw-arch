@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "0.13.1-9",
+  "fixed": "0.14.0-1",
+  "issues": [
+    "CVE-2021-34825"
+  ],
+  "name": "AVG-2079",
+  "packages": [
+    "quassel-core"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": "71419",
+  "type": "certificate verification bypass"
+}

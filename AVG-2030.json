@@ -1,0 +1,20 @@
+{
+  "advisories": [],
+  "affected": "5.12.9.arch1-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2020-26146",
+    "CVE-2020-26144",
+    "CVE-2020-26143",
+    "CVE-2020-26142",
+    "CVE-2020-26140"
+  ],
+  "name": "AVG-2030",
+  "packages": [
+    "linux"
+  ],
+  "severity": "Medium",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "insufficient validation"
+}

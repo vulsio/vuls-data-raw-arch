@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "4.11-1",
+  "fixed": "4.12-1",
+  "issues": [
+    "CVE-2016-1951"
+  ],
+  "name": "AVG-933",
+  "packages": [
+    "nspr"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

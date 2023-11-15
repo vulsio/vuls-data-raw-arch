@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.8.7.zen1-1",
+  "fixed": "5.8.8.zen1-1",
+  "issues": [
+    "CVE-2020-14386"
+  ],
+  "name": "AVG-1224",
+  "packages": [
+    "linux-zen"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "privilege escalation"
+}

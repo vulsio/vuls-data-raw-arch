@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201712-7"
+  ],
+  "affected": "1.2.1-2",
+  "fixed": "1.2.2-1",
+  "issues": [
+    "CVE-2017-16227"
+  ],
+  "name": "AVG-481",
+  "packages": [
+    "quagga"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": "56250",
+  "type": "denial of service"
+}

@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202105-16"
+  ],
+  "affected": "2.5-1",
+  "fixed": "2.6.1-1",
+  "issues": [
+    "CVE-2021-32305"
+  ],
+  "name": "AVG-1969",
+  "packages": [
+    "websvn"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary command execution"
+}

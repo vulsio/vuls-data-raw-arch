@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "7.52.1-2",
+  "fixed": "7.53.0-1",
+  "issues": [
+    "CVE-2017-7468",
+    "CVE-2017-2629"
+  ],
+  "name": "AVG-184",
+  "packages": [
+    "lib32-libcurl-gnutls"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

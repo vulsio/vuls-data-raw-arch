@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "91.9.0-1",
+  "fixed": "91.9.1-1",
+  "issues": [
+    "CVE-2022-1802",
+    "CVE-2022-1529"
+  ],
+  "name": "AVG-2729",
+  "packages": [
+    "thunderbird"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

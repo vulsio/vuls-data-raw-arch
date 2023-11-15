@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201709-12"
+  ],
+  "affected": "4.13.1-1.1",
+  "fixed": "4.13.2-1",
+  "issues": [
+    "CVE-2017-1000251"
+  ],
+  "name": "AVG-394",
+  "packages": [
+    "linux-zen"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": "55601",
+  "type": "arbitrary code execution"
+}

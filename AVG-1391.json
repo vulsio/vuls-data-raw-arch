@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.17.4-4",
+  "fixed": "1.17.4-5",
+  "issues": [
+    "CVE-2020-35492"
+  ],
+  "name": "AVG-1391",
+  "packages": [
+    "cairo"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": "70017",
+  "type": "arbitrary code execution"
+}

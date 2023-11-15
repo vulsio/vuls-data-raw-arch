@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.4.3-2",
+  "fixed": "2.4.4-1",
+  "issues": [
+    "CVE-2021-40346"
+  ],
+  "name": "AVG-2343",
+  "packages": [
+    "haproxy"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "insufficient validation"
+}

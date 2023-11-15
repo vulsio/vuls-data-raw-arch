@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-202006-13"
+  ],
+  "affected": "9.16.3-1",
+  "fixed": "9.16.4-1",
+  "issues": [
+    "CVE-2020-8619",
+    "CVE-2020-8618"
+  ],
+  "name": "AVG-1191",
+  "packages": [
+    "bind"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

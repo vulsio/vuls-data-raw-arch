@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.15.2-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2017-15088"
+  ],
+  "name": "AVG-505",
+  "packages": [
+    "krb5"
+  ],
+  "severity": "Critical",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

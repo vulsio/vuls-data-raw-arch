@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201706-29"
+  ],
+  "affected": "4.1.0-1",
+  "fixed": "4.2.5-1",
+  "issues": [
+    "CVE-2017-6429"
+  ],
+  "name": "AVG-211",
+  "packages": [
+    "tcpreplay"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

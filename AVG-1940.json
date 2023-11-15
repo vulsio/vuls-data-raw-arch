@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "4.16.6-1",
+  "fixed": "4.16.7-1",
+  "issues": [
+    "CVE-2021-32563"
+  ],
+  "name": "AVG-1940",
+  "packages": [
+    "thunar"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary command execution"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.7.4-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2020-28086"
+  ],
+  "name": "AVG-1342",
+  "packages": [
+    "pass"
+  ],
+  "severity": "Medium",
+  "status": "Vulnerable",
+  "ticket": null,
+  "type": "insufficient validation"
+}

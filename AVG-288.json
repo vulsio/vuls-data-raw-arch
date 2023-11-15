@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.6.5-3",
+  "fixed": "6.0.0-2",
+  "issues": [
+    "CVE-2017-9434"
+  ],
+  "name": "AVG-288",
+  "packages": [
+    "crypto++"
+  ],
+  "severity": "Medium",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "denial of service"
+}

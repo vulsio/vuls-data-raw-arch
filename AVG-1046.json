@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201912-3"
+  ],
+  "affected": "8.2.0-1",
+  "fixed": "8.2.0-2",
+  "issues": [
+    "CVE-2019-14318"
+  ],
+  "name": "AVG-1046",
+  "packages": [
+    "crypto++"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "private key recovery"
+}

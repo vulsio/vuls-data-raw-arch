@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201701-5"
+  ],
+  "affected": "1.6.26-1",
+  "fixed": "1.6.27-1",
+  "issues": [
+    "CVE-2016-10087"
+  ],
+  "name": "AVG-120",
+  "packages": [
+    "lib32-libpng"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

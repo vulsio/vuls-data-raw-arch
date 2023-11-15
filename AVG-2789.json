@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "2.36.4-2",
+  "fixed": "2.36.5-1",
+  "issues": [
+    "CVE-2022-32816",
+    "CVE-2022-32792"
+  ],
+  "name": "AVG-2789",
+  "packages": [
+    "wpewebkit"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

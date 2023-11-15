@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.0.8-1",
+  "fixed": "2.0.10-1",
+  "issues": [
+    "CVE-2021-28166"
+  ],
+  "name": "AVG-1793",
+  "packages": [
+    "mosquitto"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

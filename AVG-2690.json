@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "1.1.3-1",
+  "fixed": "1.2.0-1",
+  "issues": [
+    "CVE-2021-25746",
+    "CVE-2021-25745"
+  ],
+  "name": "AVG-2690",
+  "packages": [
+    "kubectl-ingress-nginx"
+  ],
+  "severity": "High",
+  "status": "Vulnerable",
+  "ticket": null,
+  "type": "information disclosure"
+}

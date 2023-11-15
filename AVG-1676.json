@@ -1,0 +1,19 @@
+{
+  "advisories": [],
+  "affected": "3.96-2",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-30501",
+    "CVE-2021-30500",
+    "CVE-2021-20285",
+    "CVE-2020-24119"
+  ],
+  "name": "AVG-1676",
+  "packages": [
+    "upx"
+  ],
+  "severity": "Medium",
+  "status": "Vulnerable",
+  "ticket": null,
+  "type": "multiple issues"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.4.0-7",
+  "fixed": "2.4.1-1",
+  "issues": [
+    "CVE-2021-3605"
+  ],
+  "name": "AVG-2107",
+  "packages": [
+    "openexr"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

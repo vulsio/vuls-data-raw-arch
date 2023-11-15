@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201705-11"
+  ],
+  "affected": "2.0.0-1",
+  "fixed": "2.0.0-2",
+  "issues": [
+    "CVE-2017-8849"
+  ],
+  "name": "AVG-268",
+  "packages": [
+    "smb4k"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "privilege escalation"
+}

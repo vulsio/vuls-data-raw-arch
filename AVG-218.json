@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.10_a-2",
+  "fixed": null,
+  "issues": [
+    "CVE-2017-6060"
+  ],
+  "name": "AVG-218",
+  "packages": [
+    "mupdf"
+  ],
+  "severity": "High",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

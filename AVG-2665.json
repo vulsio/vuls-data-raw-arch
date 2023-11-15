@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202204-8"
+  ],
+  "affected": "5.2.5-2",
+  "fixed": "5.2.5-3",
+  "issues": [
+    "CVE-2022-1271"
+  ],
+  "name": "AVG-2665",
+  "packages": [
+    "xz"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary command execution"
+}

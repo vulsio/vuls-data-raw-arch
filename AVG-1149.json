@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-202005-2"
+  ],
+  "affected": "81.0.4044.129-2",
+  "fixed": "81.0.4044.138-1",
+  "issues": [
+    "CVE-2020-6831",
+    "CVE-2020-6464"
+  ],
+  "name": "AVG-1149",
+  "packages": [
+    "chromium"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

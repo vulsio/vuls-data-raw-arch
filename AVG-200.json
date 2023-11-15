@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201703-6"
+  ],
+  "affected": "4.9.13-1",
+  "fixed": "4.9.14-1",
+  "issues": [
+    "CVE-2017-2636"
+  ],
+  "name": "AVG-200",
+  "packages": [
+    "linux-lts"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": "53242",
+  "type": "privilege escalation"
+}

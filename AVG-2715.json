@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "99.0.4844.82-1",
+  "fixed": "99.0.4844.84-1",
+  "issues": [
+    "CVE-2022-1096"
+  ],
+  "name": "AVG-2715",
+  "packages": [
+    "chromium"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "unknown"
+}

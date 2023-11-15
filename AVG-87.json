@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201707-18"
+  ],
+  "affected": "4.0.7-1",
+  "fixed": "4.0.8-1",
+  "issues": [
+    "CVE-2016-10095",
+    "CVE-2015-7554"
+  ],
+  "name": "AVG-87",
+  "packages": [
+    "lib32-libtiff"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": "54842",
+  "type": "arbitrary code execution"
+}

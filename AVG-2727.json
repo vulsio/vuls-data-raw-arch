@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "9.18.2-1",
+  "fixed": "9.18.3-1",
+  "issues": [
+    "CVE-2022-1183"
+  ],
+  "name": "AVG-2727",
+  "packages": [
+    "bind"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "incorrect calculation"
+}

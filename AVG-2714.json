@@ -1,0 +1,22 @@
+{
+  "advisories": [],
+  "affected": "97.0.2-1",
+  "fixed": "98.0-1",
+  "issues": [
+    "CVE-2022-26387",
+    "CVE-2022-26385",
+    "CVE-2022-26384",
+    "CVE-2022-26383",
+    "CVE-2022-26382",
+    "CVE-2022-26381",
+    "CVE-2022-0843"
+  ],
+  "name": "AVG-2714",
+  "packages": [
+    "firefox"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

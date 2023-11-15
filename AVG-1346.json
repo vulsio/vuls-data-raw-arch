@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.2.6.2-2",
+  "fixed": null,
+  "issues": [
+    "CVE-2020-35132"
+  ],
+  "name": "AVG-1346",
+  "packages": [
+    "phpldapadmin"
+  ],
+  "severity": "Medium",
+  "status": "Vulnerable",
+  "ticket": null,
+  "type": "cross-site scripting"
+}

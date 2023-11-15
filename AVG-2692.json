@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.17.3.hardened1-1",
+  "fixed": "5.17.5.hardened1-1",
+  "issues": [
+    "CVE-2022-29582"
+  ],
+  "name": "AVG-2692",
+  "packages": [
+    "linux-hardened"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "sandbox escape"
+}

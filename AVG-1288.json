@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202011-25"
+  ],
+  "affected": "2.0.1-1",
+  "fixed": "2.0.2-1",
+  "issues": [
+    "CVE-2020-28896"
+  ],
+  "name": "AVG-1288",
+  "packages": [
+    "mutt"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "silent downgrade"
+}

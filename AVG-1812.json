@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "21.1.0-1",
+  "fixed": "21.1.1-1",
+  "issues": [
+    "CVE-2021-3472"
+  ],
+  "name": "AVG-1812",
+  "packages": [
+    "xorg-xwayland"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "privilege escalation"
+}

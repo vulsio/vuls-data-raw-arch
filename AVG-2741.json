@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.17.9.zen1-1",
+  "fixed": "5.17.10.zen1-1",
+  "issues": [
+    "CVE-2022-21499"
+  ],
+  "name": "AVG-2741",
+  "packages": [
+    "linux-zen"
+  ],
+  "severity": "Unknown",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "unknown"
+}

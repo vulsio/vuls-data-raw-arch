@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201710-8"
+  ],
+  "affected": "1.15.1-1",
+  "fixed": "1.15.2-1",
+  "issues": [
+    "CVE-2017-11462",
+    "CVE-2017-11368"
+  ],
+  "name": "AVG-414",
+  "packages": [
+    "krb5"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

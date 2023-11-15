@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.18.0-2",
+  "fixed": "1.19.0-1",
+  "issues": [
+    "CVE-2021-37220"
+  ],
+  "name": "AVG-2205",
+  "packages": [
+    "mupdf"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

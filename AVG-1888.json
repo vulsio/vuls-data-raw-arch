@@ -1,0 +1,22 @@
+{
+  "advisories": [
+    "ASA-202105-4"
+  ],
+  "affected": "13.10.3-2",
+  "fixed": "13.10.4-1",
+  "issues": [
+    "CVE-2021-22211",
+    "CVE-2021-22210",
+    "CVE-2021-22209",
+    "CVE-2021-22208",
+    "CVE-2021-22206"
+  ],
+  "name": "AVG-1888",
+  "packages": [
+    "gitlab"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201802-4",
+    "ASA-201802-4"
+  ],
+  "affected": "5.11.5-2",
+  "fixed": "5.12.0-1",
+  "issues": [
+    "CVE-2018-6791"
+  ],
+  "name": "AVG-607",
+  "packages": [
+    "plasma-workspace"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary command execution"
+}

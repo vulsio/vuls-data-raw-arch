@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201707-7"
+  ],
+  "affected": "20170416-1",
+  "fixed": "20170709-1",
+  "issues": [
+    "CVE-2017-9998"
+  ],
+  "name": "AVG-332",
+  "packages": [
+    "libdwarf"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

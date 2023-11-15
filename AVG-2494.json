@@ -1,0 +1,18 @@
+{
+  "advisories": [],
+  "affected": "0.27.5-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2020-18898",
+    "CVE-2020-18774",
+    "CVE-2020-18773"
+  ],
+  "name": "AVG-2494",
+  "packages": [
+    "exiv2"
+  ],
+  "severity": "Low",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "denial of service"
+}

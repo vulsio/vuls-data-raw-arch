@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-202110-4"
+  ],
+  "affected": "16.11.0-1",
+  "fixed": "16.11.1-1",
+  "issues": [
+    "CVE-2021-22960",
+    "CVE-2021-22959"
+  ],
+  "name": "AVG-2460",
+  "packages": [
+    "nodejs"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "url request injection"
+}

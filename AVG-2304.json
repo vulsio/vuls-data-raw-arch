@@ -1,0 +1,18 @@
+{
+  "advisories": [],
+  "affected": "2.4.2-1",
+  "fixed": "2.4.3-1",
+  "issues": [
+    "CVE-2021-39242",
+    "CVE-2021-39241",
+    "CVE-2021-39240"
+  ],
+  "name": "AVG-2304",
+  "packages": [
+    "haproxy"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "insufficient validation"
+}

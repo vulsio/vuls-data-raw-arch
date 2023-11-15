@@ -1,0 +1,20 @@
+{
+  "advisories": [
+    "ASA-201906-12"
+  ],
+  "affected": "5.1.10.a-1",
+  "fixed": "5.1.11.a-1",
+  "issues": [
+    "CVE-2019-11479",
+    "CVE-2019-11478",
+    "CVE-2019-11477"
+  ],
+  "name": "AVG-986",
+  "packages": [
+    "linux-hardened"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201703-10"
+  ],
+  "affected": "1.2.3-1",
+  "fixed": "1.2.4-1",
+  "issues": [
+    "CVE-2017-6820"
+  ],
+  "name": "AVG-199",
+  "packages": [
+    "roundcubemail"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "cross-site scripting"
+}

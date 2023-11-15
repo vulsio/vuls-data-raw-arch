@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.34.5-1",
+  "fixed": "2.34.6-1",
+  "issues": [
+    "CVE-2022-22620"
+  ],
+  "name": "AVG-2650",
+  "packages": [
+    "webkit2gtk-4.1"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

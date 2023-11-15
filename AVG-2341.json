@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "0.8+20+gd1e71b3-1",
+  "fixed": "0.8+22+gfd482a7-1",
+  "issues": [
+    "CVE-2021-3502"
+  ],
+  "name": "AVG-2341",
+  "packages": [
+    "avahi"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

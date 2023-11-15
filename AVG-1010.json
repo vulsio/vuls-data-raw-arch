@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201908-9"
+  ],
+  "affected": "6.1.6-2",
+  "fixed": "6.2.6-1",
+  "issues": [
+    "CVE-2019-9849",
+    "CVE-2019-9848"
+  ],
+  "name": "AVG-1010",
+  "packages": [
+    "libreoffice-still"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

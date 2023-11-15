@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.7.0-1",
+  "fixed": "1.8.4-1",
+  "issues": [
+    "CVE-2020-25201"
+  ],
+  "name": "AVG-1295",
+  "packages": [
+    "consul"
+  ],
+  "severity": "Medium",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "denial of service"
+}

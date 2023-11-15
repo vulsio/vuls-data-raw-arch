@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201707-6"
+  ],
+  "affected": "3.4.15-1",
+  "fixed": "3.5.13-1",
+  "issues": [
+    "CVE-2017-7507"
+  ],
+  "name": "AVG-295",
+  "packages": [
+    "lib32-gnutls"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

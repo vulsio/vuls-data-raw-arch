@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "3003.2-1",
+  "fixed": "3003.3-1",
+  "issues": [
+    "CVE-2021-21996"
+  ],
+  "name": "AVG-2354",
+  "packages": [
+    "salt"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary filesystem access"
+}

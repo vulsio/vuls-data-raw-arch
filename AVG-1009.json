@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "6.2.4-2",
+  "fixed": "6.2.5-1",
+  "issues": [
+    "CVE-2019-9849",
+    "CVE-2019-9848"
+  ],
+  "name": "AVG-1009",
+  "packages": [
+    "libreoffice-fresh"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

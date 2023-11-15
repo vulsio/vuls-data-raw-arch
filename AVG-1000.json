@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201907-2"
+  ],
+  "affected": "2.2.2-1",
+  "fixed": "2.2.3-1",
+  "issues": [
+    "CVE-2019-12781"
+  ],
+  "name": "AVG-1000",
+  "packages": [
+    "python-django"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "silent downgrade"
+}

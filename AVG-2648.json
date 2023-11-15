@@ -1,0 +1,18 @@
+{
+  "advisories": [],
+  "affected": "4.15.4-1",
+  "fixed": "4.15.5-1",
+  "issues": [
+    "CVE-2022-0336",
+    "CVE-2021-44142",
+    "CVE-2021-44141"
+  ],
+  "name": "AVG-2648",
+  "packages": [
+    "samba"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

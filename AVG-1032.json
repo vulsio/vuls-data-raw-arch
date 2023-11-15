@@ -1,0 +1,18 @@
+{
+  "advisories": [],
+  "affected": "1.5.0-14",
+  "fixed": "1.8.0-1",
+  "issues": [
+    "CVE-2019-6474",
+    "CVE-2019-6473",
+    "CVE-2019-6472"
+  ],
+  "name": "AVG-1032",
+  "packages": [
+    "kea"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

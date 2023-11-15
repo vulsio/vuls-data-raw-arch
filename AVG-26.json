@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201609-25"
+  ],
+  "affected": "3.4.14-1",
+  "fixed": "3.4.15-1",
+  "issues": [
+    "CVE-2016-7444"
+  ],
+  "name": "AVG-26",
+  "packages": [
+    "gnutls"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "certificate verification bypass"
+}

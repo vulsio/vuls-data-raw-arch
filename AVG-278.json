@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201705-20"
+  ],
+  "affected": "2.4.9-1",
+  "fixed": "2.5.0-1",
+  "issues": [
+    "CVE-2017-8108"
+  ],
+  "name": "AVG-278",
+  "packages": [
+    "lynis"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": "54067",
+  "type": "arbitrary file overwrite"
+}

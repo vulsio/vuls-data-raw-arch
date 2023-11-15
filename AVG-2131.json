@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202107-36"
+  ],
+  "affected": "1.41.0-1",
+  "fixed": "1.41.1-1",
+  "issues": [
+    "CVE-2021-22918"
+  ],
+  "name": "AVG-2131",
+  "packages": [
+    "libuv"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "information disclosure"
+}

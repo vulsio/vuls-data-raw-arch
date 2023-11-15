@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "2.3.3-3",
+  "fixed": null,
+  "issues": [
+    "CVE-2020-28598",
+    "CVE-2020-28594"
+  ],
+  "name": "AVG-2142",
+  "packages": [
+    "prusa-slicer"
+  ],
+  "severity": "Medium",
+  "status": "Vulnerable",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

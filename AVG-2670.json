@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.15.14-1",
+  "fixed": "5.15.15-1",
+  "issues": [
+    "CVE-2022-23222"
+  ],
+  "name": "AVG-2670",
+  "packages": [
+    "linux-lts"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "privilege escalation"
+}

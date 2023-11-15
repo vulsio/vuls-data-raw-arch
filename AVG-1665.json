@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202103-3"
+  ],
+  "affected": "2.30.1-1",
+  "fixed": "2.30.2-1",
+  "issues": [
+    "CVE-2021-21300"
+  ],
+  "name": "AVG-1665",
+  "packages": [
+    "git"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

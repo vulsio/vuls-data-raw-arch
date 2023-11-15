@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.0.6-7",
+  "fixed": "1.1.0-1",
+  "issues": [
+    "CVE-2019-19977"
+  ],
+  "name": "AVG-2086",
+  "packages": [
+    "libesmtp"
+  ],
+  "severity": "High",
+  "status": "Not affected",
+  "ticket": "71292",
+  "type": "arbitrary code execution"
+}

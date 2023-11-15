@@ -1,0 +1,20 @@
+{
+  "advisories": [],
+  "affected": "3.0.31-1",
+  "fixed": "3.0.32-1",
+  "issues": [
+    "CVE-2021-20276",
+    "CVE-2021-20275",
+    "CVE-2021-20274",
+    "CVE-2021-20273",
+    "CVE-2021-20272"
+  ],
+  "name": "AVG-1656",
+  "packages": [
+    "privoxy"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

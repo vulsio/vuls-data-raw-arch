@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202102-19"
+  ],
+  "affected": "2.11.2-4",
+  "fixed": "2.11.3-1",
+  "issues": [
+    "CVE-2020-28493"
+  ],
+  "name": "AVG-1523",
+  "packages": [
+    "python-jinja"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

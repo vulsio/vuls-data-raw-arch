@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201810-2"
+  ],
+  "affected": "4.2.8.p11-2",
+  "fixed": "4.2.8.p12-1",
+  "issues": [
+    "CVE-2018-12327"
+  ],
+  "name": "AVG-723",
+  "packages": [
+    "ntp"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1:20.10.10-1",
+  "fixed": "1:20.10.11-1",
+  "issues": [
+    "CVE-2021-41190"
+  ],
+  "name": "AVG-2574",
+  "packages": [
+    "docker"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "insufficient validation"
+}

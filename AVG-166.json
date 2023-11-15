@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201702-6"
+  ],
+  "affected": "1.10.2-1",
+  "fixed": "1.10.3-1",
+  "issues": [
+    "CVE-2017-5847",
+    "CVE-2017-5846"
+  ],
+  "name": "AVG-166",
+  "packages": [
+    "gst-plugins-ugly"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

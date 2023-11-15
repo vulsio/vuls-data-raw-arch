@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "5.11.11.arch1-1",
+  "fixed": "5.11.12.arch1-1",
+  "issues": [
+    "CVE-2021-3483",
+    "CVE-2021-29657"
+  ],
+  "name": "AVG-1764",
+  "packages": [
+    "linux"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

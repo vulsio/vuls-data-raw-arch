@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.2-5",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-41867"
+  ],
+  "name": "AVG-2437",
+  "packages": [
+    "onionshare"
+  ],
+  "severity": "Medium",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "information disclosure"
+}

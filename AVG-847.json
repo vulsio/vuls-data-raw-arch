@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201901-8"
+  ],
+  "affected": "1.1.1-2",
+  "fixed": "1.1.2-1",
+  "issues": [
+    "CVE-2019-5882"
+  ],
+  "name": "AVG-847",
+  "packages": [
+    "irssi"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

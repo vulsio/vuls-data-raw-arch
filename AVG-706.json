@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201805-20"
+  ],
+  "affected": "9.12.1-1",
+  "fixed": "9.12.1.P2-1",
+  "issues": [
+    "CVE-2018-5737",
+    "CVE-2018-5736"
+  ],
+  "name": "AVG-706",
+  "packages": [
+    "bind"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "2.24.4-1",
+  "fixed": "2.26.0-1",
+  "issues": [
+    "CVE-2021-30761",
+    "CVE-2021-30666"
+  ],
+  "name": "AVG-2210",
+  "packages": [
+    "webkit2gtk"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

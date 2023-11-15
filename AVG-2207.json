@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.13-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2020-25691"
+  ],
+  "name": "AVG-2207",
+  "packages": [
+    "darkhttpd"
+  ],
+  "severity": "Low",
+  "status": "Vulnerable",
+  "ticket": null,
+  "type": "denial of service"
+}

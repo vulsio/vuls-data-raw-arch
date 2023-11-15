@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202003-7"
+  ],
+  "affected": "2.16.3-1",
+  "fixed": "2.16.5-1",
+  "issues": [
+    "CVE-2019-18222"
+  ],
+  "name": "AVG-1104",
+  "packages": [
+    "mbedtls"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "private key recovery"
+}

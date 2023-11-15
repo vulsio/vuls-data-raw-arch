@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.2.1-3",
+  "fixed": "2.2.1-4",
+  "issues": [
+    "CVE-2023-43641"
+  ],
+  "name": "AVG-2844",
+  "packages": [
+    "libcue"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

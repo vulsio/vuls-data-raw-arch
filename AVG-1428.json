@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.9.4-2",
+  "fixed": "1.9.4-3",
+  "issues": [
+    "CVE-2020-15953"
+  ],
+  "name": "AVG-1428",
+  "packages": [
+    "libetpan"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": "69284",
+  "type": "man-in-the-middle"
+}

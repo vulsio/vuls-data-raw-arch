@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "4.18.zen1-1",
+  "fixed": "4.19.1.zen1-1",
+  "issues": [
+    "CVE-2018-5391"
+  ],
+  "name": "AVG-761",
+  "packages": [
+    "linux-zen"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

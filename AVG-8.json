@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201701-34"
+  ],
+  "affected": "1.2.0-3",
+  "fixed": "1.2.0-4",
+  "issues": [
+    "CVE-2016-5104"
+  ],
+  "name": "AVG-8",
+  "packages": [
+    "libimobiledevice"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "access restriction bypass"
+}

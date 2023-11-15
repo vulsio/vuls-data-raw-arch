@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202004-10"
+  ],
+  "affected": "3.2.2-1",
+  "fixed": "3.2.3-1",
+  "issues": [
+    "CVE-2020-11647"
+  ],
+  "name": "AVG-1129",
+  "packages": [
+    "wireshark-cli"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

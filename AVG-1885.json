@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.0.12-1",
+  "fixed": "2.0.13-1",
+  "issues": [
+    "CVE-2021-29472"
+  ],
+  "name": "AVG-1885",
+  "packages": [
+    "composer"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

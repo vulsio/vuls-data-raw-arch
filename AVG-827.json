@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.16.0-1",
+  "fixed": "1.16.0-2",
+  "issues": [
+    "CVE-2018-19876"
+  ],
+  "name": "AVG-827",
+  "packages": [
+    "lib32-cairo"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

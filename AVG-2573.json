@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.5.7-1",
+  "fixed": "1.5.8-1",
+  "issues": [
+    "CVE-2021-41190"
+  ],
+  "name": "AVG-2573",
+  "packages": [
+    "containerd"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "insufficient validation"
+}

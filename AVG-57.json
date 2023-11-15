@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201611-15"
+  ],
+  "affected": "1.10.2-1",
+  "fixed": "1.10.3-1",
+  "issues": [
+    "CVE-2016-9014",
+    "CVE-2016-9013"
+  ],
+  "name": "AVG-57",
+  "packages": [
+    "python-django"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "8.5.0-2",
+  "fixed": "8.6.0-1",
+  "issues": [
+    "CVE-2021-40530"
+  ],
+  "name": "AVG-2363",
+  "packages": [
+    "crypto++"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "information disclosure"
+}

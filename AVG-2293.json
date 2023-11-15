@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.33-5",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-38604"
+  ],
+  "name": "AVG-2293",
+  "packages": [
+    "glibc"
+  ],
+  "severity": "Low",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "denial of service"
+}

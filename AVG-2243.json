@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "3.17.8-2",
+  "fixed": "3.18.0-1",
+  "issues": [
+    "CVE-2021-37746"
+  ],
+  "name": "AVG-2243",
+  "packages": [
+    "claws-mail"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "insufficient validation"
+}

@@ -1,0 +1,26 @@
+{
+  "advisories": [
+    "ASA-201701-22"
+  ],
+  "affected": "4.7-1",
+  "fixed": "4.7.1-1",
+  "issues": [
+    "CVE-2017-5493",
+    "CVE-2017-5492",
+    "CVE-2017-5491",
+    "CVE-2017-5490",
+    "CVE-2017-5489",
+    "CVE-2017-5488",
+    "CVE-2017-5487",
+    "CVE-2016-10045",
+    "CVE-2016-10033"
+  ],
+  "name": "AVG-142",
+  "packages": [
+    "wordpress"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": "52555",
+  "type": "multiple issues"
+}

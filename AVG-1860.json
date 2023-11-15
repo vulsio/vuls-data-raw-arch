@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "1.7.0-1",
+  "fixed": "1.7.1-2",
+  "issues": [
+    "CVE-2021-29653",
+    "CVE-2021-27400"
+  ],
+  "name": "AVG-1860",
+  "packages": [
+    "vault"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "certificate verification bypass"
+}

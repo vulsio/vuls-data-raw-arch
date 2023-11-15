@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "3.20.1-1",
+  "fixed": "3.27.2-1",
+  "issues": [
+    "CVE-2018-20781"
+  ],
+  "name": "AVG-932",
+  "packages": [
+    "gnome-keyring"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "information disclosure"
+}

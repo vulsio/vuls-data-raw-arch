@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202101-5"
+  ],
+  "affected": "84.0.1-1",
+  "fixed": "84.0.2-1",
+  "issues": [
+    "CVE-2020-16044"
+  ],
+  "name": "AVG-1413",
+  "packages": [
+    "firefox"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

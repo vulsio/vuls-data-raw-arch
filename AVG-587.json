@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201801-14"
+  ],
+  "affected": "3.2.1-2",
+  "fixed": "3.2.1-3",
+  "issues": [
+    "CVE-2014-2913",
+    "CVE-2013-1362"
+  ],
+  "name": "AVG-587",
+  "packages": [
+    "nrpe"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": "57120",
+  "type": "arbitrary command execution"
+}

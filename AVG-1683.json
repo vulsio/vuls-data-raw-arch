@@ -1,0 +1,20 @@
+{
+  "advisories": [
+    "ASA-202103-9"
+  ],
+  "affected": "89.0.4389.82-2",
+  "fixed": "89.0.4389.90-1",
+  "issues": [
+    "CVE-2021-21193",
+    "CVE-2021-21192",
+    "CVE-2021-21191"
+  ],
+  "name": "AVG-1683",
+  "packages": [
+    "chromium"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

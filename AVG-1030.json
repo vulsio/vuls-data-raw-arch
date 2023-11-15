@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201908-22"
+  ],
+  "affected": "2.189-1",
+  "fixed": "2.192-1",
+  "issues": [
+    "CVE-2019-10384",
+    "CVE-2019-10383"
+  ],
+  "name": "AVG-1030",
+  "packages": [
+    "jenkins"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

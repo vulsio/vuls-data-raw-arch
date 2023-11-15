@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-202105-13"
+  ],
+  "affected": "1.4.0-2",
+  "fixed": "1.4.1.1-1",
+  "issues": [
+    "CVE-2020-12272",
+    "CVE-2019-20790"
+  ],
+  "name": "AVG-1375",
+  "packages": [
+    "opendmarc"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

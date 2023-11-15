@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "1.40.0-1",
+  "fixed": "1.41.1-1",
+  "issues": [
+    "CVE-2021-39164",
+    "CVE-2021-39163"
+  ],
+  "name": "AVG-2334",
+  "packages": [
+    "matrix-synapse"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "information disclosure"
+}

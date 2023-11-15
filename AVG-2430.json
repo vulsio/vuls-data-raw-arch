@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "253-1",
+  "fixed": "254-1",
+  "issues": [
+    "CVE-2021-3660"
+  ],
+  "name": "AVG-2430",
+  "packages": [
+    "cockpit"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "insufficient validation"
+}

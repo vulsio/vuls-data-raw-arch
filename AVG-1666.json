@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.11.5.arch1-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-20268"
+  ],
+  "name": "AVG-1666",
+  "packages": [
+    "linux"
+  ],
+  "severity": "Medium",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "privilege escalation"
+}

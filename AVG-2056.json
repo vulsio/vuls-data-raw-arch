@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "4.0.0-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-3533",
+    "CVE-2021-3532"
+  ],
+  "name": "AVG-2056",
+  "packages": [
+    "ansible"
+  ],
+  "severity": "Medium",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "information disclosure"
+}

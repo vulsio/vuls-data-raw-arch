@@ -1,0 +1,20 @@
+{
+  "advisories": [
+    "ASA-201710-3"
+  ],
+  "affected": "7.54.1-2",
+  "fixed": "7.56.0-1",
+  "issues": [
+    "CVE-2017-1000254",
+    "CVE-2017-1000100",
+    "CVE-2017-1000099"
+  ],
+  "name": "AVG-371",
+  "packages": [
+    "lib32-curl"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

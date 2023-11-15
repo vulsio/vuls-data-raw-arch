@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "6.2.0-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2018-11210"
+  ],
+  "name": "AVG-700",
+  "packages": [
+    "tinyxml2"
+  ],
+  "severity": "High",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

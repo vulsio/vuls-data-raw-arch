@@ -1,0 +1,20 @@
+{
+  "advisories": [
+    "ASA-201701-21"
+  ],
+  "affected": "1:0.24.3-1",
+  "fixed": "1:0.24.6-1",
+  "issues": [
+    "CVE-2016-10130",
+    "CVE-2016-10129",
+    "CVE-2016-10128"
+  ],
+  "name": "AVG-131",
+  "packages": [
+    "libgit2"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

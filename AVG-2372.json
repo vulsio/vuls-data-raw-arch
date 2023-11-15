@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.0.6-7",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-40839"
+  ],
+  "name": "AVG-2372",
+  "packages": [
+    "python-rencode"
+  ],
+  "severity": "Low",
+  "status": "Vulnerable",
+  "ticket": null,
+  "type": "denial of service"
+}

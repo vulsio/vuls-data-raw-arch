@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201706-23"
+  ],
+  "affected": "2.25-3",
+  "fixed": "2.25-4",
+  "issues": [
+    "CVE-2017-1000366"
+  ],
+  "name": "AVG-307",
+  "packages": [
+    "glibc"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "privilege escalation"
+}

@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201802-10"
+  ],
+  "affected": "5.6.1-1",
+  "fixed": "5.6.2-1",
+  "issues": [
+    "CVE-2018-6459"
+  ],
+  "name": "AVG-625",
+  "packages": [
+    "strongswan"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": "57597",
+  "type": "denial of service"
+}

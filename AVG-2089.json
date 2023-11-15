@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.2.1-5",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-29063"
+  ],
+  "name": "AVG-2089",
+  "packages": [
+    "python-mpmath"
+  ],
+  "severity": "Low",
+  "status": "Vulnerable",
+  "ticket": null,
+  "type": "denial of service"
+}

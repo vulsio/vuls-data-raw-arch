@@ -1,0 +1,20 @@
+{
+  "advisories": [
+    "ASA-202105-10"
+  ],
+  "affected": "4.14-1",
+  "fixed": "4.15-1",
+  "issues": [
+    "CVE-2021-28662",
+    "CVE-2021-28652",
+    "CVE-2021-28651"
+  ],
+  "name": "AVG-1949",
+  "packages": [
+    "squid"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

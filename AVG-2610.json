@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.15.6.arch2-1",
+  "fixed": "5.15.7.arch1-1",
+  "issues": [
+    "CVE-2021-43975"
+  ],
+  "name": "AVG-2610",
+  "packages": [
+    "linux"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

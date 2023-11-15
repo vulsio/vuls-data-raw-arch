@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.11.12.arch1-1",
+  "fixed": "5.11.13.arch1-1",
+  "issues": [
+    "CVE-2021-29154"
+  ],
+  "name": "AVG-1796",
+  "packages": [
+    "linux"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "privilege escalation"
+}

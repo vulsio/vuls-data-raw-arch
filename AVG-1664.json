@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202103-5"
+  ],
+  "affected": "2021.02.19-1",
+  "fixed": "2021.03.04-1",
+  "issues": [
+    "CVE-2021-21362"
+  ],
+  "name": "AVG-1664",
+  "packages": [
+    "minio"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "access restriction bypass"
+}

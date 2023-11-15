@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "202108-1",
+  "fixed": "202111-1",
+  "issues": [
+    "CVE-2021-28216"
+  ],
+  "name": "AVG-2592",
+  "packages": [
+    "edk2-shell"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "insufficient validation"
+}

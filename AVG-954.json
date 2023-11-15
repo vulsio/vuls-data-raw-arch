@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201905-6"
+  ],
+  "affected": "2.3.5.2-1",
+  "fixed": "2.3.6-1",
+  "issues": [
+    "CVE-2019-11499",
+    "CVE-2019-11494"
+  ],
+  "name": "AVG-954",
+  "packages": [
+    "dovecot"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

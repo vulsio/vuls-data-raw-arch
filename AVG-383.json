@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201708-17"
+  ],
+  "affected": "2017.7.0-1",
+  "fixed": "2017.7.1-1",
+  "issues": [
+    "CVE-2017-12791"
+  ],
+  "name": "AVG-383",
+  "packages": [
+    "salt"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "directory traversal"
+}

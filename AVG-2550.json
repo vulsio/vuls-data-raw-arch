@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "5.14.9.hardened1-1",
+  "fixed": "5.14.11.hardened1-1",
+  "issues": [
+    "CVE-2021-3764",
+    "CVE-2021-3744"
+  ],
+  "name": "AVG-2550",
+  "packages": [
+    "linux-hardened"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

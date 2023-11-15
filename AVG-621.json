@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "236.0-1",
+  "fixed": "237.0-1",
+  "issues": [
+    "CVE-2017-18078"
+  ],
+  "name": "AVG-621",
+  "packages": [
+    "systemd"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "access restriction bypass"
+}

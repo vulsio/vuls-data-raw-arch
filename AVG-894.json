@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "4.2.2-2",
+  "fixed": null,
+  "issues": [
+    "CVE-2019-7653"
+  ],
+  "name": "AVG-894",
+  "packages": [
+    "python-rdflib"
+  ],
+  "severity": "Low",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

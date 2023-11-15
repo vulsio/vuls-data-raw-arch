@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "9.27-2",
+  "fixed": "9.50-1",
+  "issues": [
+    "CVE-2019-14869"
+  ],
+  "name": "AVG-1069",
+  "packages": [
+    "ghostscript"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "sandbox escape"
+}

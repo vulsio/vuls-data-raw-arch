@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201905-1"
+  ],
+  "affected": "2.0.26-5",
+  "fixed": "2.0.47-1",
+  "issues": [
+    "CVE-2017-6188"
+  ],
+  "name": "AVG-953",
+  "packages": [
+    "munin"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": "57537",
+  "type": "arbitrary file overwrite"
+}

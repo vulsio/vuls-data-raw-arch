@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202106-13"
+  ],
+  "affected": "2.9.1-1",
+  "fixed": "2.9.1-2",
+  "issues": [
+    "CVE-2021-27799"
+  ],
+  "name": "AVG-1625",
+  "packages": [
+    "zint"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": "70051",
+  "type": "arbitrary code execution"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.10.9.a-1",
+  "fixed": "5.10.10.hardened1-1",
+  "issues": [
+    "CVE-2021-3178"
+  ],
+  "name": "AVG-1467",
+  "packages": [
+    "linux-hardened"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "directory traversal"
+}

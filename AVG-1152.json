@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202005-5"
+  ],
+  "affected": "1.11.0-1",
+  "fixed": "1.11.1-1",
+  "issues": [
+    "CVE-2020-11054"
+  ],
+  "name": "AVG-1152",
+  "packages": [
+    "qutebrowser"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "certificate verification bypass"
+}

@@ -1,0 +1,20 @@
+{
+  "advisories": [
+    "ASA-201902-25"
+  ],
+  "affected": "9.13.5-5",
+  "fixed": "9.13.7-1",
+  "issues": [
+    "CVE-2019-6465",
+    "CVE-2018-5745",
+    "CVE-2018-5744"
+  ],
+  "name": "AVG-915",
+  "packages": [
+    "bind"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

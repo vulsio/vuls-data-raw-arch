@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201705-7"
+  ],
+  "affected": "2.7.1-1",
+  "fixed": "2.7.1-2",
+  "issues": [
+    "CVE-2017-8287",
+    "CVE-2017-8105"
+  ],
+  "name": "AVG-257",
+  "packages": [
+    "freetype2"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

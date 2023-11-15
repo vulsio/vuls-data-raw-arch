@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "5.12.2.zen2-1",
+  "fixed": "5.12.3.zen1-1",
+  "issues": [
+    "CVE-2021-3543",
+    "CVE-2021-3506"
+  ],
+  "name": "AVG-1953",
+  "packages": [
+    "linux-zen"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1:2.6-11",
+  "fixed": "1:2.6-12",
+  "issues": [
+    "CVE-2018-14526"
+  ],
+  "name": "AVG-752",
+  "packages": [
+    "wpa_supplicant"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "information disclosure"
+}

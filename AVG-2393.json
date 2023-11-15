@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.22.1-1",
+  "fixed": "1.22.2-1",
+  "issues": [
+    "CVE-2021-25741"
+  ],
+  "name": "AVG-2393",
+  "packages": [
+    "kubelet"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary filesystem access"
+}

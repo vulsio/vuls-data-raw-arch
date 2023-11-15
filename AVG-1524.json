@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-202102-21"
+  ],
+  "affected": "3.0.30-1",
+  "fixed": "3.0.31-1",
+  "issues": [
+    "CVE-2021-20217",
+    "CVE-2021-20216"
+  ],
+  "name": "AVG-1524",
+  "packages": [
+    "privoxy"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

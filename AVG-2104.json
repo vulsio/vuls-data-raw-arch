@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "7.1.0.17-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-34183"
+  ],
+  "name": "AVG-2104",
+  "packages": [
+    "imagemagick"
+  ],
+  "severity": "Low",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "denial of service"
+}

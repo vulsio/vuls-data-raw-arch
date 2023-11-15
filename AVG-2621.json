@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "10.0.4-1",
+  "fixed": "10.1-1",
+  "issues": [
+    "CVE-2021-44228"
+  ],
+  "name": "AVG-2621",
+  "packages": [
+    "ghidra"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": "72975",
+  "type": "arbitrary code execution"
+}

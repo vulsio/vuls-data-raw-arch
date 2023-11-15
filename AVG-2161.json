@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.11.14.arch1-1",
+  "fixed": "5.11.15.arch1-2",
+  "issues": [
+    "CVE-2021-22555"
+  ],
+  "name": "AVG-2161",
+  "packages": [
+    "linux"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "privilege escalation"
+}

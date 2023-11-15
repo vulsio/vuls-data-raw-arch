@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.3.3-3",
+  "fixed": "1.3.4-1",
+  "issues": [
+    "CVE-2021-0561"
+  ],
+  "name": "AVG-2092",
+  "packages": [
+    "flac"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "information disclosure"
+}

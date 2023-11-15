@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "16.6.1-1",
+  "fixed": "16.6.2-1",
+  "issues": [
+    "CVE-2021-22931"
+  ],
+  "name": "AVG-2286",
+  "packages": [
+    "nodejs"
+  ],
+  "severity": "High",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "insufficient validation"
+}

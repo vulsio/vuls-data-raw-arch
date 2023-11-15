@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-202009-5",
+    "ASA-202009-5"
+  ],
+  "affected": "2.2.21-2",
+  "fixed": "2.2.23-1",
+  "issues": [
+    "CVE-2020-25125"
+  ],
+  "name": "AVG-1218",
+  "packages": [
+    "gnupg"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

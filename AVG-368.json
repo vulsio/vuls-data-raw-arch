@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "2.25-7",
+  "fixed": "2.26-1",
+  "issues": [
+    "CVE-2017-12133",
+    "CVE-2017-12132"
+  ],
+  "name": "AVG-368",
+  "packages": [
+    "glibc"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

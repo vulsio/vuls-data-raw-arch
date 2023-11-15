@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-202102-34"
+  ],
+  "affected": "20201118-1",
+  "fixed": "20210216-1",
+  "issues": [
+    "CVE-2020-8698",
+    "CVE-2020-8696"
+  ],
+  "name": "AVG-1588",
+  "packages": [
+    "intel-ucode"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "information disclosure"
+}

@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "21.5-1",
+  "fixed": "21.6-1",
+  "issues": [
+    "CVE-2022-1941"
+  ],
+  "name": "AVG-2825",
+  "packages": [
+    "protobuf",
+    "python-protobuf"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

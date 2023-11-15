@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202108-1"
+  ],
+  "affected": "16.5.0-1",
+  "fixed": "16.6.0-1",
+  "issues": [
+    "CVE-2021-22930"
+  ],
+  "name": "AVG-2239",
+  "packages": [
+    "nodejs"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

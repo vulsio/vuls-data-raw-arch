@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "4.13.4-1",
+  "fixed": "4.13.5-1",
+  "issues": [
+    "CVE-2017-14954"
+  ],
+  "name": "AVG-429",
+  "packages": [
+    "linux-zen"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "information disclosure"
+}

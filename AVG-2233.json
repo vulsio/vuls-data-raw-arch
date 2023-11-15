@@ -1,0 +1,18 @@
+{
+  "advisories": [],
+  "affected": "5.13.5.zen1-1",
+  "fixed": "5.13.6.zen1-1",
+  "issues": [
+    "CVE-2021-38204",
+    "CVE-2021-37159",
+    "CVE-2021-3679"
+  ],
+  "name": "AVG-2233",
+  "packages": [
+    "linux-zen"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

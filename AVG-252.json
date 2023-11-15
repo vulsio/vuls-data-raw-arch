@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.7-2",
+  "fixed": "2.7.1-1",
+  "issues": [
+    "CVE-2016-10328"
+  ],
+  "name": "AVG-252",
+  "packages": [
+    "lib32-freetype2"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

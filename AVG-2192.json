@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "7.1.1-1",
+  "fixed": "7.2-1",
+  "issues": [
+    "CVE-2021-32751"
+  ],
+  "name": "AVG-2192",
+  "packages": [
+    "gradle",
+    "gradle-src"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary command execution"
+}

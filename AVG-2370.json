@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2:1.17-2",
+  "fixed": "2:1.17.1-1",
+  "issues": [
+    "CVE-2021-39293"
+  ],
+  "name": "AVG-2370",
+  "packages": [
+    "go"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "7.83.1-1",
+  "fixed": "7.84.0-1",
+  "issues": [
+    "CVE-2022-32205"
+  ],
+  "name": "AVG-2771",
+  "packages": [
+    "curl"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

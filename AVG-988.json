@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "5.0.5.arch1-1",
+  "fixed": "5.0.6.arch1-1",
+  "issues": [
+    "CVE-2019-3460",
+    "CVE-2019-3459"
+  ],
+  "name": "AVG-988",
+  "packages": [
+    "linux"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "information disclosure"
+}

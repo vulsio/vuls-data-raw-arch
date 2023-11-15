@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201803-1"
+  ],
+  "affected": "1.27.2-1",
+  "fixed": "1.28.1-1",
+  "issues": [
+    "CVE-2017-16544"
+  ],
+  "name": "AVG-512",
+  "packages": [
+    "busybox"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": "56391",
+  "type": "arbitrary code execution"
+}

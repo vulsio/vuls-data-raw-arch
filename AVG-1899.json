@@ -1,0 +1,22 @@
+{
+  "advisories": [
+    "ASA-202105-18"
+  ],
+  "affected": "3.5.28-2",
+  "fixed": "3.5.28-3",
+  "issues": [
+    "CVE-2021-3500",
+    "CVE-2021-32493",
+    "CVE-2021-32492",
+    "CVE-2021-32491",
+    "CVE-2021-32490"
+  ],
+  "name": "AVG-1899",
+  "packages": [
+    "djvulibre"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": "70787",
+  "type": "arbitrary code execution"
+}

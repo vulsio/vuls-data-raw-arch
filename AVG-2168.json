@@ -1,0 +1,24 @@
+{
+  "advisories": [
+    "ASA-202107-46"
+  ],
+  "affected": "77.0.4054.254-1",
+  "fixed": "77.0.4054.277-1",
+  "issues": [
+    "CVE-2021-30564",
+    "CVE-2021-30563",
+    "CVE-2021-30562",
+    "CVE-2021-30561",
+    "CVE-2021-30560",
+    "CVE-2021-30559",
+    "CVE-2021-30541"
+  ],
+  "name": "AVG-2168",
+  "packages": [
+    "opera"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

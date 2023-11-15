@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "78.9.1-3",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-29945"
+  ],
+  "name": "AVG-1837",
+  "packages": [
+    "thunderbird"
+  ],
+  "severity": "Medium",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "denial of service"
+}

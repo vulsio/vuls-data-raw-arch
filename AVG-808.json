@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201811-14"
+  ],
+  "affected": "2.7.6-3",
+  "fixed": "2.7.6-7",
+  "issues": [
+    "CVE-2018-6952",
+    "CVE-2018-1000156"
+  ],
+  "name": "AVG-808",
+  "packages": [
+    "patch"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": "57526",
+  "type": "multiple issues"
+}

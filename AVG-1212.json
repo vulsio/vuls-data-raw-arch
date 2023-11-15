@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.6.9-7",
+  "fixed": "1.6.10-1",
+  "issues": [
+    "CVE-2020-14344"
+  ],
+  "name": "AVG-1212",
+  "packages": [
+    "libx11"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "8.5.59-2",
+  "fixed": "8.5.60-1",
+  "issues": [
+    "CVE-2021-24122"
+  ],
+  "name": "AVG-1453",
+  "packages": [
+    "tomcat8"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "information disclosure"
+}

@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202107-3"
+  ],
+  "affected": "1.10.1-1",
+  "fixed": "1.10.2-1",
+  "issues": [
+    "CVE-2021-34824"
+  ],
+  "name": "AVG-2113",
+  "packages": [
+    "istio"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "information disclosure"
+}

@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201705-6"
+  ],
+  "affected": "1.0.1-1",
+  "fixed": "1.0.1-2",
+  "issues": [
+    "CVE-2017-8779"
+  ],
+  "name": "AVG-263",
+  "packages": [
+    "lib32-libtirpc"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": "53928",
+  "type": "denial of service"
+}

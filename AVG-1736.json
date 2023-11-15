@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-202103-10"
+  ],
+  "affected": "1.1.1.j-1",
+  "fixed": "1.1.1.k-1",
+  "issues": [
+    "CVE-2021-3450",
+    "CVE-2021-3449"
+  ],
+  "name": "AVG-1736",
+  "packages": [
+    "openssl"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

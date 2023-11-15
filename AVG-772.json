@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201810-1"
+  ],
+  "affected": "1.5.1-1",
+  "fixed": "1.5.3-1",
+  "issues": [
+    "CVE-2018-12543"
+  ],
+  "name": "AVG-772",
+  "packages": [
+    "mosquitto"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

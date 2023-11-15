@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "10-1",
+  "fixed": "11-1",
+  "issues": [
+    "CVE-2021-4076"
+  ],
+  "name": "AVG-2635",
+  "packages": [
+    "tang"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "private key recovery"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.26.0-1",
+  "fixed": "5.26.1-1",
+  "issues": [
+    "CVE-2017-12883"
+  ],
+  "name": "AVG-500",
+  "packages": [
+    "perl"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "information disclosure"
+}

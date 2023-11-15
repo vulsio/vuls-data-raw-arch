@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "0.3.13-1",
+  "fixed": "0.3.14-1",
+  "issues": [
+    "CVE-2021-39365"
+  ],
+  "name": "AVG-2311",
+  "packages": [
+    "grilo"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "man-in-the-middle"
+}

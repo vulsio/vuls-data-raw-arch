@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201802-2"
+  ],
+  "affected": "1.9.3-1",
+  "fixed": "1.9.4-1",
+  "issues": [
+    "CVE-2018-6574"
+  ],
+  "name": "AVG-606",
+  "packages": [
+    "go"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

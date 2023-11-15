@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "8.u292-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-35560"
+  ],
+  "name": "AVG-2482",
+  "packages": [
+    "jre8-openjdk-headless",
+    "jdk8-openjdk"
+  ],
+  "severity": "High",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

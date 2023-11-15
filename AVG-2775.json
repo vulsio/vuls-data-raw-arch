@@ -1,0 +1,18 @@
+{
+  "advisories": [],
+  "affected": "5.18.10.arch1-1",
+  "fixed": "5.18.11.arch1-1",
+  "issues": [
+    "CVE-2022-2318",
+    "CVE-2022-1789",
+    "CVE-2021-33655"
+  ],
+  "name": "AVG-2775",
+  "packages": [
+    "linux"
+  ],
+  "severity": "Unknown",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "unknown"
+}

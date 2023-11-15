@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.1.8-1",
+  "fixed": "2.1.9-1",
+  "issues": [
+    "CVE-2021-41116"
+  ],
+  "name": "AVG-2446",
+  "packages": [
+    "composer"
+  ],
+  "severity": "Medium",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "arbitrary command execution"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2020.01-1",
+  "fixed": "2020.04-1",
+  "issues": [
+    "CVE-2020-10648"
+  ],
+  "name": "AVG-1117",
+  "packages": [
+    "uboot-tools"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "insufficient validation"
+}

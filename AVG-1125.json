@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-202004-6"
+  ],
+  "affected": "74.0-2",
+  "fixed": "74.0.1-1",
+  "issues": [
+    "CVE-2020-6820",
+    "CVE-2020-6819"
+  ],
+  "name": "AVG-1125",
+  "packages": [
+    "firefox"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

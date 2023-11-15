@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201705-24",
+    "ASA-201705-24"
+  ],
+  "affected": "9.6.2-1",
+  "fixed": "9.6.3-1",
+  "issues": [
+    "CVE-2017-7485"
+  ],
+  "name": "AVG-280",
+  "packages": [
+    "postgresql-libs"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "man-in-the-middle"
+}

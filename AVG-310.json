@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "3.1-3",
+  "fixed": "3.2.1-1",
+  "issues": [
+    "CVE-2017-1000376"
+  ],
+  "name": "AVG-310",
+  "packages": [
+    "libffi"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": "54857",
+  "type": "arbitrary code execution"
+}

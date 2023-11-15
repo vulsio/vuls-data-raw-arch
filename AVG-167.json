@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201702-7"
+  ],
+  "affected": "1.10.2-1",
+  "fixed": "1.10.3-1",
+  "issues": [
+    "CVE-2017-5838"
+  ],
+  "name": "AVG-167",
+  "packages": [
+    "gstreamer"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

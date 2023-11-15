@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202101-9"
+  ],
+  "affected": "7.4.13-2",
+  "fixed": "7.4.14-1",
+  "issues": [
+    "CVE-2020-7071"
+  ],
+  "name": "AVG-1415",
+  "packages": [
+    "php"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": "69242",
+  "type": "insufficient validation"
+}

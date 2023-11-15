@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "6.9.2.0-1",
+  "fixed": "6.9.2.4-1",
+  "issues": [
+    "CVE-2016-10252"
+  ],
+  "name": "AVG-210",
+  "packages": [
+    "imagemagick"
+  ],
+  "severity": "Low",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "denial of service"
+}

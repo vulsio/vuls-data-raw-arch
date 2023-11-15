@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202103-14"
+  ],
+  "affected": "2.5.13-1",
+  "fixed": "2.5.14-1",
+  "issues": [
+    "CVE-2020-17521"
+  ],
+  "name": "AVG-1325",
+  "packages": [
+    "groovy"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": "68865",
+  "type": "privilege escalation"
+}

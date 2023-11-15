@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201705-21"
+  ],
+  "affected": "3.27.1-1",
+  "fixed": "3.30.2-1",
+  "issues": [
+    "CVE-2017-5461"
+  ],
+  "name": "AVG-248",
+  "packages": [
+    "lib32-nss"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "4.4.5-1",
+  "fixed": "4.5-1",
+  "issues": [
+    "CVE-2016-10229"
+  ],
+  "name": "AVG-240",
+  "packages": [
+    "linux"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

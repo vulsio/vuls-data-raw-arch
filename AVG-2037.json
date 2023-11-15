@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202106-30"
+  ],
+  "affected": "3.4.5-1",
+  "fixed": "3.4.6-1",
+  "issues": [
+    "CVE-2021-22222"
+  ],
+  "name": "AVG-2037",
+  "packages": [
+    "wireshark-cli"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

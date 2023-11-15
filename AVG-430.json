@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "4.13.4.a-1",
+  "fixed": "4.13.5.a-1",
+  "issues": [
+    "CVE-2017-14954"
+  ],
+  "name": "AVG-430",
+  "packages": [
+    "linux-hardened"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "information disclosure"
+}

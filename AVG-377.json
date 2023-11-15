@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201708-6"
+  ],
+  "affected": "2.14.0-1",
+  "fixed": "2.14.1-1",
+  "issues": [
+    "CVE-2017-1000117"
+  ],
+  "name": "AVG-377",
+  "packages": [
+    "git"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary command execution"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "3.2.3-4",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-3755"
+  ],
+  "name": "AVG-2333",
+  "packages": [
+    "rsync"
+  ],
+  "severity": "Medium",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "arbitrary command execution"
+}

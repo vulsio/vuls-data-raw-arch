@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202106-35"
+  ],
+  "affected": "9.1.7-1",
+  "fixed": "9.1.10-1",
+  "issues": [
+    "CVE-2021-33829"
+  ],
+  "name": "AVG-2069",
+  "packages": [
+    "drupal"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "cross-site scripting"
+}

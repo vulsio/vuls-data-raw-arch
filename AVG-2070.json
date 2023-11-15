@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "202105-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-28213"
+  ],
+  "name": "AVG-2070",
+  "packages": [
+    "edk2-shell"
+  ],
+  "severity": "Medium",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "private key recovery"
+}

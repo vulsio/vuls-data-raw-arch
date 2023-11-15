@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202009-2"
+  ],
+  "affected": "20.08.0-1",
+  "fixed": "20.08.0-2",
+  "issues": [
+    "CVE-2020-24654"
+  ],
+  "name": "AVG-1216",
+  "packages": [
+    "ark"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary filesystem access"
+}

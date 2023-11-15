@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "4.8.26-1",
+  "fixed": "4.8.27-1",
+  "issues": [
+    "CVE-2021-36370"
+  ],
+  "name": "AVG-2330",
+  "packages": [
+    "mc"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "insufficient validation"
+}

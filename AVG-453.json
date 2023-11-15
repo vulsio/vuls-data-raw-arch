@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.5-1",
+  "fixed": "2.6-1",
+  "issues": [
+    "CVE-2017-13086"
+  ],
+  "name": "AVG-453",
+  "packages": [
+    "hostapd"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "man-in-the-middle"
+}

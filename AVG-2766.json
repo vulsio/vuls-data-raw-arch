@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "3.21.0-1",
+  "fixed": "3.22.0-1",
+  "issues": [
+    "CVE-2022-31783",
+    "CVE-2022-26981"
+  ],
+  "name": "AVG-2766",
+  "packages": [
+    "liblouis"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

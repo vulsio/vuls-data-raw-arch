@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.0.31-1",
+  "fixed": "1.1.0-1",
+  "issues": [
+    "CVE-2021-4156"
+  ],
+  "name": "AVG-2704",
+  "packages": [
+    "libsndfile"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "unknown"
+}

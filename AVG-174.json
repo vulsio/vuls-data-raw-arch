@@ -1,0 +1,20 @@
+{
+  "advisories": [
+    "ASA-201702-12",
+    "ASA-201702-13"
+  ],
+  "affected": "8.0.0321-1",
+  "fixed": "8.0.0322-1",
+  "issues": [
+    "CVE-2017-5953"
+  ],
+  "name": "AVG-174",
+  "packages": [
+    "gvim",
+    "vim"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

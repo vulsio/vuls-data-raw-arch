@@ -1,0 +1,18 @@
+{
+  "advisories": [],
+  "affected": "5.11.11.hardened1-1",
+  "fixed": "5.11.13.hardened1-1",
+  "issues": [
+    "CVE-2021-3483",
+    "CVE-2021-29657",
+    "CVE-2021-29154"
+  ],
+  "name": "AVG-1797",
+  "packages": [
+    "linux-hardened"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

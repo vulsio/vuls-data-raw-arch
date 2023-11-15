@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202107-37"
+  ],
+  "affected": "0.75-1",
+  "fixed": "0.76-1",
+  "issues": [
+    "CVE-2021-36367"
+  ],
+  "name": "AVG-2143",
+  "packages": [
+    "putty"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "content spoofing"
+}

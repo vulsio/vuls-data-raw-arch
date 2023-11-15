@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "4.10.6-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2017-7184"
+  ],
+  "name": "AVG-228",
+  "packages": [
+    "linux"
+  ],
+  "severity": "Medium",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "privilege escalation"
+}

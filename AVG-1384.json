@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "20.12.2-1",
+  "fixed": "20.12.3-1",
+  "issues": [
+    "CVE-2020-35678"
+  ],
+  "name": "AVG-1384",
+  "packages": [
+    "python-autobahn"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "url request injection"
+}

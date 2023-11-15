@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201901-16"
+  ],
+  "affected": "2.14-1",
+  "fixed": "2.14.02-1",
+  "issues": [
+    "CVE-2019-6291",
+    "CVE-2019-6290"
+  ],
+  "name": "AVG-852",
+  "packages": [
+    "nasm"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

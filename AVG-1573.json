@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.12.18-1",
+  "fixed": "1.12.20-1",
+  "issues": [
+    "CVE-2020-35512"
+  ],
+  "name": "AVG-1573",
+  "packages": [
+    "dbus"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

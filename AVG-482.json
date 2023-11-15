@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201711-12"
+  ],
+  "affected": "62.0.3202.75-1",
+  "fixed": "62.0.3202.89-1",
+  "issues": [
+    "CVE-2017-15399",
+    "CVE-2017-15398"
+  ],
+  "name": "AVG-482",
+  "packages": [
+    "chromium"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

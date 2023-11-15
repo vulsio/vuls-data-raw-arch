@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.14.1-1",
+  "fixed": "2.14.2-1",
+  "issues": [
+    "CVE-2020-35498"
+  ],
+  "name": "AVG-1564",
+  "packages": [
+    "openvswitch"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "incorrect calculation"
+}

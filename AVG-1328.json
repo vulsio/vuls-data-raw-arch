@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202012-19"
+  ],
+  "affected": "2.42.0-2",
+  "fixed": "2.42.2-1",
+  "issues": [
+    "CVE-2020-29385"
+  ],
+  "name": "AVG-1328",
+  "packages": [
+    "gdk-pixbuf2"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

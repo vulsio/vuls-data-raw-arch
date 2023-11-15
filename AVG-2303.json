@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "9.16.19-1",
+  "fixed": "9.16.20-1",
+  "issues": [
+    "CVE-2021-25218"
+  ],
+  "name": "AVG-2303",
+  "packages": [
+    "bind"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

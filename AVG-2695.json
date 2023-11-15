@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "8.1.3-1",
+  "fixed": "8.1.4-1",
+  "issues": [
+    "CVE-2021-21708"
+  ],
+  "name": "AVG-2695",
+  "packages": [
+    "php"
+  ],
+  "severity": "Critical",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "arbitrary file upload"
+}

@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201910-4"
+  ],
+  "affected": "6.1.1-1",
+  "fixed": "6.1.2-1",
+  "issues": [
+    "CVE-2015-9251",
+    "CVE-2012-6708"
+  ],
+  "name": "AVG-1041",
+  "packages": [
+    "ruby-rdoc"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": "63978",
+  "type": "cross-site scripting"
+}

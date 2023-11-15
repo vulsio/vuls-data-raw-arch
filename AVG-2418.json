@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "4.14.7-2",
+  "fixed": "4.15.0-1",
+  "issues": [
+    "CVE-2021-3671"
+  ],
+  "name": "AVG-2418",
+  "packages": [
+    "samba"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

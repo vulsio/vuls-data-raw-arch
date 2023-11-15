@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.21.3-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-31879"
+  ],
+  "name": "AVG-1892",
+  "packages": [
+    "wget"
+  ],
+  "severity": "Medium",
+  "status": "Vulnerable",
+  "ticket": null,
+  "type": "information disclosure"
+}

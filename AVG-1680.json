@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.66.7-1",
+  "fixed": "2.68.0-1",
+  "issues": [
+    "CVE-2021-28153"
+  ],
+  "name": "AVG-1680",
+  "packages": [
+    "glib2"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary file upload"
+}

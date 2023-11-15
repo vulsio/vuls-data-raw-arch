@@ -1,0 +1,20 @@
+{
+  "advisories": [
+    "ASA-201811-10"
+  ],
+  "affected": "60.2.1-2",
+  "fixed": "60.3.0-1",
+  "issues": [
+    "CVE-2018-12392",
+    "CVE-2018-12390",
+    "CVE-2018-12389"
+  ],
+  "name": "AVG-803",
+  "packages": [
+    "thunderbird"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.4.2-2",
+  "fixed": null,
+  "issues": [
+    "CVE-2017-11331"
+  ],
+  "name": "AVG-366",
+  "packages": [
+    "vorbis-tools"
+  ],
+  "severity": "Low",
+  "status": "Vulnerable",
+  "ticket": null,
+  "type": "denial of service"
+}

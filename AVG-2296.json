@@ -1,0 +1,19 @@
+{
+  "advisories": [],
+  "affected": "5.13.10.zen1-1",
+  "fixed": "5.13.12.zen1-1",
+  "issues": [
+    "CVE-2021-38166",
+    "CVE-2021-3732",
+    "CVE-2021-3656",
+    "CVE-2021-3653"
+  ],
+  "name": "AVG-2296",
+  "packages": [
+    "linux-zen"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

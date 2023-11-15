@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202001-2"
+  ],
+  "affected": "5.37-1",
+  "fixed": "5.38-1",
+  "issues": [
+    "CVE-2019-18218"
+  ],
+  "name": "AVG-1083",
+  "packages": [
+    "file"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": "64430",
+  "type": "arbitrary code execution"
+}

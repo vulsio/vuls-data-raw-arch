@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.11.1-1",
+  "fixed": "2.11.1-2",
+  "issues": [
+    "CVE-2021-44228"
+  ],
+  "name": "AVG-2626",
+  "packages": [
+    "zaproxy"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": "72975",
+  "type": "arbitrary code execution"
+}

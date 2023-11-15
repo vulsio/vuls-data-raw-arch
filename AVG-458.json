@@ -1,0 +1,27 @@
+{
+  "advisories": [
+    "ASA-201711-2",
+    "ASA-201711-4",
+    "ASA-201711-1",
+    "ASA-201711-3"
+  ],
+  "affected": "1.11-4",
+  "fixed": "1.11-5",
+  "issues": [
+    "CVE-2017-15587",
+    "CVE-2017-14687",
+    "CVE-2017-14686",
+    "CVE-2017-14685"
+  ],
+  "name": "AVG-458",
+  "packages": [
+    "mupdf",
+    "libmupdf",
+    "mupdf-gl",
+    "mupdf-tools"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

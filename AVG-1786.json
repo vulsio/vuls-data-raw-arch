@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2:4.3.2-6",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-30123"
+  ],
+  "name": "AVG-1786",
+  "packages": [
+    "ffmpeg"
+  ],
+  "severity": "Medium",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

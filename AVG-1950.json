@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202106-40"
+  ],
+  "affected": "5.2.1-1",
+  "fixed": "5.3.1-1",
+  "issues": [
+    "CVE-2021-32613"
+  ],
+  "name": "AVG-1950",
+  "packages": [
+    "radare2"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

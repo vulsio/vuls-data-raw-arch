@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201703-16"
+  ],
+  "affected": "2.4.0-1",
+  "fixed": "2.4.2-1",
+  "issues": [
+    "CVE-2017-2784"
+  ],
+  "name": "AVG-198",
+  "packages": [
+    "mbedtls"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

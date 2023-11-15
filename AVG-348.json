@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201707-14"
+  ],
+  "affected": "3.24.0+8+ga8363215-1",
+  "fixed": "3.24.0+12+g717df38f-1",
+  "issues": [
+    "CVE-2017-1000083"
+  ],
+  "name": "AVG-348",
+  "packages": [
+    "evince"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary command execution"
+}

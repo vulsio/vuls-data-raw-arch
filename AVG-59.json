@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201611-3"
+  ],
+  "affected": "9.11.0-2",
+  "fixed": "9.11.0.P1-1",
+  "issues": [
+    "CVE-2016-8864"
+  ],
+  "name": "AVG-59",
+  "packages": [
+    "bind"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

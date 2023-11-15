@@ -1,0 +1,18 @@
+{
+  "advisories": [],
+  "affected": "2.3.2-4",
+  "fixed": "2.3.3-1",
+  "issues": [
+    "CVE-2021-40812",
+    "CVE-2021-40145",
+    "CVE-2021-38115"
+  ],
+  "name": "AVG-2258",
+  "packages": [
+    "gd"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

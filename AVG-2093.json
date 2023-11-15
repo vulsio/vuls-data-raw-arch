@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202107-7"
+  ],
+  "affected": "1.36.0-1",
+  "fixed": "1.36.1-1",
+  "issues": [
+    "CVE-2021-35197"
+  ],
+  "name": "AVG-2093",
+  "packages": [
+    "mediawiki"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "access restriction bypass"
+}

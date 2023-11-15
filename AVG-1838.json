@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "460.67-1",
+  "fixed": "465.24.02-1",
+  "issues": [
+    "CVE-2021-1077",
+    "CVE-2021-1076"
+  ],
+  "name": "AVG-1838",
+  "packages": [
+    "nvidia-utils"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

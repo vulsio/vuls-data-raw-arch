@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202006-2"
+  ],
+  "affected": "3.6.13-2",
+  "fixed": "3.6.14-1",
+  "issues": [
+    "CVE-2020-13777"
+  ],
+  "name": "AVG-1177",
+  "packages": [
+    "gnutls"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "man-in-the-middle"
+}

@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "1:2.2.0-3",
+  "fixed": "1:2.3.0-1",
+  "issues": [
+    "CVE-2021-20277",
+    "CVE-2020-27840"
+  ],
+  "name": "AVG-1734",
+  "packages": [
+    "ldb"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

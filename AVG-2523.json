@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "5.14.16.zen1-1",
+  "fixed": "5.15.zen1-1",
+  "issues": [
+    "CVE-2021-4023",
+    "CVE-2021-3759"
+  ],
+  "name": "AVG-2523",
+  "packages": [
+    "linux-zen"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "3.2.7-2",
+  "fixed": "3.2.8-1",
+  "issues": [
+    "CVE-2021-44538"
+  ],
+  "name": "AVG-2638",
+  "packages": [
+    "libolm"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

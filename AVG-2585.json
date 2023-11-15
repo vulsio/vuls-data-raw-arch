@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "5.15.4.arch1-1",
+  "fixed": "5.15.5.arch1-1",
+  "issues": [
+    "CVE-2021-4002",
+    "CVE-2021-4001"
+  ],
+  "name": "AVG-2585",
+  "packages": [
+    "linux"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

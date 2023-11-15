@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "4.6.0-1",
+  "fixed": "4.6.1-1",
+  "issues": [
+    "CVE-2022-27227"
+  ],
+  "name": "AVG-2655",
+  "packages": [
+    "powerdns"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

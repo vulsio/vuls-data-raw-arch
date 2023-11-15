@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-202006-8"
+  ],
+  "affected": "3.0.6-2",
+  "fixed": "3.0.7-1",
+  "issues": [
+    "CVE-2020-13596",
+    "CVE-2020-13254"
+  ],
+  "name": "AVG-1176",
+  "packages": [
+    "python-django"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "3.2.9-3",
+  "fixed": "3.2.10-1",
+  "issues": [
+    "CVE-2021-44420"
+  ],
+  "name": "AVG-2605",
+  "packages": [
+    "python-django"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "access restriction bypass"
+}

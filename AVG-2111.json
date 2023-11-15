@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "9.28.0-2",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-3624"
+  ],
+  "name": "AVG-2111",
+  "packages": [
+    "dcraw"
+  ],
+  "severity": "Medium",
+  "status": "Vulnerable",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

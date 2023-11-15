@@ -1,0 +1,30 @@
+{
+  "advisories": [
+    "ASA-201701-1"
+  ],
+  "affected": "0.2.8.4-13",
+  "fixed": "0.2.8.4-14",
+  "issues": [
+    "CVE-2016-9011",
+    "CVE-2015-4696",
+    "CVE-2015-4695",
+    "CVE-2015-4588",
+    "CVE-2015-0848",
+    "CVE-2009-3546",
+    "CVE-2009-1364",
+    "CVE-2007-3477",
+    "CVE-2007-3473",
+    "CVE-2007-3472",
+    "CVE-2007-2756",
+    "CVE-2007-0455",
+    "CVE-2006-3376"
+  ],
+  "name": "AVG-16",
+  "packages": [
+    "libwmf"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": "49162",
+  "type": "multiple issues"
+}

@@ -1,0 +1,22 @@
+{
+  "advisories": [
+    "ASA-202103-16",
+    "ASA-202103-17"
+  ],
+  "affected": "3.1.8.sdk108-1",
+  "fixed": "5.0.3.sdk103-2",
+  "issues": [
+    "CVE-2021-24112",
+    "CVE-2021-1723",
+    "CVE-2021-1721"
+  ],
+  "name": "AVG-1449",
+  "packages": [
+    "dotnet-sdk",
+    "dotnet-runtime"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": "69317",
+  "type": "multiple issues"
+}

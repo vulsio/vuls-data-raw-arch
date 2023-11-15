@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.13-1",
+  "fixed": "1.14-1",
+  "issues": [
+    "CVE-2020-11987"
+  ],
+  "name": "AVG-1617",
+  "packages": [
+    "java-batik"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "url request injection"
+}

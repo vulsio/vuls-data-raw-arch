@@ -1,0 +1,18 @@
+{
+  "advisories": [],
+  "affected": "4.16.9-1",
+  "fixed": "4.17-1",
+  "issues": [
+    "CVE-2018-8897",
+    "CVE-2018-1121",
+    "CVE-2018-1120"
+  ],
+  "name": "AVG-704",
+  "packages": [
+    "linux-zen"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

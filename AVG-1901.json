@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "6.3.0-3",
+  "fixed": "6.3.1-1",
+  "issues": [
+    "CVE-2021-31799"
+  ],
+  "name": "AVG-1901",
+  "packages": [
+    "ruby-rdoc"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary command execution"
+}

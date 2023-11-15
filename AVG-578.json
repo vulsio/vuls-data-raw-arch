@@ -1,0 +1,18 @@
+{
+  "advisories": [],
+  "affected": "387.34-18",
+  "fixed": "390.25-1",
+  "issues": [
+    "CVE-2017-5754",
+    "CVE-2017-5753",
+    "CVE-2017-5715"
+  ],
+  "name": "AVG-578",
+  "packages": [
+    "nvidia"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "access restriction bypass"
+}

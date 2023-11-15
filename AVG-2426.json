@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "4.2.2406.48-1",
+  "fixed": "4.2.2406.52-1",
+  "issues": [
+    "CVE-2021-37973"
+  ],
+  "name": "AVG-2426",
+  "packages": [
+    "vivaldi"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

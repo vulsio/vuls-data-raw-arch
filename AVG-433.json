@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2:1.7-1",
+  "fixed": "2:1.8-1",
+  "issues": [
+    "CVE-2017-1000098"
+  ],
+  "name": "AVG-433",
+  "packages": [
+    "go"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

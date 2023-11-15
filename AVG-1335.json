@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202012-24"
+  ],
+  "affected": "1.1.1.h-2",
+  "fixed": "1.1.1.i-1",
+  "issues": [
+    "CVE-2020-1971"
+  ],
+  "name": "AVG-1335",
+  "packages": [
+    "openssl"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

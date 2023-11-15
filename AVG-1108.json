@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-202003-6"
+  ],
+  "affected": "5.5.6.arch1-1",
+  "fixed": "5.5.7.arch1-1",
+  "issues": [
+    "CVE-2020-9383",
+    "CVE-2020-2732"
+  ],
+  "name": "AVG-1108",
+  "packages": [
+    "linux"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

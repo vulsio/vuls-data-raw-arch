@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "7.0.10.56-1",
+  "fixed": "7.0.10.57-1",
+  "issues": [
+    "CVE-2021-20189"
+  ],
+  "name": "AVG-1490",
+  "packages": [
+    "imagemagick"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "incorrect calculation"
+}

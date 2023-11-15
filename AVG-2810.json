@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "4.0.6-1",
+  "fixed": "4.0.7-1",
+  "issues": [
+    "CVE-2022-36359"
+  ],
+  "name": "AVG-2810",
+  "packages": [
+    "python-django"
+  ],
+  "severity": "Unknown",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "unknown"
+}

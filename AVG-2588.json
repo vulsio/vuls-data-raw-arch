@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.14.18.hardened1-1",
+  "fixed": "5.14.21.hardened1-1",
+  "issues": [
+    "CVE-2021-3640"
+  ],
+  "name": "AVG-2588",
+  "packages": [
+    "linux-hardened"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

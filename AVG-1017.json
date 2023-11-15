@@ -1,0 +1,18 @@
+{
+  "advisories": [],
+  "affected": "1.7-1",
+  "fixed": "1.8.3-1",
+  "issues": [
+    "CVE-2019-10185",
+    "CVE-2019-10182",
+    "CVE-2019-10181"
+  ],
+  "name": "AVG-1017",
+  "packages": [
+    "icedtea-web"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

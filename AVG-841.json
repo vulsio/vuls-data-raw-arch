@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201901-1"
+  ],
+  "affected": "1.30-2",
+  "fixed": "1.31-1",
+  "issues": [
+    "CVE-2018-20482"
+  ],
+  "name": "AVG-841",
+  "packages": [
+    "tar"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

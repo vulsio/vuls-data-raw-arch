@@ -1,0 +1,20 @@
+{
+  "advisories": [
+    "ASA-201911-8"
+  ],
+  "affected": "4.8-2",
+  "fixed": "4.9-1",
+  "issues": [
+    "CVE-2019-18679",
+    "CVE-2019-18678",
+    "CVE-2019-12526"
+  ],
+  "name": "AVG-1062",
+  "packages": [
+    "squid"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

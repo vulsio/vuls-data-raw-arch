@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1:4.2.3-5",
+  "fixed": "1:4.3-1",
+  "issues": [
+    "CVE-2020-20448"
+  ],
+  "name": "AVG-2533",
+  "packages": [
+    "ffmpeg"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

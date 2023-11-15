@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.62-1",
+  "fixed": "5.63-1",
+  "issues": [
+    "CVE-2021-41229"
+  ],
+  "name": "AVG-2553",
+  "packages": [
+    "bluez"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

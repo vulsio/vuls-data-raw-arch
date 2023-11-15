@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2:1.16.3-1",
+  "fixed": "2:1.16.4-1",
+  "issues": [
+    "CVE-2021-31525"
+  ],
+  "name": "AVG-1927",
+  "packages": [
+    "go"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

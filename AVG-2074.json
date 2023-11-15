@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "89.0-1",
+  "fixed": "89.0.1-1",
+  "issues": [
+    "CVE-2021-29968"
+  ],
+  "name": "AVG-2074",
+  "packages": [
+    "firefox"
+  ],
+  "severity": "Medium",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "information disclosure"
+}

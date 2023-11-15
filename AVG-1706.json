@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "20.09-1",
+  "fixed": "20.09-2",
+  "issues": [
+    "CVE-2020-26797"
+  ],
+  "name": "AVG-1706",
+  "packages": [
+    "libmediainfo"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": "70074",
+  "type": "arbitrary code execution"
+}

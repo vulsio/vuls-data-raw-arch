@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201710-26"
+  ],
+  "affected": "4.13.6-1",
+  "fixed": "4.13.7-1",
+  "issues": [
+    "CVE-2017-5123"
+  ],
+  "name": "AVG-444",
+  "packages": [
+    "linux"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "privilege escalation"
+}

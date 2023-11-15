@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "10.0.11-1",
+  "fixed": "10.0.12-1",
+  "issues": [
+    "CVE-2021-42340"
+  ],
+  "name": "AVG-2469",
+  "packages": [
+    "tomcat10"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

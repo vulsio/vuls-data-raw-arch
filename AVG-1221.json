@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202009-7"
+  ],
+  "affected": "12.0-1",
+  "fixed": "12.0_u1-1",
+  "issues": [
+    "CVE-2020-11986"
+  ],
+  "name": "AVG-1221",
+  "packages": [
+    "netbeans"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

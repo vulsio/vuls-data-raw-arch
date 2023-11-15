@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.0.21-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-20269"
+  ],
+  "name": "AVG-1673",
+  "packages": [
+    "kexec-tools"
+  ],
+  "severity": "Low",
+  "status": "Vulnerable",
+  "ticket": null,
+  "type": "information disclosure"
+}

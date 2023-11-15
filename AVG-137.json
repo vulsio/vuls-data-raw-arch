@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.2.0.0-1",
+  "fixed": "2.2.1.0rc5-3",
+  "issues": [
+    "CVE-2016-9587"
+  ],
+  "name": "AVG-137",
+  "packages": [
+    "ansible"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary command execution"
+}

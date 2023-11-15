@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "4.3.1-1",
+  "fixed": "4.3.2-1",
+  "issues": [
+    "CVE-2020-14196"
+  ],
+  "name": "AVG-1199",
+  "packages": [
+    "powerdns-recursor"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "access restriction bypass"
+}

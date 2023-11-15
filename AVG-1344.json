@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.9.11.arch2-1",
+  "fixed": "5.9.12.arch1-1",
+  "issues": [
+    "CVE-2020-27835"
+  ],
+  "name": "AVG-1344",
+  "packages": [
+    "linux"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

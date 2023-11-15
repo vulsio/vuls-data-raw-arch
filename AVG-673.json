@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201810-4"
+  ],
+  "affected": "2.9.8-3",
+  "fixed": "2.9.8-4",
+  "issues": [
+    "CVE-2018-9251"
+  ],
+  "name": "AVG-673",
+  "packages": [
+    "lib32-libxml2"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

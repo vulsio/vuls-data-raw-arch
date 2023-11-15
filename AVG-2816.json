@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "5.6-1",
+  "fixed": "5.7-1",
+  "issues": [
+    "CVE-2022-41318",
+    "CVE-2022-41317"
+  ],
+  "name": "AVG-2816",
+  "packages": [
+    "squid"
+  ],
+  "severity": "Unknown",
+  "status": "Unknown",
+  "ticket": null,
+  "type": "unknown"
+}

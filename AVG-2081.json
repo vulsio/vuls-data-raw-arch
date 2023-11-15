@@ -1,0 +1,21 @@
+{
+  "advisories": [
+    "ASA-202106-46"
+  ],
+  "affected": "91.0.4472.106-1",
+  "fixed": "91.0.4472.114-1",
+  "issues": [
+    "CVE-2021-30557",
+    "CVE-2021-30556",
+    "CVE-2021-30555",
+    "CVE-2021-30554"
+  ],
+  "name": "AVG-2081",
+  "packages": [
+    "chromium"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

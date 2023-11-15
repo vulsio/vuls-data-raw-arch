@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.16.0-1",
+  "fixed": "2.16.1-1",
+  "issues": [
+    "CVE-2021-3905"
+  ],
+  "name": "AVG-2516",
+  "packages": [
+    "openvswitch"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "information disclosure"
+}

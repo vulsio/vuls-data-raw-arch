@@ -1,0 +1,20 @@
+{
+  "advisories": [
+    "ASA-201911-6"
+  ],
+  "affected": "4.10.8-2",
+  "fixed": "4.10.10-1",
+  "issues": [
+    "CVE-2019-14847",
+    "CVE-2019-14833",
+    "CVE-2019-10218"
+  ],
+  "name": "AVG-1057",
+  "packages": [
+    "samba"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201806-10"
+  ],
+  "affected": "1.8.2-1",
+  "fixed": "1.8.3-1",
+  "issues": [
+    "CVE-2018-0495"
+  ],
+  "name": "AVG-719",
+  "packages": [
+    "libgcrypt"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "private key recovery"
+}

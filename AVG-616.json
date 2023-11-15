@@ -1,0 +1,22 @@
+{
+  "advisories": [
+    "ASA-201802-8"
+  ],
+  "affected": "1.1.0-1",
+  "fixed": "1.1.1-1",
+  "issues": [
+    "CVE-2018-7054",
+    "CVE-2018-7053",
+    "CVE-2018-7052",
+    "CVE-2018-7051",
+    "CVE-2018-7050"
+  ],
+  "name": "AVG-616",
+  "packages": [
+    "irssi"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

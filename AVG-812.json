@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201811-16"
+  ],
+  "affected": "70.0.3538.102-1",
+  "fixed": "70.0.3538.110-1",
+  "issues": [
+    "CVE-2018-17478"
+  ],
+  "name": "AVG-812",
+  "packages": [
+    "chromium"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "information disclosure"
+}

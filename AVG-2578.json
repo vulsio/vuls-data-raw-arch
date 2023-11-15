@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.16.0-1",
+  "fixed": "1.16.1-1",
+  "issues": [
+    "CVE-2021-3935"
+  ],
+  "name": "AVG-2578",
+  "packages": [
+    "pgbouncer"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "man-in-the-middle"
+}

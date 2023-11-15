@@ -1,0 +1,20 @@
+{
+  "advisories": [
+    "ASA-202006-10"
+  ],
+  "affected": "20200520-1",
+  "fixed": "20200609-1",
+  "issues": [
+    "CVE-2020-0549",
+    "CVE-2020-0548",
+    "CVE-2020-0543"
+  ],
+  "name": "AVG-1187",
+  "packages": [
+    "intel-ucode"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "information disclosure"
+}

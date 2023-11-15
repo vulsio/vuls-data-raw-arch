@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201801-17"
+  ],
+  "affected": "0.13.66-1",
+  "fixed": "0.13.67-1",
+  "issues": [
+    "CVE-2017-5978",
+    "CVE-2017-5977"
+  ],
+  "name": "AVG-273",
+  "packages": [
+    "zziplib"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": "53133",
+  "type": "denial of service"
+}

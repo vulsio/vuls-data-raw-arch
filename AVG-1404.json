@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "15.5.0-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2020-1971"
+  ],
+  "name": "AVG-1404",
+  "packages": [
+    "nodejs"
+  ],
+  "severity": "High",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "denial of service"
+}

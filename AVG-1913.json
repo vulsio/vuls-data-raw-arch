@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "3.9.4-1",
+  "fixed": "3.9.5-1",
+  "issues": [
+    "CVE-2021-29921"
+  ],
+  "name": "AVG-1913",
+  "packages": [
+    "python"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "insufficient validation"
+}

@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201706-16"
+  ],
+  "affected": "17.04.1-1",
+  "fixed": "17.04.2-1",
+  "issues": [
+    "CVE-2017-9604"
+  ],
+  "name": "AVG-299",
+  "packages": [
+    "kmail"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "information disclosure"
+}

@@ -1,0 +1,18 @@
+{
+  "advisories": [],
+  "affected": "14.5.0-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-39930",
+    "CVE-2021-39918",
+    "CVE-2021-39916"
+  ],
+  "name": "AVG-2604",
+  "packages": [
+    "gitlab"
+  ],
+  "severity": "Medium",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "multiple issues"
+}

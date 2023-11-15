@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1:0.33.0-4",
+  "fixed": "1:0.33.1-1",
+  "issues": [
+    "CVE-2021-30145"
+  ],
+  "name": "AVG-1821",
+  "packages": [
+    "mpv"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

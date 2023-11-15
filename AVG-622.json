@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "7.2.7-2",
+  "fixed": "7.2.8-1",
+  "issues": [
+    "CVE-2015-9253"
+  ],
+  "name": "AVG-622",
+  "packages": [
+    "php-fpm"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": "57579",
+  "type": "denial of service"
+}

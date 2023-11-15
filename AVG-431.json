@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "4.9.55-1",
+  "fixed": "4.9.56-1",
+  "issues": [
+    "CVE-2017-14954"
+  ],
+  "name": "AVG-431",
+  "packages": [
+    "linux-lts"
+  ],
+  "severity": "Medium",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "information disclosure"
+}

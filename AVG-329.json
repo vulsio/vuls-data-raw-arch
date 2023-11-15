@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201707-2"
+  ],
+  "affected": "232-8",
+  "fixed": "233-6",
+  "issues": [
+    "CVE-2017-9445"
+  ],
+  "name": "AVG-329",
+  "packages": [
+    "systemd"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": "54619",
+  "type": "arbitrary code execution"
+}

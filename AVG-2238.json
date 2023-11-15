@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "6.4.19-1",
+  "fixed": "6.4.21-1",
+  "issues": [
+    "CVE-2021-36386"
+  ],
+  "name": "AVG-2238",
+  "packages": [
+    "fetchmail"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

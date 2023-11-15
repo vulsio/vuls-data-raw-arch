@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201703-17"
+  ],
+  "affected": "1.0.1-1",
+  "fixed": "1.0.2-1",
+  "issues": [
+    "CVE-2017-7191"
+  ],
+  "name": "AVG-224",
+  "packages": [
+    "irssi"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

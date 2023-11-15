@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "2.9.13-1",
+  "fixed": "2.9.14-1",
+  "issues": [
+    "CVE-2022-29824",
+    "CVE-2022-23308"
+  ],
+  "name": "AVG-2726",
+  "packages": [
+    "libxml2"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

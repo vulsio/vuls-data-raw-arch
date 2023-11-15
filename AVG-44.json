@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201610-5"
+  ],
+  "affected": "16.08.1-1",
+  "fixed": "16.08.1-2",
+  "issues": [
+    "CVE-2016-7968",
+    "CVE-2016-7967"
+  ],
+  "name": "AVG-44",
+  "packages": [
+    "messagelib"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202110-1"
+  ],
+  "affected": "2.4.50-1",
+  "fixed": "2.4.51-1",
+  "issues": [
+    "CVE-2021-42013"
+  ],
+  "name": "AVG-2450",
+  "packages": [
+    "apache"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "directory traversal"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "7.1.0.13-1",
+  "fixed": "7.1.0.14-1",
+  "issues": [
+    "CVE-2021-3962"
+  ],
+  "name": "AVG-2575",
+  "packages": [
+    "imagemagick"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "insufficient validation"
+}

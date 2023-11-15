@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201805-26"
+  ],
+  "affected": "5.6.2-1",
+  "fixed": "5.6.2-2",
+  "issues": [
+    "CVE-2018-5388"
+  ],
+  "name": "AVG-710",
+  "packages": [
+    "strongswan"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": "58719",
+  "type": "denial of service"
+}

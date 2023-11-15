@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.15.33-1",
+  "fixed": "5.15.34-1",
+  "issues": [
+    "CVE-2022-29582"
+  ],
+  "name": "AVG-2694",
+  "packages": [
+    "linux-lts"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "sandbox escape"
+}

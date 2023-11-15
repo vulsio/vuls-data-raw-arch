@@ -1,0 +1,22 @@
+{
+  "advisories": [
+    "ASA-201710-14"
+  ],
+  "affected": "2.4.1-1",
+  "fixed": "2.4.2-1",
+  "issues": [
+    "CVE-2017-15193",
+    "CVE-2017-15192",
+    "CVE-2017-15191",
+    "CVE-2017-15190",
+    "CVE-2017-15189"
+  ],
+  "name": "AVG-440",
+  "packages": [
+    "wireshark-cli"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

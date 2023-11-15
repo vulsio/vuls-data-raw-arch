@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "9.0.39-2",
+  "fixed": "9.0.40-1",
+  "issues": [
+    "CVE-2021-24122"
+  ],
+  "name": "AVG-1452",
+  "packages": [
+    "tomcat9"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "information disclosure"
+}

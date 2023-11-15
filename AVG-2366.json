@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "8.3.1-1",
+  "fixed": "8.3.2-1",
+  "issues": [
+    "CVE-2021-23437"
+  ],
+  "name": "AVG-2366",
+  "packages": [
+    "python-pillow"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

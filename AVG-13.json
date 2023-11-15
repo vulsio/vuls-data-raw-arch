@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201610-17"
+  ],
+  "affected": "4.02.3-2",
+  "fixed": "4.03.0-1",
+  "issues": [
+    "CVE-2015-8869"
+  ],
+  "name": "AVG-13",
+  "packages": [
+    "ocaml"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "information disclosure"
+}

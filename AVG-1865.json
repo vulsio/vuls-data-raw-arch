@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "15.0.2.u7-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-2161"
+  ],
+  "name": "AVG-1865",
+  "packages": [
+    "jdk-openjdk"
+  ],
+  "severity": "Medium",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "incorrect calculation"
+}

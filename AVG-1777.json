@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.11.1.r45+g8acd73a5-5",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-30046"
+  ],
+  "name": "AVG-1777",
+  "packages": [
+    "vigra"
+  ],
+  "severity": "Low",
+  "status": "Vulnerable",
+  "ticket": null,
+  "type": "denial of service"
+}

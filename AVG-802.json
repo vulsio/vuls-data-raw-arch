@@ -1,0 +1,19 @@
+{
+  "advisories": [],
+  "affected": "11.4.0-1",
+  "fixed": "11.4.3-2",
+  "issues": [
+    "CVE-2018-18843",
+    "CVE-2018-18647",
+    "CVE-2018-18644",
+    "CVE-2018-18642"
+  ],
+  "name": "AVG-802",
+  "packages": [
+    "gitlab"
+  ],
+  "severity": "High",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "multiple issues"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.4.0-4",
+  "fixed": "1.4.1-1",
+  "issues": [
+    "CVE-2022-33070"
+  ],
+  "name": "AVG-2826",
+  "packages": [
+    "protobuf-c"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201812-5"
+  ],
+  "affected": "1.1.1-1",
+  "fixed": "1.1.1.a-1",
+  "issues": [
+    "CVE-2018-0735",
+    "CVE-2018-0734"
+  ],
+  "name": "AVG-792",
+  "packages": [
+    "openssl"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "private key recovery"
+}

@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201709-14"
+  ],
+  "affected": "1.8.0-1",
+  "fixed": "1.8.1-1",
+  "issues": [
+    "CVE-2017-0379"
+  ],
+  "name": "AVG-403",
+  "packages": [
+    "lib32-libgcrypt"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "private key recovery"
+}

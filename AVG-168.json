@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.6.2-3",
+  "fixed": null,
+  "issues": [
+    "CVE-2017-5851"
+  ],
+  "name": "AVG-168",
+  "packages": [
+    "mp3splt"
+  ],
+  "severity": "Low",
+  "status": "Vulnerable",
+  "ticket": null,
+  "type": "denial of service"
+}

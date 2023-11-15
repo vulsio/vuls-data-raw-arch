@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201806-11"
+  ],
+  "affected": "1.7.1-1",
+  "fixed": "1.7.2-1",
+  "issues": [
+    "CVE-2018-12356"
+  ],
+  "name": "AVG-720",
+  "packages": [
+    "pass"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

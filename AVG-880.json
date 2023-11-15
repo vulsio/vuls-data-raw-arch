@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201902-20",
+    "ASA-201902-20"
+  ],
+  "affected": "1.2.2-1",
+  "fixed": "1.2.3-1",
+  "issues": [
+    "CVE-2019-5736"
+  ],
+  "name": "AVG-880",
+  "packages": [
+    "flatpak"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "privilege escalation"
+}

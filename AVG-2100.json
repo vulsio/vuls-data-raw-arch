@@ -1,0 +1,19 @@
+{
+  "advisories": [],
+  "affected": "14.4.2-7",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-33844",
+    "CVE-2021-23210",
+    "CVE-2021-23172",
+    "CVE-2021-23159"
+  ],
+  "name": "AVG-2100",
+  "packages": [
+    "sox"
+  ],
+  "severity": "Medium",
+  "status": "Vulnerable",
+  "ticket": null,
+  "type": "multiple issues"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2:2.1.2-1",
+  "fixed": "2:2.2.0-1",
+  "issues": [
+    "CVE-2020-15103"
+  ],
+  "name": "AVG-1209",
+  "packages": [
+    "freerdp"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

@@ -1,0 +1,23 @@
+{
+  "advisories": [],
+  "affected": "91.8.1-1",
+  "fixed": "91.9-1",
+  "issues": [
+    "CVE-2022-29917",
+    "CVE-2022-29916",
+    "CVE-2022-29914",
+    "CVE-2022-29913",
+    "CVE-2022-29912",
+    "CVE-2022-29911",
+    "CVE-2022-29909",
+    "CVE-2022-1520"
+  ],
+  "name": "AVG-2710",
+  "packages": [
+    "thunderbird"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

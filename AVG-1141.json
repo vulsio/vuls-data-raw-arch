@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202007-5"
+  ],
+  "affected": "2.16.5-1",
+  "fixed": "2.16.7-1",
+  "issues": [
+    "CVE-2020-10932"
+  ],
+  "name": "AVG-1141",
+  "packages": [
+    "mbedtls"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "private key recovery"
+}

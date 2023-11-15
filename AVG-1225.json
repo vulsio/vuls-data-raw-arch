@@ -1,0 +1,22 @@
+{
+  "advisories": [
+    "ASA-202009-6"
+  ],
+  "affected": "85.0.4183.83-1",
+  "fixed": "85.0.4183.102-1",
+  "issues": [
+    "CVE-2020-6579",
+    "CVE-2020-6576",
+    "CVE-2020-6575",
+    "CVE-2020-6574",
+    "CVE-2020-6573"
+  ],
+  "name": "AVG-1225",
+  "packages": [
+    "chromium"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

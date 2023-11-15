@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "8.2.3412-1",
+  "fixed": "8.2.3441-1",
+  "issues": [
+    "CVE-2021-3796"
+  ],
+  "name": "AVG-2390",
+  "packages": [
+    "gvim",
+    "vim"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

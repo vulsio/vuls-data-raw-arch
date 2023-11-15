@@ -1,0 +1,20 @@
+{
+  "advisories": [
+    "ASA-202101-19"
+  ],
+  "affected": "455.45.01-1",
+  "fixed": "460.32.03-1",
+  "issues": [
+    "CVE-2021-1056",
+    "CVE-2021-1053",
+    "CVE-2021-1052"
+  ],
+  "name": "AVG-1417",
+  "packages": [
+    "nvidia-utils"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

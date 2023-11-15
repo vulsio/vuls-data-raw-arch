@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.14.6.hardened1-1",
+  "fixed": "5.14.8.hardened1-1",
+  "issues": [
+    "CVE-2021-41073"
+  ],
+  "name": "AVG-2414",
+  "packages": [
+    "linux-hardened"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "privilege escalation"
+}

@@ -1,0 +1,21 @@
+{
+  "advisories": [],
+  "affected": "5.11.8.arch1-1",
+  "fixed": "5.11.9.arch1-1",
+  "issues": [
+    "CVE-2021-29266",
+    "CVE-2021-28972",
+    "CVE-2021-28971",
+    "CVE-2021-28964",
+    "CVE-2021-28952",
+    "CVE-2021-28951"
+  ],
+  "name": "AVG-1716",
+  "packages": [
+    "linux"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

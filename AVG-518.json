@@ -1,0 +1,21 @@
+{
+  "advisories": [
+    "ASA-201711-32"
+  ],
+  "affected": "4.89-1",
+  "fixed": "4.89.1-1",
+  "issues": [
+    "CVE-2017-16944",
+    "CVE-2017-16943",
+    "CVE-2017-10140",
+    "CVE-2017-1000369"
+  ],
+  "name": "AVG-518",
+  "packages": [
+    "exim"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": "56478",
+  "type": "multiple issues"
+}

@@ -1,0 +1,19 @@
+{
+  "advisories": [],
+  "affected": "1.7.3-1",
+  "fixed": "1.9.0-1",
+  "issues": [
+    "CVE-2021-43998",
+    "CVE-2021-41802",
+    "CVE-2021-38554",
+    "CVE-2021-38553"
+  ],
+  "name": "AVG-2294",
+  "packages": [
+    "vault"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

@@ -1,0 +1,22 @@
+{
+  "advisories": [
+    "ASA-202107-53",
+    "ASA-202107-54"
+  ],
+  "affected": "11.0.11.u9-1",
+  "fixed": "11.0.12.u7-1",
+  "issues": [
+    "CVE-2021-2388",
+    "CVE-2021-2369",
+    "CVE-2021-2341"
+  ],
+  "name": "AVG-2189",
+  "packages": [
+    "jdk11-openjdk",
+    "jre11-openjdk-headless"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

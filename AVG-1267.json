@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202011-9"
+  ],
+  "affected": "86.0.4240.183-1",
+  "fixed": "86.0.4240.193-1",
+  "issues": [
+    "CVE-2020-16016"
+  ],
+  "name": "AVG-1267",
+  "packages": [
+    "chromium"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

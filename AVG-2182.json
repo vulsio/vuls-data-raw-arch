@@ -1,0 +1,21 @@
+{
+  "advisories": [
+    "ASA-202107-49"
+  ],
+  "affected": "5.13.1.zen1-1",
+  "fixed": "5.13.4.zen1-1",
+  "issues": [
+    "CVE-2021-3655",
+    "CVE-2021-3612",
+    "CVE-2021-3609",
+    "CVE-2021-33909"
+  ],
+  "name": "AVG-2182",
+  "packages": [
+    "linux-zen"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

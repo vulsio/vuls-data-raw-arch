@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201706-13"
+  ],
+  "affected": "0.3.0.7-1",
+  "fixed": "0.3.0.8-1",
+  "issues": [
+    "CVE-2017-0376",
+    "CVE-2017-0375"
+  ],
+  "name": "AVG-296",
+  "packages": [
+    "tor"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": "54439",
+  "type": "denial of service"
+}

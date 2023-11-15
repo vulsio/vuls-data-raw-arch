@@ -1,0 +1,22 @@
+{
+  "advisories": [
+    "ASA-201805-12"
+  ],
+  "affected": "0.3.3-2",
+  "fixed": "0.3.3-3",
+  "issues": [
+    "CVE-2018-6544",
+    "CVE-2018-6192",
+    "CVE-2018-6187",
+    "CVE-2018-5686",
+    "CVE-2018-1000051"
+  ],
+  "name": "AVG-691",
+  "packages": [
+    "zathura-pdf-mupdf"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": "57486",
+  "type": "multiple issues"
+}

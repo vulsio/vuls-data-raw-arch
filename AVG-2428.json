@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "1.60.2-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-36952",
+    "CVE-2021-26434"
+  ],
+  "name": "AVG-2428",
+  "packages": [
+    "code"
+  ],
+  "severity": "High",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "multiple issues"
+}

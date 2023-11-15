@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-202106-56"
+  ],
+  "affected": "2.3.14-2",
+  "fixed": "2.3.15-1",
+  "issues": [
+    "CVE-2021-33515",
+    "CVE-2021-29157"
+  ],
+  "name": "AVG-2087",
+  "packages": [
+    "dovecot"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "information disclosure"
+}

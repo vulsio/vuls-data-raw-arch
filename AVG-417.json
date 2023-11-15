@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "4.13.3-1",
+  "fixed": "4.13.5-1",
+  "issues": [
+    "CVE-2017-12154"
+  ],
+  "name": "AVG-417",
+  "packages": [
+    "linux"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "access restriction bypass"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "4.1.1-7",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-36081"
+  ],
+  "name": "AVG-2115",
+  "packages": [
+    "tesseract"
+  ],
+  "severity": "Medium",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

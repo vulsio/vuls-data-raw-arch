@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "3.4.1-1",
+  "fixed": "3.4.2-1",
+  "issues": [
+    "CVE-2020-26422"
+  ],
+  "name": "AVG-1377",
+  "packages": [
+    "wireshark-cli"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

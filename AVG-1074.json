@@ -1,0 +1,19 @@
+{
+  "advisories": [],
+  "affected": "2.24.0-1",
+  "fixed": "2.24.1-1",
+  "issues": [
+    "CVE-2019-1354",
+    "CVE-2019-1353",
+    "CVE-2019-1351",
+    "CVE-2019-1350"
+  ],
+  "name": "AVG-1074",
+  "packages": [
+    "git"
+  ],
+  "severity": "High",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

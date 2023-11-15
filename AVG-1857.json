@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.44-3",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-31523"
+  ],
+  "name": "AVG-1857",
+  "packages": [
+    "xscreensaver"
+  ],
+  "severity": "Medium",
+  "status": "Not affected",
+  "ticket": "70531",
+  "type": "privilege escalation"
+}

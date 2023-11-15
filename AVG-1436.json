@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "4.0.2-1",
+  "fixed": "4.0.3-1",
+  "issues": [
+    "CVE-2020-27637"
+  ],
+  "name": "AVG-1436",
+  "packages": [
+    "r"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

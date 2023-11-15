@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "8.0.12-2",
+  "fixed": "8.0.13-1",
+  "issues": [
+    "CVE-2021-21707"
+  ],
+  "name": "AVG-2566",
+  "packages": [
+    "php"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "insufficient validation"
+}

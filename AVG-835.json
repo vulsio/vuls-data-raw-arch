@@ -1,0 +1,20 @@
+{
+  "advisories": [
+    "ASA-201812-11"
+  ],
+  "affected": "2:1.11.2-2",
+  "fixed": "2:1.11.3-1",
+  "issues": [
+    "CVE-2018-16875",
+    "CVE-2018-16874",
+    "CVE-2018-16873"
+  ],
+  "name": "AVG-835",
+  "packages": [
+    "go"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

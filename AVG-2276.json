@@ -1,0 +1,18 @@
+{
+  "advisories": [],
+  "affected": "2021.07.20-1",
+  "fixed": "2021.08.09-1",
+  "issues": [
+    "CVE-2021-38382",
+    "CVE-2021-38381",
+    "CVE-2021-38380"
+  ],
+  "name": "AVG-2276",
+  "packages": [
+    "live-media"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

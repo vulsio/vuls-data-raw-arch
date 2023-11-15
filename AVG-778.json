@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.145-1",
+  "fixed": "2.146-1",
+  "issues": [
+    "CVE-2018-1999043"
+  ],
+  "name": "AVG-778",
+  "packages": [
+    "jenkins"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "access restriction bypass"
+}

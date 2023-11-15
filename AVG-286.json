@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201706-10"
+  ],
+  "affected": "4.10-1",
+  "fixed": "4.11-1",
+  "issues": [
+    "CVE-2017-6891"
+  ],
+  "name": "AVG-286",
+  "packages": [
+    "lib32-libtasn1"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

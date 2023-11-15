@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.32.1-1",
+  "fixed": "2.32.2-1",
+  "issues": [
+    "CVE-2021-30758"
+  ],
+  "name": "AVG-2218",
+  "packages": [
+    "webkit2gtk"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

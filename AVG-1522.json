@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "13.8.1-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-22169"
+  ],
+  "name": "AVG-1522",
+  "packages": [
+    "gitlab"
+  ],
+  "severity": "Medium",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "information disclosure"
+}

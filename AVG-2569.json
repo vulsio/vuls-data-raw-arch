@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.10.13-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-43668"
+  ],
+  "name": "AVG-2569",
+  "packages": [
+    "go-ethereum"
+  ],
+  "severity": "Low",
+  "status": "Vulnerable",
+  "ticket": null,
+  "type": "denial of service"
+}

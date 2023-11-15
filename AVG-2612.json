@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.15.6.hardened1-1",
+  "fixed": "5.15.7.hardened1-1",
+  "issues": [
+    "CVE-2021-43975"
+  ],
+  "name": "AVG-2612",
+  "packages": [
+    "linux-hardened"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201810-10"
+  ],
+  "affected": "0.8.3-1",
+  "fixed": "0.8.4-1",
+  "issues": [
+    "CVE-2018-10933"
+  ],
+  "name": "AVG-780",
+  "packages": [
+    "libssh"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "authentication bypass"
+}

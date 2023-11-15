@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201709-20"
+  ],
+  "affected": "1.9-2",
+  "fixed": "1.9.1-1",
+  "issues": [
+    "CVE-2017-14727"
+  ],
+  "name": "AVG-412",
+  "packages": [
+    "weechat"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

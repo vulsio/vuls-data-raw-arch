@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "4.14.0-2",
+  "fixed": "4.14.2-1",
+  "issues": [
+    "CVE-2021-20277",
+    "CVE-2020-27840"
+  ],
+  "name": "AVG-1732",
+  "packages": [
+    "samba"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

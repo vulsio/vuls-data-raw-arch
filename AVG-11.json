@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201610-7"
+  ],
+  "affected": "1:2.5-3",
+  "fixed": "1:2.6-1",
+  "issues": [
+    "CVE-2016-4477",
+    "CVE-2016-4476"
+  ],
+  "name": "AVG-11",
+  "packages": [
+    "wpa_supplicant"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": "49196",
+  "type": "multiple issues"
+}

@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "2019.05-9",
+  "fixed": "2021.01-1",
+  "issues": [
+    "CVE-2020-28600",
+    "CVE-2020-28599"
+  ],
+  "name": "AVG-1622",
+  "packages": [
+    "openscad"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": "70052",
+  "type": "arbitrary code execution"
+}

@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201612-10"
+  ],
+  "affected": "4.8.12-2",
+  "fixed": "4.8.12-3",
+  "issues": [
+    "CVE-2016-9919"
+  ],
+  "name": "AVG-101",
+  "packages": [
+    "linux"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

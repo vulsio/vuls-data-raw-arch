@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-202204-1",
+    "ASA-202204-1"
+  ],
+  "affected": "13.4-6",
+  "fixed": "13.5-1",
+  "issues": [
+    "CVE-2021-23214"
+  ],
+  "name": "AVG-2546",
+  "packages": [
+    "postgresql"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "man-in-the-middle"
+}

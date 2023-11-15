@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201911-11"
+  ],
+  "affected": "4.19.81-1",
+  "fixed": "4.19.82-1",
+  "issues": [
+    "CVE-2019-17666"
+  ],
+  "name": "AVG-1065",
+  "packages": [
+    "linux-lts"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

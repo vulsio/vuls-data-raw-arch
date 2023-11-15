@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201708-7"
+  ],
+  "affected": "4.2.2-1",
+  "fixed": "4.2.3-1",
+  "issues": [
+    "CVE-2017-1000116",
+    "CVE-2017-1000115"
+  ],
+  "name": "AVG-378",
+  "packages": [
+    "mercurial"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

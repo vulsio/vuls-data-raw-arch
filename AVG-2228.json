@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.12.17.hardened1-1",
+  "fixed": "5.12.18.hardened1-1",
+  "issues": [
+    "CVE-2021-3655"
+  ],
+  "name": "AVG-2228",
+  "packages": [
+    "linux-hardened"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "information disclosure"
+}

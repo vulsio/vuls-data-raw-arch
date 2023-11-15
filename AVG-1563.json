@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.14.0-4",
+  "fixed": "1.14.1-1",
+  "issues": [
+    "CVE-2020-17525"
+  ],
+  "name": "AVG-1563",
+  "packages": [
+    "subversion"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

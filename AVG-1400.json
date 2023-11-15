@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-202101-16"
+  ],
+  "affected": "15.5.0-1",
+  "fixed": "15.5.1-1",
+  "issues": [
+    "CVE-2020-8287",
+    "CVE-2020-8265"
+  ],
+  "name": "AVG-1400",
+  "packages": [
+    "nodejs"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

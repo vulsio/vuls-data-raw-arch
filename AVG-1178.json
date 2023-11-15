@@ -1,0 +1,21 @@
+{
+  "advisories": [
+    "ASA-202006-3"
+  ],
+  "affected": "83.0.4103.61-2",
+  "fixed": "83.0.4103.97-1",
+  "issues": [
+    "CVE-2020-6496",
+    "CVE-2020-6495",
+    "CVE-2020-6494",
+    "CVE-2020-6493"
+  ],
+  "name": "AVG-1178",
+  "packages": [
+    "chromium"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

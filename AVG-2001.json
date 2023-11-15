@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202106-16"
+  ],
+  "affected": "1.1.0-1",
+  "fixed": "1.1.1-1",
+  "issues": [
+    "CVE-2021-31924"
+  ],
+  "name": "AVG-2001",
+  "packages": [
+    "pam-u2f"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "authentication bypass"
+}

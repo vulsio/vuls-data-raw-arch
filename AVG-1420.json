@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.1.3+19+g9816ebb-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2020-27748"
+  ],
+  "name": "AVG-1420",
+  "packages": [
+    "xdg-utils"
+  ],
+  "severity": "Medium",
+  "status": "Vulnerable",
+  "ticket": null,
+  "type": "information disclosure"
+}

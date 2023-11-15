@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "6.0.0.sdk100-2",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-43877"
+  ],
+  "name": "AVG-2642",
+  "packages": [
+    "dotnet-runtime"
+  ],
+  "severity": "Low",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "privilege escalation"
+}

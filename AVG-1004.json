@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201907-5"
+  ],
+  "affected": "4.7-2",
+  "fixed": "4.8-1",
+  "issues": [
+    "CVE-2019-12527"
+  ],
+  "name": "AVG-1004",
+  "packages": [
+    "squid"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

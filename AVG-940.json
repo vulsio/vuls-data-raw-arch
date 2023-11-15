@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.3-4",
+  "fixed": "1.4.4-1",
+  "issues": [
+    "CVE-2018-0492"
+  ],
+  "name": "AVG-940",
+  "packages": [
+    "beep"
+  ],
+  "severity": "High",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "privilege escalation"
+}

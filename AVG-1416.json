@@ -1,0 +1,22 @@
+{
+  "advisories": [
+    "ASA-202101-10"
+  ],
+  "affected": "13.7.1-1",
+  "fixed": "13.7.2-1",
+  "issues": [
+    "CVE-2021-22171",
+    "CVE-2021-22168",
+    "CVE-2021-22167",
+    "CVE-2021-22166",
+    "CVE-2020-26414"
+  ],
+  "name": "AVG-1416",
+  "packages": [
+    "gitlab"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

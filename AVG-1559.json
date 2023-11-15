@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.10.14.hardened1-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-20194"
+  ],
+  "name": "AVG-1559",
+  "packages": [
+    "linux-hardened"
+  ],
+  "severity": "Medium",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "privilege escalation"
+}

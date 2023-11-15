@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "9.13.0-2",
+  "fixed": "9.13.2-1",
+  "issues": [
+    "CVE-2018-5738"
+  ],
+  "name": "AVG-718",
+  "packages": [
+    "bind"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "access restriction bypass"
+}

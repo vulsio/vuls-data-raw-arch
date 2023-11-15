@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.1.11.arch1-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2019-12881"
+  ],
+  "name": "AVG-996",
+  "packages": [
+    "linux"
+  ],
+  "severity": "High",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "denial of service"
+}

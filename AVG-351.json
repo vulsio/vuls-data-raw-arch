@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201903-4"
+  ],
+  "affected": "8.42-2",
+  "fixed": "8.43-1",
+  "issues": [
+    "CVE-2017-11164"
+  ],
+  "name": "AVG-351",
+  "packages": [
+    "pcre"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

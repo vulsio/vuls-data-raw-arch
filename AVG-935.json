@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "47.0.1-1",
+  "fixed": "48.0.1-1",
+  "issues": [
+    "CVE-2016-5258"
+  ],
+  "name": "AVG-935",
+  "packages": [
+    "firefox"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

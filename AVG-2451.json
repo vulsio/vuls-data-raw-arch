@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.1.5-1",
+  "fixed": "1.1.6-1",
+  "issues": [
+    "CVE-2021-41865"
+  ],
+  "name": "AVG-2451",
+  "packages": [
+    "nomad"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

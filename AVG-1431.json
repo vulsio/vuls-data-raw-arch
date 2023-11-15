@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-202101-25"
+  ],
+  "affected": "1.9.4.p2-2",
+  "fixed": "1.9.5.p2-1",
+  "issues": [
+    "CVE-2021-3156",
+    "CVE-2021-23239"
+  ],
+  "name": "AVG-1431",
+  "packages": [
+    "sudo"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "9.1p1-3",
+  "fixed": "9.2p1-1",
+  "issues": [
+    "CVE-2023-25136"
+  ],
+  "name": "AVG-2832",
+  "packages": [
+    "openssh"
+  ],
+  "severity": "Unknown",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "unknown"
+}

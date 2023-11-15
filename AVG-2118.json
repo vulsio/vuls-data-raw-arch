@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-202107-5"
+  ],
+  "affected": "2.299-1",
+  "fixed": "2.300-1",
+  "issues": [
+    "CVE-2021-21671",
+    "CVE-2021-21670"
+  ],
+  "name": "AVG-2118",
+  "packages": [
+    "jenkins"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

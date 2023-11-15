@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202003-3"
+  ],
+  "affected": "2.4.7-6",
+  "fixed": "2.4.7-7",
+  "issues": [
+    "CVE-2020-8597"
+  ],
+  "name": "AVG-1101",
+  "packages": [
+    "ppp"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "3.2-1",
+  "fixed": "3.2.1-1",
+  "issues": [
+    "CVE-2021-40516"
+  ],
+  "name": "AVG-2365",
+  "packages": [
+    "weechat"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "5.14.16.arch1-1",
+  "fixed": "5.15.arch1-1",
+  "issues": [
+    "CVE-2021-4023",
+    "CVE-2021-3759"
+  ],
+  "name": "AVG-2522",
+  "packages": [
+    "linux"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

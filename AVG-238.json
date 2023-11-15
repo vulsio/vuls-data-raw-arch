@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201705-1"
+  ],
+  "affected": "2.2.28-3",
+  "fixed": "2.2.29.1-1",
+  "issues": [
+    "CVE-2017-2669"
+  ],
+  "name": "AVG-238",
+  "packages": [
+    "dovecot"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

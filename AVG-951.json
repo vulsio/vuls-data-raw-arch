@@ -1,0 +1,20 @@
+{
+  "advisories": [
+    "ASA-201904-11"
+  ],
+  "affected": "7.9p1-1",
+  "fixed": "8.0p1-1",
+  "issues": [
+    "CVE-2019-6111",
+    "CVE-2019-6109",
+    "CVE-2018-20685"
+  ],
+  "name": "AVG-951",
+  "packages": [
+    "openssh"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

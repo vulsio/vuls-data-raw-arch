@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "8.0.0055-1",
+  "fixed": "8.0.0056-1",
+  "issues": [
+    "CVE-2016-1248"
+  ],
+  "name": "AVG-83",
+  "packages": [
+    "vim"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary command execution"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "3.2-1",
+  "fixed": "3.2.1-1",
+  "issues": [
+    "CVE-2021-31542"
+  ],
+  "name": "AVG-1910",
+  "packages": [
+    "python-django"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "directory traversal"
+}

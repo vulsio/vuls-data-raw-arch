@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "0.38.0-3",
+  "fixed": null,
+  "issues": [
+    "CVE-2020-25657"
+  ],
+  "name": "AVG-1441",
+  "packages": [
+    "python-m2crypto"
+  ],
+  "severity": "Medium",
+  "status": "Vulnerable",
+  "ticket": null,
+  "type": "private key recovery"
+}

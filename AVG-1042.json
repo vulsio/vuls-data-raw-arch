@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201910-6"
+  ],
+  "affected": "1.9.3-4",
+  "fixed": "1.9.4-1",
+  "issues": [
+    "CVE-2019-16866"
+  ],
+  "name": "AVG-1042",
+  "packages": [
+    "unbound"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "4.95-2",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-38371"
+  ],
+  "name": "AVG-2272",
+  "packages": [
+    "exim"
+  ],
+  "severity": "High",
+  "status": "Vulnerable",
+  "ticket": null,
+  "type": "man-in-the-middle"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2:1.17.1-1",
+  "fixed": "2:1.17.2-1",
+  "issues": [
+    "CVE-2021-38297"
+  ],
+  "name": "AVG-2454",
+  "packages": [
+    "go"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.15.1-1",
+  "fixed": "1.15.2-1",
+  "issues": [
+    "CVE-2017-11368"
+  ],
+  "name": "AVG-436",
+  "packages": [
+    "lib32-krb5"
+  ],
+  "severity": "Medium",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "denial of service"
+}

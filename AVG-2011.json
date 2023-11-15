@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.9.2-1",
+  "fixed": "1.9.3-1",
+  "issues": [
+    "CVE-2021-33560"
+  ],
+  "name": "AVG-2011",
+  "packages": [
+    "libgcrypt"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "private key recovery"
+}

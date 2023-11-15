@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "3.4.4-3",
+  "fixed": "3.4.5-1",
+  "issues": [
+    "CVE-2020-1946"
+  ],
+  "name": "AVG-1731",
+  "packages": [
+    "spamassassin"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary command execution"
+}

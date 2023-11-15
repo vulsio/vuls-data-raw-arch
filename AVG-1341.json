@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.23.0-1",
+  "fixed": "1.24.0-1",
+  "issues": [
+    "CVE-2020-26257"
+  ],
+  "name": "AVG-1341",
+  "packages": [
+    "matrix-synapse"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

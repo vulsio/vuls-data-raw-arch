@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.9.7.zen1-1",
+  "fixed": "5.10.2.zen1-1",
+  "issues": [
+    "CVE-2020-16119"
+  ],
+  "name": "AVG-1246",
+  "packages": [
+    "linux-zen"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": "68257",
+  "type": "arbitrary code execution"
+}

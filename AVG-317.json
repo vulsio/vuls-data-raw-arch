@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "4.11.6.b-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2017-1000377"
+  ],
+  "name": "AVG-317",
+  "packages": [
+    "linux-hardened"
+  ],
+  "severity": "High",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

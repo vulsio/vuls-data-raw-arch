@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "0.6-1",
+  "fixed": "0.6.1-1",
+  "issues": [
+    "CVE-2021-22564",
+    "CVE-2021-22563"
+  ],
+  "name": "AVG-2508",
+  "packages": [
+    "libjxl"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

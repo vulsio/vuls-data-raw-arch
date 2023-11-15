@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "3.36.0-1",
+  "fixed": "3.37.0-1",
+  "issues": [
+    "CVE-2021-36690"
+  ],
+  "name": "AVG-2318",
+  "packages": [
+    "sqlite"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-202204-2"
+  ],
+  "affected": "0.120-3",
+  "fixed": "0.120-5",
+  "issues": [
+    "CVE-2021-4115",
+    "CVE-2021-4034"
+  ],
+  "name": "AVG-2654",
+  "packages": [
+    "polkit"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

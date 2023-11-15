@@ -1,0 +1,23 @@
+{
+  "advisories": [],
+  "affected": "2:2.06-5",
+  "fixed": null,
+  "issues": [
+    "CVE-2022-28737",
+    "CVE-2022-28736",
+    "CVE-2022-28735",
+    "CVE-2022-28734",
+    "CVE-2022-28733",
+    "CVE-2021-3697",
+    "CVE-2021-3696",
+    "CVE-2021-3695"
+  ],
+  "name": "AVG-2762",
+  "packages": [
+    "grub"
+  ],
+  "severity": "High",
+  "status": "Vulnerable",
+  "ticket": null,
+  "type": "multiple issues"
+}

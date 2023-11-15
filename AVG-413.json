@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.12-1",
+  "fixed": "2.0.0-1",
+  "issues": [
+    "CVE-2017-7982"
+  ],
+  "name": "AVG-413",
+  "packages": [
+    "libplist"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

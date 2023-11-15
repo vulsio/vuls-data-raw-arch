@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201804-7"
+  ],
+  "affected": "5.4.2-2",
+  "fixed": "5.5-1",
+  "issues": [
+    "CVE-2018-7549",
+    "CVE-2018-7548"
+  ],
+  "name": "AVG-642",
+  "packages": [
+    "zsh"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.13.2-1",
+  "fixed": "1.13.4-1",
+  "issues": [
+    "CVE-2021-28378"
+  ],
+  "name": "AVG-1689",
+  "packages": [
+    "gitea"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "cross-site scripting"
+}

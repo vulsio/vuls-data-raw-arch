@@ -1,0 +1,22 @@
+{
+  "advisories": [
+    "ASA-201910-7"
+  ],
+  "affected": "77.0.3865.90-1",
+  "fixed": "77.0.3865.120-1",
+  "issues": [
+    "CVE-2019-13697",
+    "CVE-2019-13696",
+    "CVE-2019-13695",
+    "CVE-2019-13694",
+    "CVE-2019-13693"
+  ],
+  "name": "AVG-1043",
+  "packages": [
+    "chromium"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

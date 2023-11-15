@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "5.12.12.arch1-1",
+  "fixed": "5.12.13.arch1-1",
+  "issues": [
+    "CVE-2021-34693",
+    "CVE-2021-33624"
+  ],
+  "name": "AVG-2094",
+  "packages": [
+    "linux"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "information disclosure"
+}

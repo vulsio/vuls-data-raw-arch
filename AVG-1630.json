@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2:2.04-10",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-3418"
+  ],
+  "name": "AVG-1630",
+  "packages": [
+    "grub"
+  ],
+  "severity": "Medium",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "insufficient validation"
+}

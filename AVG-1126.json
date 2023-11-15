@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-202004-14"
+  ],
+  "affected": "2.4.41-1",
+  "fixed": "2.4.43-1",
+  "issues": [
+    "CVE-2020-1934",
+    "CVE-2020-1927"
+  ],
+  "name": "AVG-1126",
+  "packages": [
+    "apache"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

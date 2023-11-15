@@ -1,0 +1,20 @@
+{
+  "advisories": [
+    "ASA-202104-10"
+  ],
+  "affected": "9.16.13-1",
+  "fixed": "9.16.15-1",
+  "issues": [
+    "CVE-2021-25216",
+    "CVE-2021-25215",
+    "CVE-2021-25214"
+  ],
+  "name": "AVG-1890",
+  "packages": [
+    "bind"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

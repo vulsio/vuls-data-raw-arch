@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.9.9.arch1-1",
+  "fixed": "5.9.10.arch1-1",
+  "issues": [
+    "CVE-2020-25669"
+  ],
+  "name": "AVG-1314",
+  "packages": [
+    "linux"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "information disclosure"
+}

@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201906-19"
+  ],
+  "affected": "68.0b10-1",
+  "fixed": "68.0b11-1",
+  "issues": [
+    "CVE-2019-11707"
+  ],
+  "name": "AVG-995",
+  "packages": [
+    "firefox-developer-edition"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.7.12.arch1-1",
+  "fixed": "5.8.arch1-1",
+  "issues": [
+    "CVE-2020-16120"
+  ],
+  "name": "AVG-1242",
+  "packages": [
+    "linux"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "privilege escalation"
+}

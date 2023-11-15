@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.5.5-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-23169"
+  ],
+  "name": "AVG-1862",
+  "packages": [
+    "openexr"
+  ],
+  "severity": "Medium",
+  "status": "Not affected",
+  "ticket": "70555",
+  "type": "arbitrary code execution"
+}

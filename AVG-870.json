@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201905-17"
+  ],
+  "affected": "2018.10.17-1",
+  "fixed": "2019.05.12-1",
+  "issues": [
+    "CVE-2019-7733",
+    "CVE-2019-7314"
+  ],
+  "name": "AVG-870",
+  "packages": [
+    "live-media"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

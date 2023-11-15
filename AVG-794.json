@@ -1,0 +1,24 @@
+{
+  "advisories": [
+    "ASA-201810-16"
+  ],
+  "affected": "11.4.0-1",
+  "fixed": "11.4.3-1",
+  "issues": [
+    "CVE-2018-18649",
+    "CVE-2018-18648",
+    "CVE-2018-18646",
+    "CVE-2018-18645",
+    "CVE-2018-18643",
+    "CVE-2018-18641",
+    "CVE-2018-18640"
+  ],
+  "name": "AVG-794",
+  "packages": [
+    "gitlab"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

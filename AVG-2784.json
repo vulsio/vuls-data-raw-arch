@@ -1,0 +1,18 @@
+{
+  "advisories": [],
+  "affected": "7.2.6-3",
+  "fixed": "7.2.7-1",
+  "issues": [
+    "CVE-2022-26307",
+    "CVE-2022-26306",
+    "CVE-2022-26305"
+  ],
+  "name": "AVG-2784",
+  "packages": [
+    "libreoffice-still"
+  ],
+  "severity": "Unknown",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "unknown"
+}

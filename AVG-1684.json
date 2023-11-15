@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2:r10198.6d8f2221b-2",
+  "fixed": "2:r10820.4e81233ac-1",
+  "issues": [
+    "CVE-2021-28373"
+  ],
+  "name": "AVG-1684",
+  "packages": [
+    "tt-rss"
+  ],
+  "severity": "High",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "authentication bypass"
+}

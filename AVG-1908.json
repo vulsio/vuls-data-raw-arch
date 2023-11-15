@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.7.2-3",
+  "fixed": "1.8.0-1",
+  "issues": [
+    "CVE-2021-21306"
+  ],
+  "name": "AVG-1908",
+  "packages": [
+    "hedgedoc"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

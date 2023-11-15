@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201805-1"
+  ],
+  "affected": "4.1.1-2",
+  "fixed": "4.1.2-1",
+  "issues": [
+    "CVE-2018-1046"
+  ],
+  "name": "AVG-686",
+  "packages": [
+    "powerdns"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

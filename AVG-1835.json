@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "87.0-2",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-29945",
+    "CVE-2021-29944"
+  ],
+  "name": "AVG-1835",
+  "packages": [
+    "firefox"
+  ],
+  "severity": "Medium",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "multiple issues"
+}

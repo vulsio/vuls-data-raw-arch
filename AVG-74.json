@@ -1,0 +1,20 @@
+{
+  "advisories": [
+    "ASA-201611-20"
+  ],
+  "affected": "8.2.2-1",
+  "fixed": "8.2.3-1",
+  "issues": [
+    "CVE-2016-9452",
+    "CVE-2016-9450",
+    "CVE-2016-9449"
+  ],
+  "name": "AVG-74",
+  "packages": [
+    "drupal"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

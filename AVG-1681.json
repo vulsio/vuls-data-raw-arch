@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.4.5-1",
+  "fixed": "1.4.6-1",
+  "issues": [
+    "CVE-2021-28305"
+  ],
+  "name": "AVG-1681",
+  "packages": [
+    "diesel-cli"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

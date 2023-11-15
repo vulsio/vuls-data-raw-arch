@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-202103-1"
+  ],
+  "affected": "3.7.0-1",
+  "fixed": "3.7.1-1",
+  "issues": [
+    "CVE-2021-20232",
+    "CVE-2021-20231"
+  ],
+  "name": "AVG-1674",
+  "packages": [
+    "gnutls"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201707-5"
+  ],
+  "affected": "232-8",
+  "fixed": "233-7",
+  "issues": [
+    "CVE-2017-9217"
+  ],
+  "name": "AVG-337",
+  "packages": [
+    "systemd"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

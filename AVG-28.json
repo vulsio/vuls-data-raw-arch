@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "0.8.19-2",
+  "fixed": null,
+  "issues": [
+    "CVE-2016-7044"
+  ],
+  "name": "AVG-28",
+  "packages": [
+    "irssi"
+  ],
+  "severity": "High",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "8.5.0-2",
+  "fixed": "8.6.0-1",
+  "issues": [
+    "CVE-2021-43398"
+  ],
+  "name": "AVG-2528",
+  "packages": [
+    "crypto++"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "private key recovery"
+}

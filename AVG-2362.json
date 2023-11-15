@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.18.1-1",
+  "fixed": "2.18.2-1",
+  "issues": [
+    "CVE-2021-40529"
+  ],
+  "name": "AVG-2362",
+  "packages": [
+    "botan"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "information disclosure"
+}

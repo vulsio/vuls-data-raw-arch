@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "9.6.5-1",
+  "fixed": "9.6.6-1",
+  "issues": [
+    "CVE-2017-12172"
+  ],
+  "name": "AVG-488",
+  "packages": [
+    "postgresql-old-upgrade"
+  ],
+  "severity": "High",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "privilege escalation"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.3.1-2",
+  "fixed": "2.4.0-1",
+  "issues": [
+    "CVE-2020-27823"
+  ],
+  "name": "AVG-1980",
+  "packages": [
+    "openjpeg2"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": "68906",
+  "type": "arbitrary code execution"
+}

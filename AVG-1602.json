@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.18.0-1",
+  "fixed": "1.18.0-2",
+  "issues": [
+    "CVE-2021-3407"
+  ],
+  "name": "AVG-1602",
+  "packages": [
+    "mupdf"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": "70054",
+  "type": "arbitrary code execution"
+}

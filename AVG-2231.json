@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.60-1",
+  "fixed": "5.61-1",
+  "issues": [
+    "CVE-2021-3658"
+  ],
+  "name": "AVG-2231",
+  "packages": [
+    "bluez"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "information disclosure"
+}

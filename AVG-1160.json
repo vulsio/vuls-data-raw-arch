@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "0.14-4",
+  "fixed": "0.15-1",
+  "issues": [
+    "CVE-2020-12762"
+  ],
+  "name": "AVG-1160",
+  "packages": [
+    "json-c"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": "66678",
+  "type": "information disclosure"
+}

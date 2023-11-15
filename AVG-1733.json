@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1:17.04-3",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-3465"
+  ],
+  "name": "AVG-1733",
+  "packages": [
+    "p7zip"
+  ],
+  "severity": "Low",
+  "status": "Vulnerable",
+  "ticket": null,
+  "type": "denial of service"
+}

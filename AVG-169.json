@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201702-8"
+  ],
+  "affected": "9.11.0.P2-1",
+  "fixed": "9.11.0.P3-1",
+  "issues": [
+    "CVE-2017-3135"
+  ],
+  "name": "AVG-169",
+  "packages": [
+    "bind"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

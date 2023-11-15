@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.12.11.arch1-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-32078"
+  ],
+  "name": "AVG-2080",
+  "packages": [
+    "linux"
+  ],
+  "severity": "Medium",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "information disclosure"
+}

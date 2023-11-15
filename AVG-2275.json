@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "1.4.8-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-41259",
+    "CVE-2020-23171"
+  ],
+  "name": "AVG-2275",
+  "packages": [
+    "nim"
+  ],
+  "severity": "High",
+  "status": "Vulnerable",
+  "ticket": null,
+  "type": "multiple issues"
+}

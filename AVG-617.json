@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201802-15"
+  ],
+  "affected": "2.6.0-1",
+  "fixed": "2.7.0-1",
+  "issues": [
+    "CVE-2018-0488",
+    "CVE-2018-0487"
+  ],
+  "name": "AVG-617",
+  "packages": [
+    "mbedtls"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

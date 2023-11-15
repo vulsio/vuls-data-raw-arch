@@ -1,0 +1,20 @@
+{
+  "advisories": [
+    "ASA-201902-16"
+  ],
+  "affected": "65.0-2",
+  "fixed": "65.0.1-1",
+  "issues": [
+    "CVE-2019-5785",
+    "CVE-2018-18511",
+    "CVE-2018-18356"
+  ],
+  "name": "AVG-896",
+  "packages": [
+    "firefox"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

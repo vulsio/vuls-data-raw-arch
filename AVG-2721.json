@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "4.3.0-2",
+  "fixed": null,
+  "issues": [
+    "CVE-2022-1355",
+    "CVE-2022-1354"
+  ],
+  "name": "AVG-2721",
+  "packages": [
+    "libtiff"
+  ],
+  "severity": "Medium",
+  "status": "Vulnerable",
+  "ticket": "74772",
+  "type": "denial of service"
+}

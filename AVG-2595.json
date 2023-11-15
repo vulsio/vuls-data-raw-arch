@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.10.82-1",
+  "fixed": "5.10.83-1",
+  "issues": [
+    "CVE-2021-4001"
+  ],
+  "name": "AVG-2595",
+  "packages": [
+    "linux-lts"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "privilege escalation"
+}

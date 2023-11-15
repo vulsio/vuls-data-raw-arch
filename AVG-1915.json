@@ -1,0 +1,21 @@
+{
+  "advisories": [],
+  "affected": "1.23.0-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-25740",
+    "CVE-2020-8562"
+  ],
+  "name": "AVG-1915",
+  "packages": [
+    "kube-proxy",
+    "kube-scheduler",
+    "kube-apiserver",
+    "kubelet",
+    "kube-controller-manager"
+  ],
+  "severity": "Low",
+  "status": "Vulnerable",
+  "ticket": null,
+  "type": "multiple issues"
+}

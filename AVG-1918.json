@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "88.0-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-29953"
+  ],
+  "name": "AVG-1918",
+  "packages": [
+    "firefox"
+  ],
+  "severity": "Critical",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "cross-site scripting"
+}

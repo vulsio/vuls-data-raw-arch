@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1:1.56.0-3",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-42694"
+  ],
+  "name": "AVG-2507",
+  "packages": [
+    "rust"
+  ],
+  "severity": "Medium",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "content spoofing"
+}

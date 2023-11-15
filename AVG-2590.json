@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-202204-4"
+  ],
+  "affected": "0.3.1-1",
+  "fixed": "0.3.2-1",
+  "issues": [
+    "CVE-2021-43814",
+    "CVE-2021-4022"
+  ],
+  "name": "AVG-2590",
+  "packages": [
+    "rizin"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202004-19"
+  ],
+  "affected": "1.1.1.f-1",
+  "fixed": "1.1.1.g-1",
+  "issues": [
+    "CVE-2020-1967"
+  ],
+  "name": "AVG-1142",
+  "packages": [
+    "lib32-openssl"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201808-7"
+  ],
+  "affected": "4.17.10.a-1",
+  "fixed": "4.17.11.a-1",
+  "issues": [
+    "CVE-2018-5390"
+  ],
+  "name": "AVG-750",
+  "packages": [
+    "linux-hardened"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "0.99.beta19-4",
+  "fixed": "0.99.beta19-5",
+  "issues": [
+    "CVE-2021-30499",
+    "CVE-2021-30498"
+  ],
+  "name": "AVG-1806",
+  "packages": [
+    "libcaca"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": "70520",
+  "type": "arbitrary code execution"
+}

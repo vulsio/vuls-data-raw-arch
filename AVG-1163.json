@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-202005-10"
+  ],
+  "affected": "4.2.1-2",
+  "fixed": "4.2.2-1",
+  "issues": [
+    "CVE-2020-12244",
+    "CVE-2020-10995"
+  ],
+  "name": "AVG-1163",
+  "packages": [
+    "powerdns-recursor"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

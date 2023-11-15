@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201706-26"
+  ],
+  "affected": "1.2.5-1",
+  "fixed": "1.2.5-2",
+  "issues": [
+    "CVE-2017-8934"
+  ],
+  "name": "AVG-274",
+  "packages": [
+    "pcmanfm"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "access restriction bypass"
+}

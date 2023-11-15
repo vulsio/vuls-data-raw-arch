@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201711-27"
+  ],
+  "affected": "1.3.2-1",
+  "fixed": "1.3.3-1",
+  "issues": [
+    "CVE-2017-16651"
+  ],
+  "name": "AVG-506",
+  "packages": [
+    "roundcubemail"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary filesystem access"
+}

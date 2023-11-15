@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201804-5"
+  ],
+  "affected": "5.4.2-2",
+  "fixed": "5.5-1",
+  "issues": [
+    "CVE-2018-1100"
+  ],
+  "name": "AVG-669",
+  "packages": [
+    "zsh"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

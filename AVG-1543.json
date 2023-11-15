@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-202102-24"
+  ],
+  "affected": "1.38-1",
+  "fixed": "1.39-1",
+  "issues": [
+    "CVE-2021-26676",
+    "CVE-2021-26675"
+  ],
+  "name": "AVG-1543",
+  "packages": [
+    "connman"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": "69583",
+  "type": "multiple issues"
+}

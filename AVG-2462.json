@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "4.2.2-2",
+  "fixed": "4.2.3-1",
+  "issues": [
+    "CVE-2021-42326"
+  ],
+  "name": "AVG-2462",
+  "packages": [
+    "redmine"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": "72728",
+  "type": "information disclosure"
+}

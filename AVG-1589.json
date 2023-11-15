@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202102-40"
+  ],
+  "affected": "9.16.11-1",
+  "fixed": "9.16.12-1",
+  "issues": [
+    "CVE-2020-8625"
+  ],
+  "name": "AVG-1589",
+  "packages": [
+    "bind"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

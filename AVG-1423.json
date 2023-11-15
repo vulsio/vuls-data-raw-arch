@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202101-35"
+  ],
+  "affected": "3.0.11.1-6",
+  "fixed": "3.0.12-1",
+  "issues": [
+    "CVE-2020-26664"
+  ],
+  "name": "AVG-1423",
+  "packages": [
+    "vlc"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

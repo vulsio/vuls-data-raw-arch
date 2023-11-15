@@ -1,0 +1,20 @@
+{
+  "advisories": [
+    "ASA-201908-15"
+  ],
+  "affected": "2:1.12.7-1",
+  "fixed": "2:1.12.8-1",
+  "issues": [
+    "CVE-2019-9514",
+    "CVE-2019-9512",
+    "CVE-2019-14809"
+  ],
+  "name": "AVG-1021",
+  "packages": [
+    "go"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

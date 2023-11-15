@@ -1,0 +1,21 @@
+{
+  "advisories": [],
+  "affected": "5.15.44-1",
+  "fixed": "5.15.45-1",
+  "issues": [
+    "CVE-2022-2318",
+    "CVE-2022-1975",
+    "CVE-2022-1974",
+    "CVE-2022-1972",
+    "CVE-2022-1966",
+    "CVE-2022-1734"
+  ],
+  "name": "AVG-2754",
+  "packages": [
+    "linux-lts"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

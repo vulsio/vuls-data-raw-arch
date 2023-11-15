@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202012-17"
+  ],
+  "affected": "1.12.0-1",
+  "fixed": "1.13.0-1",
+  "issues": [
+    "CVE-2020-28935"
+  ],
+  "name": "AVG-1326",
+  "packages": [
+    "unbound"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

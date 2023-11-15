@@ -1,0 +1,20 @@
+{
+  "advisories": [],
+  "affected": "82.0.4227.33-1",
+  "fixed": "82.0.4227.43-1",
+  "issues": [
+    "CVE-2021-4102",
+    "CVE-2021-4101",
+    "CVE-2021-4100",
+    "CVE-2021-4099",
+    "CVE-2021-4098"
+  ],
+  "name": "AVG-2637",
+  "packages": [
+    "opera"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

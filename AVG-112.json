@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201612-22"
+  ],
+  "affected": "7.51.0-1",
+  "fixed": "7.52.1-1",
+  "issues": [
+    "CVE-2016-9594",
+    "CVE-2016-9586"
+  ],
+  "name": "AVG-112",
+  "packages": [
+    "curl"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": "52247",
+  "type": "multiple issues"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.2.9-1",
+  "fixed": "2.0.0-1",
+  "issues": [
+    "CVE-2021-21306"
+  ],
+  "name": "AVG-1548",
+  "packages": [
+    "marked"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

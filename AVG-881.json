@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201902-14"
+  ],
+  "affected": "2.1.5-1",
+  "fixed": "2.1.6-1",
+  "issues": [
+    "CVE-2019-6975"
+  ],
+  "name": "AVG-881",
+  "packages": [
+    "python-django"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

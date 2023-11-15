@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201707-15"
+  ],
+  "affected": "2.4.26-3",
+  "fixed": "2.4.27-1",
+  "issues": [
+    "CVE-2017-9789",
+    "CVE-2017-9788"
+  ],
+  "name": "AVG-350",
+  "packages": [
+    "apache"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

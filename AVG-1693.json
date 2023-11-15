@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.11.6.arch1-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-3428"
+  ],
+  "name": "AVG-1693",
+  "packages": [
+    "linux"
+  ],
+  "severity": "Medium",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "denial of service"
+}

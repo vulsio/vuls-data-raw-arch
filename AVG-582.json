@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201801-10"
+  ],
+  "affected": "20171117-1",
+  "fixed": "20180108-1",
+  "issues": [
+    "CVE-2017-5715"
+  ],
+  "name": "AVG-582",
+  "packages": [
+    "intel-ucode"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "access restriction bypass"
+}

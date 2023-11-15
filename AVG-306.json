@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201706-32"
+  ],
+  "affected": "2.2.0-1",
+  "fixed": "2.2.1-1",
+  "issues": [
+    "CVE-2017-9233",
+    "CVE-2016-9063"
+  ],
+  "name": "AVG-306",
+  "packages": [
+    "expat"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

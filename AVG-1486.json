@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "22.0-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-3195",
+    "CVE-2021-31876"
+  ],
+  "name": "AVG-1486",
+  "packages": [
+    "bitcoin-daemon"
+  ],
+  "severity": "Medium",
+  "status": "Vulnerable",
+  "ticket": null,
+  "type": "multiple issues"
+}

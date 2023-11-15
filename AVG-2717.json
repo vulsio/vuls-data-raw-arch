@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.0.18-3",
+  "fixed": "2.0.19-1",
+  "issues": [
+    "CVE-2021-33657"
+  ],
+  "name": "AVG-2717",
+  "packages": [
+    "sdl2"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

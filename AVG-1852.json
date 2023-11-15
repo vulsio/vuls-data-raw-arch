@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "5.11.15.hardened1-1",
+  "fixed": "5.11.16.hardened1-1",
+  "issues": [
+    "CVE-2021-3501",
+    "CVE-2021-29155"
+  ],
+  "name": "AVG-1852",
+  "packages": [
+    "linux-hardened"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

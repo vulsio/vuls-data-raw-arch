@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201806-5"
+  ],
+  "affected": "60.0.1-1",
+  "fixed": "60.0.2-1",
+  "issues": [
+    "CVE-2018-6126"
+  ],
+  "name": "AVG-715",
+  "packages": [
+    "firefox"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201802-7"
+  ],
+  "affected": "1:0.27.0-6",
+  "fixed": "1:0.27.1-1",
+  "issues": [
+    "CVE-2018-6360"
+  ],
+  "name": "AVG-605",
+  "packages": [
+    "mpv"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

@@ -1,0 +1,20 @@
+{
+  "advisories": [
+    "ASA-202107-58"
+  ],
+  "affected": "465.31-1",
+  "fixed": "470.57.02-1",
+  "issues": [
+    "CVE-2021-1095",
+    "CVE-2021-1094",
+    "CVE-2021-1093"
+  ],
+  "name": "AVG-2193",
+  "packages": [
+    "nvidia-utils"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

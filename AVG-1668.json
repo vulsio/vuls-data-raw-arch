@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "2:1.16-1",
+  "fixed": "2:1.16.1-1",
+  "issues": [
+    "CVE-2021-27919",
+    "CVE-2021-27918"
+  ],
+  "name": "AVG-1668",
+  "packages": [
+    "go"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.7044-5",
+  "fixed": null,
+  "issues": [
+    "CVE-2020-16154"
+  ],
+  "name": "AVG-2631",
+  "packages": [
+    "cpanminus"
+  ],
+  "severity": "Medium",
+  "status": "Vulnerable",
+  "ticket": null,
+  "type": "signature forgery"
+}

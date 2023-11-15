@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.38.2-1",
+  "fixed": "5.39.0-1",
+  "issues": [
+    "CVE-2021-37860"
+  ],
+  "name": "AVG-2416",
+  "packages": [
+    "mattermost"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "cross-site scripting"
+}

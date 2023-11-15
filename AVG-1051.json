@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201910-12"
+  ],
+  "affected": "2:1.13.1-1",
+  "fixed": "2:1.13.3-1",
+  "issues": [
+    "CVE-2019-17596"
+  ],
+  "name": "AVG-1051",
+  "packages": [
+    "go"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

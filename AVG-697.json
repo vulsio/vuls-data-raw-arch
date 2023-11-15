@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201805-16"
+  ],
+  "affected": "7.59.0-1",
+  "fixed": "7.60.0-1",
+  "issues": [
+    "CVE-2018-1000301",
+    "CVE-2018-1000300"
+  ],
+  "name": "AVG-697",
+  "packages": [
+    "lib32-libcurl-gnutls"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201612-1"
+  ],
+  "affected": "50.0-1",
+  "fixed": "50.0.2-1",
+  "issues": [
+    "CVE-2016-9079",
+    "CVE-2016-9078"
+  ],
+  "name": "AVG-90",
+  "packages": [
+    "firefox"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

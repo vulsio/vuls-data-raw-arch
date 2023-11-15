@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.6.0-2",
+  "fixed": "1.6.1-1",
+  "issues": [
+    "CVE-2022-23648"
+  ],
+  "name": "AVG-2725",
+  "packages": [
+    "containerd"
+  ],
+  "severity": "Unknown",
+  "status": "Unknown",
+  "ticket": null,
+  "type": "information disclosure"
+}

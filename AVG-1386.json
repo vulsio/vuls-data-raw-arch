@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202101-7"
+  ],
+  "affected": "2.16.7-1",
+  "fixed": "2.25.0-1",
+  "issues": [
+    "CVE-2020-16150"
+  ],
+  "name": "AVG-1386",
+  "packages": [
+    "mbedtls"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": "69128",
+  "type": "private key recovery"
+}

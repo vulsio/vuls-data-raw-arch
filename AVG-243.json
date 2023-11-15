@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "7.53.1-1",
+  "fixed": "7.54.0-1",
+  "issues": [
+    "CVE-2017-7468"
+  ],
+  "name": "AVG-243",
+  "packages": [
+    "lib32-curl"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "certificate verification bypass"
+}

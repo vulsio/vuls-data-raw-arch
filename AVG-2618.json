@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "2.14.4-1",
+  "fixed": "2.16.1-1",
+  "issues": [
+    "CVE-2021-22568",
+    "CVE-2021-22567"
+  ],
+  "name": "AVG-2618",
+  "packages": [
+    "dart"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202107-42"
+  ],
+  "affected": "2:1.16.5-1",
+  "fixed": "2:1.16.6-1",
+  "issues": [
+    "CVE-2021-34558"
+  ],
+  "name": "AVG-2147",
+  "packages": [
+    "go"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

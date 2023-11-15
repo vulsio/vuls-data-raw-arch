@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "4.14.3-1",
+  "fixed": "4.14.4-1",
+  "issues": [
+    "CVE-2021-20254"
+  ],
+  "name": "AVG-1893",
+  "packages": [
+    "samba"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "access restriction bypass"
+}

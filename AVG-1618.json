@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.4-2",
+  "fixed": "2.6-1",
+  "issues": [
+    "CVE-2020-11988"
+  ],
+  "name": "AVG-1618",
+  "packages": [
+    "java-xmlgraphics-commons"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "url request injection"
+}

@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201905-16"
+  ],
+  "affected": "7.64.1-2",
+  "fixed": "7.65.0-1",
+  "issues": [
+    "CVE-2019-5436"
+  ],
+  "name": "AVG-964",
+  "packages": [
+    "curl"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

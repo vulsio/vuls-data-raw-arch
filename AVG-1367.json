@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "4.5.1-8",
+  "fixed": "4.6.0-1",
+  "issues": [
+    "CVE-2020-26273"
+  ],
+  "name": "AVG-1367",
+  "packages": [
+    "osquery"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary filesystem access"
+}

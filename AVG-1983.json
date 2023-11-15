@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "4.14.3-1",
+  "fixed": "4.14.4-1",
+  "issues": [
+    "CVE-2017-1000410"
+  ],
+  "name": "AVG-1983",
+  "packages": [
+    "linux"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "information disclosure"
+}

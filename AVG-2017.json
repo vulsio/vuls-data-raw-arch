@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "0.4.21+66+g14f5428-2",
+  "fixed": "0.4.21+66+g14f5428-3",
+  "issues": [
+    "CVE-2021-3567"
+  ],
+  "name": "AVG-2017",
+  "packages": [
+    "caribou"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "authentication bypass"
+}

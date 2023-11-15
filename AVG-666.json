@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.10_a-2",
+  "fixed": "1.12-1",
+  "issues": [
+    "CVE-2017-6060"
+  ],
+  "name": "AVG-666",
+  "packages": [
+    "mupdf-tools"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

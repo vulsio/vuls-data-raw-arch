@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "3.0.7-1",
+  "fixed": "3.0.8-1",
+  "issues": [
+    "CVE-2019-19721"
+  ],
+  "name": "AVG-1145",
+  "packages": [
+    "vlc"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

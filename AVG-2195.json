@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-202107-60"
+  ],
+  "affected": "7.77.0-1",
+  "fixed": "7.78.0-1",
+  "issues": [
+    "CVE-2021-22925",
+    "CVE-2021-22924"
+  ],
+  "name": "AVG-2195",
+  "packages": [
+    "lib32-curl"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

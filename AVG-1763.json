@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "3.7.1-1",
+  "fixed": "3.7.2-1",
+  "issues": [
+    "CVE-2021-20305"
+  ],
+  "name": "AVG-1763",
+  "packages": [
+    "nettle"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "signature forgery"
+}

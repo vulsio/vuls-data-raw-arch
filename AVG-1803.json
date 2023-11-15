@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1:1.49.0-1",
+  "fixed": "1:1.50.0-1",
+  "issues": [
+    "CVE-2021-28875"
+  ],
+  "name": "AVG-1803",
+  "packages": [
+    "rust"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

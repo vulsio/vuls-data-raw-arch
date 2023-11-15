@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201707-24"
+  ],
+  "affected": "1.4.2-2",
+  "fixed": "1.4.4-1",
+  "issues": [
+    "CVE-2017-7480"
+  ],
+  "name": "AVG-334",
+  "packages": [
+    "rkhunter"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

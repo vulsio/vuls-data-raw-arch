@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "15.9.0-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-23840"
+  ],
+  "name": "AVG-1605",
+  "packages": [
+    "nodejs"
+  ],
+  "severity": "Low",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "incorrect calculation"
+}

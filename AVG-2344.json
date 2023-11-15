@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "78.13.0-1",
+  "fixed": "78.14.0-1",
+  "issues": [
+    "CVE-2021-38493"
+  ],
+  "name": "AVG-2344",
+  "packages": [
+    "thunderbird"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

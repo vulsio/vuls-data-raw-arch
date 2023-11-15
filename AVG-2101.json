@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "3.0.3-7",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-3618"
+  ],
+  "name": "AVG-2101",
+  "packages": [
+    "vsftpd"
+  ],
+  "severity": "Medium",
+  "status": "Vulnerable",
+  "ticket": null,
+  "type": "insufficient validation"
+}

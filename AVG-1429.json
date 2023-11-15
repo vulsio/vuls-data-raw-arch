@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.4.80-2",
+  "fixed": "5.4.81-1",
+  "issues": [
+    "CVE-2021-20177"
+  ],
+  "name": "AVG-1429",
+  "packages": [
+    "linux-lts"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

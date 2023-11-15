@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "5.1.5-9",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-43519",
+    "CVE-2014-5461"
+  ],
+  "name": "AVG-1302",
+  "packages": [
+    "lua51"
+  ],
+  "severity": "Low",
+  "status": "Vulnerable",
+  "ticket": "68703",
+  "type": "denial of service"
+}

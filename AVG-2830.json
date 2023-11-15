@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "9.0.70-1",
+  "fixed": "9.0.71-1",
+  "issues": [
+    "CVE-2023-24998"
+  ],
+  "name": "AVG-2830",
+  "packages": [
+    "tomcat9"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

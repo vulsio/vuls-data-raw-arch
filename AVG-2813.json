@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "4.03-1",
+  "fixed": "4.04-1",
+  "issues": [
+    "CVE-2022-38171"
+  ],
+  "name": "AVG-2813",
+  "packages": [
+    "xpdf"
+  ],
+  "severity": "Unknown",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "unknown"
+}

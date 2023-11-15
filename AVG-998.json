@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201906-22"
+  ],
+  "affected": "3.0.6-13",
+  "fixed": "3.0.7.1-1",
+  "issues": [
+    "CVE-2019-5439",
+    "CVE-2019-12874"
+  ],
+  "name": "AVG-998",
+  "packages": [
+    "vlc"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202105-15"
+  ],
+  "affected": "2.9.0-1",
+  "fixed": "2.9.1-1",
+  "issues": [
+    "CVE-2021-20095"
+  ],
+  "name": "AVG-1894",
+  "packages": [
+    "python-babel"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

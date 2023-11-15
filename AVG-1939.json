@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.1.0-1",
+  "fixed": "5.1.1-1",
+  "issues": [
+    "CVE-2021-21430"
+  ],
+  "name": "AVG-1939",
+  "packages": [
+    "openapi-generator"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "information disclosure"
+}

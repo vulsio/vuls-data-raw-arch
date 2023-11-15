@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201904-5"
+  ],
+  "affected": "9.26-2",
+  "fixed": "9.27-1",
+  "issues": [
+    "CVE-2019-3838",
+    "CVE-2019-3835"
+  ],
+  "name": "AVG-929",
+  "packages": [
+    "ghostscript"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": "62102",
+  "type": "sandbox escape"
+}

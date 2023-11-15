@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201806-6"
+  ],
+  "affected": "16.02-4",
+  "fixed": "16.02-5",
+  "issues": [
+    "CVE-2018-10115"
+  ],
+  "name": "AVG-714",
+  "packages": [
+    "p7zip"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": "58907",
+  "type": "arbitrary code execution"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.10.25-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-20292"
+  ],
+  "name": "AVG-1727",
+  "packages": [
+    "linux-lts"
+  ],
+  "severity": "Medium",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "privilege escalation"
+}

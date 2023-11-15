@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "4.3.0-1",
+  "fixed": "4.4.0-1",
+  "issues": [
+    "CVE-2022-33068"
+  ],
+  "name": "AVG-2793",
+  "packages": [
+    "harfbuzz"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

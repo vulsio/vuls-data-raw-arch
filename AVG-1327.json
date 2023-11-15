@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202012-18"
+  ],
+  "affected": "4.3.3-1",
+  "fixed": "4.3.4-1",
+  "issues": [
+    "CVE-2020-28935"
+  ],
+  "name": "AVG-1327",
+  "packages": [
+    "nsd"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

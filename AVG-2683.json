@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "5.15.34-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2022-0002",
+    "CVE-2022-0001"
+  ],
+  "name": "AVG-2683",
+  "packages": [
+    "linux-lts"
+  ],
+  "severity": "Medium",
+  "status": "Vulnerable",
+  "ticket": null,
+  "type": "information disclosure"
+}

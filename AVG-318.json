@@ -1,0 +1,21 @@
+{
+  "advisories": [
+    "ASA-201706-27"
+  ],
+  "affected": "2.4.2-1",
+  "fixed": "2.4.3-1",
+  "issues": [
+    "CVE-2017-7521",
+    "CVE-2017-7520",
+    "CVE-2017-7512",
+    "CVE-2017-7508"
+  ],
+  "name": "AVG-318",
+  "packages": [
+    "openvpn"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "7.0.2-1",
+  "fixed": "7.0.3-1",
+  "issues": [
+    "CVE-2021-39214"
+  ],
+  "name": "AVG-2395",
+  "packages": [
+    "mitmproxy"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "url request injection"
+}

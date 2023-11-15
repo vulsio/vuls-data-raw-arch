@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.3.1-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-41146"
+  ],
+  "name": "AVG-2491",
+  "packages": [
+    "qutebrowser"
+  ],
+  "severity": "High",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

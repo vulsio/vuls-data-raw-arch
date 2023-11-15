@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "4.2.8.p13-2",
+  "fixed": "4.2.8.p14-1",
+  "issues": [
+    "CVE-2018-8956"
+  ],
+  "name": "AVG-1151",
+  "packages": [
+    "ntp"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

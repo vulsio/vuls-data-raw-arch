@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-202101-18"
+  ],
+  "affected": "6.7.1p1-6",
+  "fixed": "6.8.0p2-1",
+  "issues": [
+    "CVE-2020-35680",
+    "CVE-2020-35679"
+  ],
+  "name": "AVG-1381",
+  "packages": [
+    "opensmtpd"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

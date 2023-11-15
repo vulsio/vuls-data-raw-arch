@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "3.40-2",
+  "fixed": "3.41-1",
+  "issues": [
+    "CVE-2019-19918",
+    "CVE-2019-19917"
+  ],
+  "name": "AVG-1934",
+  "packages": [
+    "lout"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": "70758",
+  "type": "arbitrary code execution"
+}

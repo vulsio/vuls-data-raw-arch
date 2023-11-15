@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.3.0-1",
+  "fixed": "2.4.0-1",
+  "issues": [
+    "CVE-2022-29217"
+  ],
+  "name": "AVG-2781",
+  "packages": [
+    "python-pyjwt"
+  ],
+  "severity": "Unknown",
+  "status": "Unknown",
+  "ticket": null,
+  "type": "unknown"
+}

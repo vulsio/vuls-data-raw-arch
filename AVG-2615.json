@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.2.26-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-43809"
+  ],
+  "name": "AVG-2615",
+  "packages": [
+    "ruby-bundler"
+  ],
+  "severity": "Low",
+  "status": "Vulnerable",
+  "ticket": null,
+  "type": "arbitrary command execution"
+}

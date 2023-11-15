@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.4.46-3",
+  "fixed": "2.4.47-1",
+  "issues": [
+    "CVE-2020-13938"
+  ],
+  "name": "AVG-2054",
+  "packages": [
+    "apache"
+  ],
+  "severity": "Medium",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "denial of service"
+}

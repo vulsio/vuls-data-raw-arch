@@ -1,0 +1,20 @@
+{
+  "advisories": [
+    "ASA-201902-9"
+  ],
+  "affected": "7.63.0-4",
+  "fixed": "7.64.0-1",
+  "issues": [
+    "CVE-2019-3823",
+    "CVE-2019-3822",
+    "CVE-2018-16890"
+  ],
+  "name": "AVG-873",
+  "packages": [
+    "curl"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

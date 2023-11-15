@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201706-31"
+  ],
+  "affected": "4.11.6-1",
+  "fixed": "4.11.6-3",
+  "issues": [
+    "CVE-2017-1000364"
+  ],
+  "name": "AVG-313",
+  "packages": [
+    "linux"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "privilege escalation"
+}

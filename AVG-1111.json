@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202003-5"
+  ],
+  "affected": "3.0.3-1",
+  "fixed": "3.0.4-1",
+  "issues": [
+    "CVE-2020-9402"
+  ],
+  "name": "AVG-1111",
+  "packages": [
+    "python-django"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "sql injection"
+}

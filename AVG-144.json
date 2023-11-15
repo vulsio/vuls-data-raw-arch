@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1:1.1.0.a-1",
+  "fixed": "1:1.1.0.c-1",
+  "issues": [
+    "CVE-2016-7054"
+  ],
+  "name": "AVG-144",
+  "packages": [
+    "lib32-openssl"
+  ],
+  "severity": "High",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "denial of service"
+}

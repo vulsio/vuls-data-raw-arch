@@ -1,0 +1,21 @@
+{
+  "advisories": [
+    "ASA-201702-4"
+  ],
+  "affected": "1.10.2-1",
+  "fixed": "1.10.3-1",
+  "issues": [
+    "CVE-2017-5844",
+    "CVE-2017-5842",
+    "CVE-2017-5839",
+    "CVE-2017-5837"
+  ],
+  "name": "AVG-164",
+  "packages": [
+    "gst-plugins-base-libs"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

@@ -1,0 +1,22 @@
+{
+  "advisories": [
+    "ASA-202110-3"
+  ],
+  "affected": "6.1.26-2",
+  "fixed": "6.1.28-1",
+  "issues": [
+    "CVE-2021-35545",
+    "CVE-2021-35542",
+    "CVE-2021-35540",
+    "CVE-2021-35538",
+    "CVE-2021-2475"
+  ],
+  "name": "AVG-2476",
+  "packages": [
+    "virtualbox"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

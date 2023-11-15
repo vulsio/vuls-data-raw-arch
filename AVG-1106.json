@@ -1,0 +1,23 @@
+{
+  "advisories": [
+    "ASA-202003-2"
+  ],
+  "affected": "0.19.0-2",
+  "fixed": "0.20.0-1",
+  "issues": [
+    "CVE-2019-6502",
+    "CVE-2019-19481",
+    "CVE-2019-19480",
+    "CVE-2019-19479",
+    "CVE-2019-15946",
+    "CVE-2019-15945"
+  ],
+  "name": "AVG-1106",
+  "packages": [
+    "opensc"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": "65082",
+  "type": "denial of service"
+}

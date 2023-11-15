@@ -1,0 +1,20 @@
+{
+  "advisories": [
+    "ASA-201803-24"
+  ],
+  "affected": "1.2.0-4",
+  "fixed": "1.2.2-4",
+  "issues": [
+    "CVE-2017-15955",
+    "CVE-2017-15954",
+    "CVE-2017-15953"
+  ],
+  "name": "AVG-475",
+  "packages": [
+    "bchunk"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

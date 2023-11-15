@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "8.1.6-2",
+  "fixed": "8.1.7-1",
+  "issues": [
+    "CVE-2022-31626",
+    "CVE-2022-31625"
+  ],
+  "name": "AVG-2768",
+  "packages": [
+    "php"
+  ],
+  "severity": "Unknown",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "unknown"
+}

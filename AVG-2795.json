@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "20220510-1",
+  "fixed": "20220809-1",
+  "issues": [
+    "CVE-2022-21233"
+  ],
+  "name": "AVG-2795",
+  "packages": [
+    "intel-ucode"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "information disclosure"
+}

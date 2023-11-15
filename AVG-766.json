@@ -1,0 +1,20 @@
+{
+  "advisories": [
+    "ASA-201809-1",
+    "ASA-201809-2"
+  ],
+  "affected": "0.16.2-2",
+  "fixed": "0.16.3-1",
+  "issues": [
+    "CVE-2018-17144"
+  ],
+  "name": "AVG-766",
+  "packages": [
+    "bitcoin-qt",
+    "bitcoin-daemon"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

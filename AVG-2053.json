@@ -1,0 +1,21 @@
+{
+  "advisories": [],
+  "affected": "2.4.46-3",
+  "fixed": "2.4.47-1",
+  "issues": [
+    "CVE-2021-30641",
+    "CVE-2021-26691",
+    "CVE-2021-26690",
+    "CVE-2020-35452",
+    "CVE-2020-13950",
+    "CVE-2019-17567"
+  ],
+  "name": "AVG-2053",
+  "packages": [
+    "apache"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

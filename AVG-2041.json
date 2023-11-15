@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202106-23"
+  ],
+  "affected": "2.4.47-1",
+  "fixed": "2.4.48-1",
+  "issues": [
+    "CVE-2021-31618"
+  ],
+  "name": "AVG-2041",
+  "packages": [
+    "apache"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

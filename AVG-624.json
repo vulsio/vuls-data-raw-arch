@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.11.8-1",
+  "fixed": "1.11.10-1",
+  "issues": [
+    "CVE-2018-6188"
+  ],
+  "name": "AVG-624",
+  "packages": [
+    "python-django"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "information disclosure"
+}

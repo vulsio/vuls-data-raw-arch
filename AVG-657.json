@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201803-13"
+  ],
+  "affected": "59.0-2",
+  "fixed": "59.0.1-1",
+  "issues": [
+    "CVE-2018-5146"
+  ],
+  "name": "AVG-657",
+  "packages": [
+    "firefox"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

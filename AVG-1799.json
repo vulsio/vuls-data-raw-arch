@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.10.28-1",
+  "fixed": "5.10.29-1",
+  "issues": [
+    "CVE-2021-29154"
+  ],
+  "name": "AVG-1799",
+  "packages": [
+    "linux-lts"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "privilege escalation"
+}

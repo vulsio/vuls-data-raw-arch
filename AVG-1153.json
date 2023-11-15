@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "20.2.3-1",
+  "fixed": "20.2.4-1",
+  "issues": [
+    "CVE-2018-20225"
+  ],
+  "name": "AVG-1153",
+  "packages": [
+    "python-pip"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

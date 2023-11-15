@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "3.42.2-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-3349"
+  ],
+  "name": "AVG-1516",
+  "packages": [
+    "evolution"
+  ],
+  "severity": "Medium",
+  "status": "Vulnerable",
+  "ticket": null,
+  "type": "insufficient validation"
+}

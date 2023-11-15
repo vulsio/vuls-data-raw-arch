@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202009-15"
+  ],
+  "affected": "4.3.2-1",
+  "fixed": "4.3.3-1",
+  "issues": [
+    "CVE-2020-15166"
+  ],
+  "name": "AVG-1220",
+  "packages": [
+    "lib32-zeromq"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

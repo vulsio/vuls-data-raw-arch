@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "3.7.2218.52-1",
+  "fixed": "3.7.2218.55-1",
+  "issues": [
+    "CVE-2021-21220",
+    "CVE-2021-21206"
+  ],
+  "name": "AVG-1817",
+  "packages": [
+    "vivaldi"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

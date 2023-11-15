@@ -1,0 +1,21 @@
+{
+  "advisories": [
+    "ASA-201912-5"
+  ],
+  "affected": "1:0.28.3-1",
+  "fixed": "1:0.28.4-1",
+  "issues": [
+    "CVE-2019-1387",
+    "CVE-2019-1352",
+    "CVE-2019-1349",
+    "CVE-2019-1348"
+  ],
+  "name": "AVG-1075",
+  "packages": [
+    "libgit2"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

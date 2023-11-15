@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201908-10"
+  ],
+  "affected": "1.12.0-3",
+  "fixed": "1.12.2-1",
+  "issues": [
+    "CVE-2019-0203",
+    "CVE-2018-11782"
+  ],
+  "name": "AVG-1016",
+  "packages": [
+    "subversion"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

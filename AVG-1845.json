@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "78.8.0-1",
+  "fixed": "78.8.1-1",
+  "issues": [
+    "CVE-2021-29950"
+  ],
+  "name": "AVG-1845",
+  "packages": [
+    "thunderbird"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "private key recovery"
+}

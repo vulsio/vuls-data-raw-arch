@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "0.12.0-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-35196"
+  ],
+  "name": "AVG-2091",
+  "packages": [
+    "manuskript"
+  ],
+  "severity": "Low",
+  "status": "Vulnerable",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201708-13"
+  ],
+  "affected": "5.5.3-3",
+  "fixed": "5.5.3-4",
+  "issues": [
+    "CVE-2017-11185"
+  ],
+  "name": "AVG-382",
+  "packages": [
+    "strongswan"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

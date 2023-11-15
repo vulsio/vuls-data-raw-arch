@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "13.8.0-2",
+  "fixed": "13.8.1-1",
+  "issues": [
+    "CVE-2021-44228"
+  ],
+  "name": "AVG-2632",
+  "packages": [
+    "mediathekview"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

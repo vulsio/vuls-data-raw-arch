@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.14.02-2",
+  "fixed": "2.15.02-1",
+  "issues": [
+    "CVE-2019-8343"
+  ],
+  "name": "AVG-903",
+  "packages": [
+    "nasm"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

@@ -1,0 +1,19 @@
+{
+  "advisories": [],
+  "affected": "4.12.3-2",
+  "fixed": "4.12.6-1",
+  "issues": [
+    "CVE-2020-14303",
+    "CVE-2020-10760",
+    "CVE-2020-10745",
+    "CVE-2020-10730"
+  ],
+  "name": "AVG-1202",
+  "packages": [
+    "samba"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

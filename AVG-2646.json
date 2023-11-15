@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "0.7.5-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-43518"
+  ],
+  "name": "AVG-2646",
+  "packages": [
+    "teeworlds"
+  ],
+  "severity": "Medium",
+  "status": "Vulnerable",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "0.7.0+16+g971c421-3",
+  "fixed": null,
+  "issues": [
+    "CVE-2016-20011"
+  ],
+  "name": "AVG-1993",
+  "packages": [
+    "libgrss"
+  ],
+  "severity": "Medium",
+  "status": "Vulnerable",
+  "ticket": null,
+  "type": "man-in-the-middle"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.4.94-1",
+  "fixed": "5.4.95-1",
+  "issues": [
+    "CVE-2021-3348"
+  ],
+  "name": "AVG-1515",
+  "packages": [
+    "linux-lts"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

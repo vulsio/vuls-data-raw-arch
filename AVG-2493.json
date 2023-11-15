@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "14.3.0-3",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-22942"
+  ],
+  "name": "AVG-2493",
+  "packages": [
+    "gitlab-gitaly"
+  ],
+  "severity": "Medium",
+  "status": "Vulnerable",
+  "ticket": null,
+  "type": "open redirect"
+}

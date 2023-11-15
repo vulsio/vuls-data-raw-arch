@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1:1.5.0-1",
+  "fixed": "1:1.5.1-1",
+  "issues": [
+    "CVE-2021-37631"
+  ],
+  "name": "AVG-2358",
+  "packages": [
+    "nextcloud-app-deck"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "information disclosure"
+}

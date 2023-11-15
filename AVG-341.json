@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201708-11"
+  ],
+  "affected": "1.19.3-2",
+  "fixed": "1.19.3-3",
+  "issues": [
+    "CVE-2017-10972",
+    "CVE-2017-10971"
+  ],
+  "name": "AVG-341",
+  "packages": [
+    "xorg-server"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

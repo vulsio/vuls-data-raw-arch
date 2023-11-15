@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201805-2"
+  ],
+  "affected": "0.18.9-1",
+  "fixed": "0.18.10-1",
+  "issues": [
+    "CVE-2018-10529",
+    "CVE-2018-10528"
+  ],
+  "name": "AVG-681",
+  "packages": [
+    "libraw"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": "58393",
+  "type": "multiple issues"
+}

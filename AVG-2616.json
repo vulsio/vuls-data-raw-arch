@@ -1,0 +1,19 @@
+{
+  "advisories": [],
+  "affected": "3.0.32-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-44543",
+    "CVE-2021-44542",
+    "CVE-2021-44541",
+    "CVE-2021-44540"
+  ],
+  "name": "AVG-2616",
+  "packages": [
+    "privoxy"
+  ],
+  "severity": "Medium",
+  "status": "Vulnerable",
+  "ticket": null,
+  "type": "multiple issues"
+}

@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "2.286-1",
+  "fixed": "2.287-1",
+  "issues": [
+    "CVE-2021-21640",
+    "CVE-2021-21639"
+  ],
+  "name": "AVG-1781",
+  "packages": [
+    "jenkins"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "insufficient validation"
+}

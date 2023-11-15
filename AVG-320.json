@@ -1,0 +1,18 @@
+{
+  "advisories": [],
+  "affected": "4.11.6.b-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2017-1000379",
+    "CVE-2017-1000371",
+    "CVE-2017-1000370"
+  ],
+  "name": "AVG-320",
+  "packages": [
+    "linux-hardened"
+  ],
+  "severity": "Medium",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "access restriction bypass"
+}

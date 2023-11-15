@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201711-28"
+  ],
+  "affected": "0.13-1",
+  "fixed": "0.14-1",
+  "issues": [
+    "CVE-2017-9216"
+  ],
+  "name": "AVG-517",
+  "packages": [
+    "jbig2dec"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": "56405",
+  "type": "denial of service"
+}

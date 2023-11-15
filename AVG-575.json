@@ -1,0 +1,21 @@
+{
+  "advisories": [
+    "ASA-201801-12"
+  ],
+  "affected": "1.0.5-1",
+  "fixed": "1.0.6-1",
+  "issues": [
+    "CVE-2018-5208",
+    "CVE-2018-5207",
+    "CVE-2018-5206",
+    "CVE-2018-5205"
+  ],
+  "name": "AVG-575",
+  "packages": [
+    "irssi"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

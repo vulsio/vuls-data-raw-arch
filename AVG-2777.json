@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.3.19.1-1",
+  "fixed": "2.3.20-1",
+  "issues": [
+    "CVE-2022-30550"
+  ],
+  "name": "AVG-2777",
+  "packages": [
+    "dovecot"
+  ],
+  "severity": "Unknown",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "unknown"
+}

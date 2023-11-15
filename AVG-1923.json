@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "20210205-1",
+  "fixed": "20211015-1",
+  "issues": [
+    "CVE-2021-32055"
+  ],
+  "name": "AVG-1923",
+  "packages": [
+    "neomutt"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "information disclosure"
+}

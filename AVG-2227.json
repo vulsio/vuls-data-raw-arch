@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "2:2.3.2-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-37595",
+    "CVE-2021-37594"
+  ],
+  "name": "AVG-2227",
+  "packages": [
+    "freerdp"
+  ],
+  "severity": "Medium",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "insufficient validation"
+}

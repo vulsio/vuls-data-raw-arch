@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "3.2.1-1",
+  "fixed": "3.2.2-2",
+  "issues": [
+    "CVE-2022-24706"
+  ],
+  "name": "AVG-2708",
+  "packages": [
+    "couchdb"
+  ],
+  "severity": "Critical",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "privilege escalation"
+}

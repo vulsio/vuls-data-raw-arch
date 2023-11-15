@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "0.1.2-1",
+  "fixed": "1.4.0-1",
+  "issues": [
+    "CVE-2020-10759"
+  ],
+  "name": "AVG-1186",
+  "packages": [
+    "fwupd"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "insufficient validation"
+}

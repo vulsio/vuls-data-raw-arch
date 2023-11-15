@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202001-7"
+  ],
+  "affected": "2019.2.2-1",
+  "fixed": "2019.2.3-1",
+  "issues": [
+    "CVE-2019-17361"
+  ],
+  "name": "AVG-1087",
+  "packages": [
+    "salt"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary command execution"
+}

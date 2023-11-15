@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.2.10-3",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-39359"
+  ],
+  "name": "AVG-2308",
+  "packages": [
+    "libgda"
+  ],
+  "severity": "High",
+  "status": "Vulnerable",
+  "ticket": null,
+  "type": "man-in-the-middle"
+}

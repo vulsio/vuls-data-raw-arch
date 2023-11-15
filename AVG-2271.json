@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "90.0.2-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-29983"
+  ],
+  "name": "AVG-2271",
+  "packages": [
+    "firefox"
+  ],
+  "severity": "High",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "denial of service"
+}

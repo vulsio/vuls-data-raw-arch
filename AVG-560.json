@@ -1,0 +1,22 @@
+{
+  "advisories": [],
+  "affected": "4.9.73-1",
+  "fixed": "4.9.74-1",
+  "issues": [
+    "CVE-2017-17857",
+    "CVE-2017-17856",
+    "CVE-2017-17855",
+    "CVE-2017-17854",
+    "CVE-2017-17853",
+    "CVE-2017-17852",
+    "CVE-2017-16996"
+  ],
+  "name": "AVG-560",
+  "packages": [
+    "linux-lts"
+  ],
+  "severity": "High",
+  "status": "Not affected",
+  "ticket": "56832",
+  "type": "multiple issues"
+}

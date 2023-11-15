@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.9.6-1",
+  "fixed": "1.9.7-1",
+  "issues": [
+    "CVE-2021-44538"
+  ],
+  "name": "AVG-2639",
+  "packages": [
+    "element-web"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

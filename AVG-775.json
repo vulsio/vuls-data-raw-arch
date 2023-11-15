@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201810-6"
+  ],
+  "affected": "62.0.2-1",
+  "fixed": "62.0.3-1",
+  "issues": [
+    "CVE-2018-12387",
+    "CVE-2018-12386"
+  ],
+  "name": "AVG-775",
+  "packages": [
+    "firefox"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

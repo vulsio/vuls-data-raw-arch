@@ -1,0 +1,20 @@
+{
+  "advisories": [
+    "ASA-201709-22"
+  ],
+  "affected": "384.69-2",
+  "fixed": "384.90-1",
+  "issues": [
+    "CVE-2017-6272",
+    "CVE-2017-6267",
+    "CVE-2017-6266"
+  ],
+  "name": "AVG-418",
+  "packages": [
+    "nvidia"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

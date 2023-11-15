@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201708-10"
+  ],
+  "affected": "1.9.2-1",
+  "fixed": "1.9.2-2",
+  "issues": [
+    "CVE-2017-9058"
+  ],
+  "name": "AVG-275",
+  "packages": [
+    "libytnef"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

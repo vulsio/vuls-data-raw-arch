@@ -1,0 +1,21 @@
+{
+  "advisories": [
+    "ASA-201801-9",
+    "ASA-201801-8"
+  ],
+  "affected": "2.26-8",
+  "fixed": "2.26-9",
+  "issues": [
+    "CVE-2017-15671",
+    "CVE-2017-15670"
+  ],
+  "name": "AVG-460",
+  "packages": [
+    "lib32-glibc",
+    "glibc"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

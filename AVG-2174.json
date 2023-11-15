@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202107-70"
+  ],
+  "affected": "1.5.2-1",
+  "fixed": "1.5.4-1",
+  "issues": [
+    "CVE-2021-32760"
+  ],
+  "name": "AVG-2174",
+  "packages": [
+    "containerd"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "directory traversal"
+}

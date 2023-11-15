@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "2.7.4-2",
+  "fixed": "2.7.5-1",
+  "issues": [
+    "CVE-2021-41819",
+    "CVE-2021-41817"
+  ],
+  "name": "AVG-2556",
+  "packages": [
+    "ruby2.7"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

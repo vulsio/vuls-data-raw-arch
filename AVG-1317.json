@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202012-3"
+  ],
+  "affected": "9.0.39-2",
+  "fixed": "9.0.40-1",
+  "issues": [
+    "CVE-2020-17527"
+  ],
+  "name": "AVG-1317",
+  "packages": [
+    "tomcat9"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "information disclosure"
+}

@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201709-16"
+  ],
+  "affected": "0.8.2-4",
+  "fixed": "0.8.2-5",
+  "issues": [
+    "CVE-2017-8366",
+    "CVE-2017-6430"
+  ],
+  "name": "AVG-212",
+  "packages": [
+    "ettercap"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

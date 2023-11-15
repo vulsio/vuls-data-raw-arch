@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.1.1.o-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2022-2068"
+  ],
+  "name": "AVG-2765",
+  "packages": [
+    "openssl"
+  ],
+  "severity": "Medium",
+  "status": "Vulnerable",
+  "ticket": null,
+  "type": "arbitrary command execution"
+}

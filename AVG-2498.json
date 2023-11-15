@@ -1,0 +1,18 @@
+{
+  "advisories": [],
+  "affected": "5.14.14.zen1-1",
+  "fixed": "5.14.15.zen1-1",
+  "issues": [
+    "CVE-2021-43389",
+    "CVE-2021-3896",
+    "CVE-2021-3760"
+  ],
+  "name": "AVG-2498",
+  "packages": [
+    "linux-zen"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

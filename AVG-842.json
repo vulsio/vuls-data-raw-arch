@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "4.20.arch1-1",
+  "fixed": "5.0.arch1-1",
+  "issues": [
+    "CVE-2019-5489"
+  ],
+  "name": "AVG-842",
+  "packages": [
+    "linux"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "information disclosure"
+}

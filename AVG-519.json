@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201711-30"
+  ],
+  "affected": "4.0.4-4",
+  "fixed": "4.0.5-1",
+  "issues": [
+    "CVE-2017-15091"
+  ],
+  "name": "AVG-519",
+  "packages": [
+    "powerdns"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "access restriction bypass"
+}

@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201901-18"
+  ],
+  "affected": "9.26-1",
+  "fixed": "9.26-2",
+  "issues": [
+    "CVE-2019-6116"
+  ],
+  "name": "AVG-860",
+  "packages": [
+    "ghostscript"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "sandbox escape"
+}

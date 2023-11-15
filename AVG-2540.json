@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.14.16.hardened1-1",
+  "fixed": "5.14.17.hardened1-1",
+  "issues": [
+    "CVE-2021-42739"
+  ],
+  "name": "AVG-2540",
+  "packages": [
+    "linux-hardened"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "privilege escalation"
+}

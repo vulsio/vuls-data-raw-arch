@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "4.9.33-1",
+  "fixed": "4.9.34-1",
+  "issues": [
+    "CVE-2017-1000364"
+  ],
+  "name": "AVG-325",
+  "packages": [
+    "linux-lts"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "privilege escalation"
+}

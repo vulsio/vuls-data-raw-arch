@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.8.4-1",
+  "fixed": "1.8.5-1",
+  "issues": [
+    "CVE-2019-13627"
+  ],
+  "name": "AVG-1044",
+  "packages": [
+    "libgcrypt"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "private key recovery"
+}

@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201901-13"
+  ],
+  "affected": "4.1.8-1",
+  "fixed": "4.1.9-1",
+  "issues": [
+    "CVE-2019-3807",
+    "CVE-2019-3806"
+  ],
+  "name": "AVG-856",
+  "packages": [
+    "powerdns-recursor"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

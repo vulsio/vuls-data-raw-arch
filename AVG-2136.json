@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202107-19"
+  ],
+  "affected": "2.7.0-3",
+  "fixed": "2.8.0-1",
+  "issues": [
+    "CVE-2021-32740"
+  ],
+  "name": "AVG-2136",
+  "packages": [
+    "ruby-addressable"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

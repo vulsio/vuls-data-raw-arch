@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202107-40"
+  ],
+  "affected": "2.14.2-1",
+  "fixed": "2.15.1-1",
+  "issues": [
+    "CVE-2021-36980"
+  ],
+  "name": "AVG-2177",
+  "packages": [
+    "openvswitch"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

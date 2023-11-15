@@ -1,0 +1,20 @@
+{
+  "advisories": [
+    "ASA-201811-3"
+  ],
+  "affected": "9.25-3",
+  "fixed": "9.25-4",
+  "issues": [
+    "CVE-2018-18284",
+    "CVE-2018-18073",
+    "CVE-2018-17961"
+  ],
+  "name": "AVG-786",
+  "packages": [
+    "ghostscript"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "sandbox escape"
+}

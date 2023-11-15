@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.39.1-1",
+  "fixed": "5.39.2-1",
+  "issues": [
+    "CVE-2021-37861"
+  ],
+  "name": "AVG-2628",
+  "packages": [
+    "mattermost"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "information disclosure"
+}

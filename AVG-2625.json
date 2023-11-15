@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1:1.8.16-1",
+  "fixed": "1:1.8.17-1",
+  "issues": [
+    "CVE-2021-44228"
+  ],
+  "name": "AVG-2625",
+  "packages": [
+    "arduino"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": "72975",
+  "type": "arbitrary code execution"
+}

@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-202107-24"
+  ],
+  "affected": "2.7.3-1",
+  "fixed": "2.7.4-1",
+  "issues": [
+    "CVE-2021-32066",
+    "CVE-2021-31810"
+  ],
+  "name": "AVG-2139",
+  "packages": [
+    "ruby2.7"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

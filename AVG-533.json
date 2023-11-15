@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201712-4"
+  ],
+  "affected": "2.2.6-5",
+  "fixed": "2.2.7-1",
+  "issues": [
+    "CVE-2017-9300",
+    "CVE-2017-10699"
+  ],
+  "name": "AVG-533",
+  "packages": [
+    "vlc"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

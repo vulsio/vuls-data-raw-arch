@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.4.0-1",
+  "fixed": "2.4.1-1",
+  "issues": [
+    "CVE-2017-5992"
+  ],
+  "name": "AVG-629",
+  "packages": [
+    "python-openpyxl"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "xml external entity injection"
+}

@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202107-10"
+  ],
+  "affected": "2.1.2-1",
+  "fixed": "3.0.0-1",
+  "issues": [
+    "CVE-2020-36401"
+  ],
+  "name": "AVG-2116",
+  "packages": [
+    "mruby"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

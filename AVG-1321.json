@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202012-15"
+  ],
+  "affected": "1.2.1-5",
+  "fixed": "1.3.0-1",
+  "issues": [
+    "CVE-2020-28926"
+  ],
+  "name": "AVG-1321",
+  "packages": [
+    "minidlna"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

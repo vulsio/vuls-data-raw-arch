@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202112-12"
+  ],
+  "affected": "0.21.0-1",
+  "fixed": "0.21.2-1",
+  "issues": [
+    "CVE-2021-41090"
+  ],
+  "name": "AVG-2614",
+  "packages": [
+    "grafana-agent"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "information disclosure"
+}

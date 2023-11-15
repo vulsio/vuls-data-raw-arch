@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.20.2-1",
+  "fixed": "1.20.3-1",
+  "issues": [
+    "CVE-2022-24783"
+  ],
+  "name": "AVG-2664",
+  "packages": [
+    "deno"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

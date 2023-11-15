@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201707-27"
+  ],
+  "affected": "2.2.0-1",
+  "fixed": "2.2.2-1",
+  "issues": [
+    "CVE-2017-9233",
+    "CVE-2016-9063"
+  ],
+  "name": "AVG-305",
+  "packages": [
+    "lib32-expat"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

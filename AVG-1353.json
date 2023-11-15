@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.9.19-1",
+  "fixed": "1.9.20-1",
+  "issues": [
+    "CVE-2020-26265"
+  ],
+  "name": "AVG-1353",
+  "packages": [
+    "go-ethereum"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "incorrect calculation"
+}

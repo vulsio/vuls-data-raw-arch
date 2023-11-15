@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201805-11"
+  ],
+  "affected": "0.1.1-4",
+  "fixed": "1.0.0rc5+19+g69663f0b-1",
+  "issues": [
+    "CVE-2016-9962"
+  ],
+  "name": "AVG-134",
+  "packages": [
+    "runc"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "privilege escalation"
+}

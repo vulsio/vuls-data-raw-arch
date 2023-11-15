@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.9-4",
+  "fixed": "2.9-5",
+  "issues": [
+    "CVE-2021-30004"
+  ],
+  "name": "AVG-1762",
+  "packages": [
+    "hostapd"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": "70260",
+  "type": "signature forgery"
+}

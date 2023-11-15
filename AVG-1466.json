@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.10.9.arch1-1",
+  "fixed": "5.10.10.arch1-1",
+  "issues": [
+    "CVE-2021-3178"
+  ],
+  "name": "AVG-1466",
+  "packages": [
+    "linux"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "directory traversal"
+}

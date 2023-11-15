@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "6.2.9-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-30184"
+  ],
+  "name": "AVG-1782",
+  "packages": [
+    "gnuchess"
+  ],
+  "severity": "Medium",
+  "status": "Vulnerable",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

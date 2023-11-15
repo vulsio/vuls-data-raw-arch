@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202102-28"
+  ],
+  "affected": "3.1.6-1",
+  "fixed": "3.1.7-1",
+  "issues": [
+    "CVE-2021-23336"
+  ],
+  "name": "AVG-1593",
+  "packages": [
+    "python-django"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "url request injection"
+}

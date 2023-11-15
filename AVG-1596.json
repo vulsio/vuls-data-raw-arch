@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202102-39"
+  ],
+  "affected": "1.8.18-6",
+  "fixed": "1.8.18-7",
+  "issues": [
+    "CVE-2020-5208"
+  ],
+  "name": "AVG-1596",
+  "packages": [
+    "ipmitool"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": "69708",
+  "type": "arbitrary code execution"
+}

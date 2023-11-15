@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.56-2",
+  "fixed": "5.57-1",
+  "issues": [
+    "CVE-2020-26558"
+  ],
+  "name": "AVG-2050",
+  "packages": [
+    "bluez"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "private key recovery"
+}

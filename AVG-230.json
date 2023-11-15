@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "4.9.18-1",
+  "fixed": "4.9.20-1",
+  "issues": [
+    "CVE-2017-7184"
+  ],
+  "name": "AVG-230",
+  "packages": [
+    "linux-lts"
+  ],
+  "severity": "Medium",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "privilege escalation"
+}

@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "1:1.1.0.h-1",
+  "fixed": "1:1.1.0.i-1",
+  "issues": [
+    "CVE-2018-0737",
+    "CVE-2018-0732"
+  ],
+  "name": "AVG-675",
+  "packages": [
+    "lib32-openssl"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

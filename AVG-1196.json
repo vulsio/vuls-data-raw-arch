@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "9.0.35-1",
+  "fixed": "9.0.37-1",
+  "issues": [
+    "CVE-2020-11996"
+  ],
+  "name": "AVG-1196",
+  "packages": [
+    "tomcat9"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

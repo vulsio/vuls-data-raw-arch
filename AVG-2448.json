@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.314-1",
+  "fixed": "2.315-1",
+  "issues": [
+    "CVE-2014-3577"
+  ],
+  "name": "AVG-2448",
+  "packages": [
+    "jenkins"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "certificate verification bypass"
+}

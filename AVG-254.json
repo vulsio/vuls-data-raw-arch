@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201705-19"
+  ],
+  "affected": "2.1-1",
+  "fixed": "2.2-1",
+  "issues": [
+    "CVE-2017-5661"
+  ],
+  "name": "AVG-254",
+  "packages": [
+    "fop"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "xml external entity injection"
+}

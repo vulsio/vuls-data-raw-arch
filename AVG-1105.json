@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202002-13"
+  ],
+  "affected": "6.6.3p1-1",
+  "fixed": "6.6.4p1-1",
+  "issues": [
+    "CVE-2020-8794"
+  ],
+  "name": "AVG-1105",
+  "packages": [
+    "opensmtpd"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary command execution"
+}

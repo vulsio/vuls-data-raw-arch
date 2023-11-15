@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "4.2.8.p8-1",
+  "fixed": "4.2.8.p9-1",
+  "issues": [
+    "CVE-2016-9312"
+  ],
+  "name": "AVG-81",
+  "packages": [
+    "ntp"
+  ],
+  "severity": "High",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "denial of service"
+}

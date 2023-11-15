@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.28-6",
+  "fixed": "2.29-1",
+  "issues": [
+    "CVE-2016-10739"
+  ],
+  "name": "AVG-1984",
+  "packages": [
+    "glibc"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "open redirect"
+}

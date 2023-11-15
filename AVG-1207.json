@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-202010-5"
+  ],
+  "affected": "5.4.0-2",
+  "fixed": "5.4.1-1",
+  "issues": [
+    "CVE-2020-15889",
+    "CVE-2020-15888"
+  ],
+  "name": "AVG-1207",
+  "packages": [
+    "lua"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

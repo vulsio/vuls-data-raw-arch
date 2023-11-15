@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201709-8"
+  ],
+  "affected": "4.9.49-1",
+  "fixed": "4.9.49-2",
+  "issues": [
+    "CVE-2017-1000251"
+  ],
+  "name": "AVG-393",
+  "packages": [
+    "linux-lts"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": "55601",
+  "type": "arbitrary code execution"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "4.6.4-3",
+  "fixed": "4.6.5-1",
+  "issues": [
+    "CVE-2021-43818"
+  ],
+  "name": "AVG-2629",
+  "packages": [
+    "python-lxml"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "cross-site scripting"
+}

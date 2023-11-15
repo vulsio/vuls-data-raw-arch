@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-202101-4"
+  ],
+  "affected": "2.3.11.3-3",
+  "fixed": "2.3.13-1",
+  "issues": [
+    "CVE-2020-25275",
+    "CVE-2020-24386"
+  ],
+  "name": "AVG-1398",
+  "packages": [
+    "dovecot"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

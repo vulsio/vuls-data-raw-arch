@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "6.20170925-1",
+  "fixed": "6.20171003-1",
+  "issues": [
+    "CVE-2017-12976"
+  ],
+  "name": "AVG-496",
+  "packages": [
+    "git-annex"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary command execution"
+}

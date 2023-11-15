@@ -1,0 +1,23 @@
+{
+  "advisories": [
+    "ASA-201908-8",
+    "ASA-201908-8",
+    "ASA-201908-7",
+    "ASA-201908-7"
+  ],
+  "affected": "11.4-1",
+  "fixed": "11.5-1",
+  "issues": [
+    "CVE-2019-10209",
+    "CVE-2019-10208"
+  ],
+  "name": "AVG-1019",
+  "packages": [
+    "postgresql",
+    "postgresql-libs"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

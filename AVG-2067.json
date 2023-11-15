@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.4.1.1-2",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-34555"
+  ],
+  "name": "AVG-2067",
+  "packages": [
+    "opendmarc"
+  ],
+  "severity": "Medium",
+  "status": "Vulnerable",
+  "ticket": "72812",
+  "type": "denial of service"
+}

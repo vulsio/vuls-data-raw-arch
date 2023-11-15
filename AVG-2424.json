@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.12.2-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-41098"
+  ],
+  "name": "AVG-2424",
+  "packages": [
+    "ruby-nokogiri"
+  ],
+  "severity": "High",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "xml external entity injection"
+}

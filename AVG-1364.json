@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "83.0-2",
+  "fixed": "84.0-1",
+  "issues": [
+    "CVE-2020-35112"
+  ],
+  "name": "AVG-1364",
+  "packages": [
+    "firefox"
+  ],
+  "severity": "Low",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "arbitrary command execution"
+}

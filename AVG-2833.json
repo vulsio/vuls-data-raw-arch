@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "2.37-1",
+  "fixed": "2.37-2",
+  "issues": [
+    "CVE-2023-25139"
+  ],
+  "name": "AVG-2833",
+  "packages": [
+    "lib32-glibc",
+    "glibc"
+  ],
+  "severity": "Unknown",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "unknown"
+}

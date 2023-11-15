@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "1.0.7-6",
+  "fixed": "1.0.7-7",
+  "issues": [
+    "CVE-2019-5087",
+    "CVE-2019-5086"
+  ],
+  "name": "AVG-1679",
+  "packages": [
+    "xcftools"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": "70042",
+  "type": "arbitrary code execution"
+}

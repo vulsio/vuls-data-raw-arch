@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "259-1",
+  "fixed": "260-1",
+  "issues": [
+    "CVE-2021-3698",
+    "CVE-2020-35850"
+  ],
+  "name": "AVG-1393",
+  "packages": [
+    "cockpit"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "4.87-1",
+  "fixed": "4.88-1",
+  "issues": [
+    "CVE-2016-9963"
+  ],
+  "name": "AVG-153",
+  "packages": [
+    "exim"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": "52221",
+  "type": "information disclosure"
+}

@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "2.12.1-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-3681",
+    "CVE-2021-3620"
+  ],
+  "name": "AVG-1941",
+  "packages": [
+    "ansible-core"
+  ],
+  "severity": "Medium",
+  "status": "Vulnerable",
+  "ticket": null,
+  "type": "information disclosure"
+}

@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "3.4.2-5",
+  "fixed": "3.4.3-1",
+  "issues": [
+    "CVE-2019-12420",
+    "CVE-2018-11805"
+  ],
+  "name": "AVG-1077",
+  "packages": [
+    "spamassassin"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

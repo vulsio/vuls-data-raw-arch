@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.0.2-1",
+  "fixed": "2.0.3-1",
+  "issues": [
+    "CVE-2019-2201"
+  ],
+  "name": "AVG-1067",
+  "packages": [
+    "libjpeg-turbo"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

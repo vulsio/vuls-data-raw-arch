@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "2.0.12-3",
+  "fixed": "2.0.14-1",
+  "issues": [
+    "CVE-2020-14410",
+    "CVE-2020-14409"
+  ],
+  "name": "AVG-1480",
+  "packages": [
+    "sdl2"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

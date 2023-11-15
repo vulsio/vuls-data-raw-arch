@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201907-1"
+  ],
+  "affected": "1.2.0-4",
+  "fixed": "1.2.1-1",
+  "issues": [
+    "CVE-2019-13045"
+  ],
+  "name": "AVG-999",
+  "packages": [
+    "irssi"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

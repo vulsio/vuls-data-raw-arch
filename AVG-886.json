@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201911-13"
+  ],
+  "affected": "4.0.10-1",
+  "fixed": "4.1.0-1",
+  "issues": [
+    "CVE-2019-7663",
+    "CVE-2019-6128"
+  ],
+  "name": "AVG-886",
+  "packages": [
+    "libtiff"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

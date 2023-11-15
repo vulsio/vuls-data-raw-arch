@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.15.41-1",
+  "fixed": "5.15.42-1",
+  "issues": [
+    "CVE-2022-1729"
+  ],
+  "name": "AVG-2745",
+  "packages": [
+    "linux-lts"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "privilege escalation"
+}

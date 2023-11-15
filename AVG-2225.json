@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "22.1.1-1",
+  "fixed": "22.2.0-1",
+  "issues": [
+    "CVE-2021-32610"
+  ],
+  "name": "AVG-2225",
+  "packages": [
+    "nextcloud"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "directory traversal"
+}

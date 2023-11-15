@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "8.11.0-1",
+  "fixed": "8.11.0-2",
+  "issues": [
+    "CVE-2021-44228"
+  ],
+  "name": "AVG-2622",
+  "packages": [
+    "solr"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": "72975",
+  "type": "arbitrary code execution"
+}

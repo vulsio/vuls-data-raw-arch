@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.11.arch2-1",
+  "fixed": "5.11.1.arch1-1",
+  "issues": [
+    "CVE-2021-26934"
+  ],
+  "name": "AVG-1612",
+  "packages": [
+    "linux"
+  ],
+  "severity": "Low",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

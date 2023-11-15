@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202106-12"
+  ],
+  "affected": "6.2.3-1",
+  "fixed": "6.2.4-1",
+  "issues": [
+    "CVE-2021-32625"
+  ],
+  "name": "AVG-2022",
+  "packages": [
+    "redis"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

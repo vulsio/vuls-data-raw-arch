@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "4.14.11.a-1",
+  "fixed": "4.15.1.1-1",
+  "issues": [
+    "CVE-2017-5753",
+    "CVE-2017-5715"
+  ],
+  "name": "AVG-558",
+  "packages": [
+    "linux-hardened"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "access restriction bypass"
+}

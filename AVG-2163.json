@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.11.14.hardened1-1",
+  "fixed": "5.11.15.hardened1-1",
+  "issues": [
+    "CVE-2021-22555"
+  ],
+  "name": "AVG-2163",
+  "packages": [
+    "linux-hardened"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "privilege escalation"
+}

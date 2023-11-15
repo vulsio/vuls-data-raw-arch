@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201801-15"
+  ],
+  "affected": "2.0129-1",
+  "fixed": "2.0130-1",
+  "issues": [
+    "CVE-2017-10672"
+  ],
+  "name": "AVG-501",
+  "packages": [
+    "perl-xml-libxml"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": "56377",
+  "type": "arbitrary code execution"
+}

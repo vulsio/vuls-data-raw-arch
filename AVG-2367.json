@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.5.5-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-3773"
+  ],
+  "name": "AVG-2367",
+  "packages": [
+    "openvpn"
+  ],
+  "severity": "Medium",
+  "status": "Vulnerable",
+  "ticket": null,
+  "type": "information disclosure"
+}

@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201911-2"
+  ],
+  "affected": "5.13.2-1",
+  "fixed": "5.13.2-2",
+  "issues": [
+    "CVE-2019-13720"
+  ],
+  "name": "AVG-1059",
+  "packages": [
+    "qt5-webengine"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": "64347",
+  "type": "arbitrary code execution"
+}

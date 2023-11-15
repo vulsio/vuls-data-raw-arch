@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.60.2-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-34477"
+  ],
+  "name": "AVG-2429",
+  "packages": [
+    "code"
+  ],
+  "severity": "Medium",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "privilege escalation"
+}

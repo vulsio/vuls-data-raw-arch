@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.2.4-5",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-43519"
+  ],
+  "name": "AVG-2537",
+  "packages": [
+    "lua52"
+  ],
+  "severity": "Low",
+  "status": "Vulnerable",
+  "ticket": null,
+  "type": "denial of service"
+}

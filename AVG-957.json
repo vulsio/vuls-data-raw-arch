@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201905-4"
+  ],
+  "affected": "5.0.12.zen1-1",
+  "fixed": "5.0.12.zen2-1",
+  "issues": [
+    "CVE-2019-11683"
+  ],
+  "name": "AVG-957",
+  "packages": [
+    "linux-zen"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

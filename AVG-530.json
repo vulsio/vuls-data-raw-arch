@@ -1,0 +1,20 @@
+{
+  "advisories": [
+    "ASA-201711-43"
+  ],
+  "affected": "52.4.0-2",
+  "fixed": "52.5.0-1",
+  "issues": [
+    "CVE-2017-7830",
+    "CVE-2017-7828",
+    "CVE-2017-7826"
+  ],
+  "name": "AVG-530",
+  "packages": [
+    "thunderbird"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

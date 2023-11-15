@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "2.2.0-11",
+  "fixed": "2.3.0-1",
+  "issues": [
+    "CVE-2020-28596",
+    "CVE-2020-28595"
+  ],
+  "name": "AVG-1566",
+  "packages": [
+    "prusa-slicer"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

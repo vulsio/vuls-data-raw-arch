@@ -1,0 +1,20 @@
+{
+  "advisories": [
+    "ASA-201704-8"
+  ],
+  "affected": "2.56-1",
+  "fixed": "2.57-1",
+  "issues": [
+    "CVE-2017-1000356",
+    "CVE-2017-1000355",
+    "CVE-2017-1000354"
+  ],
+  "name": "AVG-255",
+  "packages": [
+    "jenkins"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

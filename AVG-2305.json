@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.9.1-2",
+  "fixed": "2.10.0-1",
+  "issues": [
+    "CVE-2021-39247"
+  ],
+  "name": "AVG-2305",
+  "packages": [
+    "zint"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "information disclosure"
+}

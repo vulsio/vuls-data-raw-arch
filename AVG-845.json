@@ -1,0 +1,19 @@
+{
+  "advisories": [
+    "ASA-201901-9"
+  ],
+  "affected": "240.0-3",
+  "fixed": "240.34-1",
+  "issues": [
+    "CVE-2018-16865",
+    "CVE-2018-16864"
+  ],
+  "name": "AVG-845",
+  "packages": [
+    "systemd"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

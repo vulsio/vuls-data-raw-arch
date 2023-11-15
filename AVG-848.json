@@ -1,0 +1,20 @@
+{
+  "advisories": [],
+  "affected": "2.0.0-5",
+  "fixed": "4.1.3-1",
+  "issues": [
+    "CVE-2018-14403",
+    "CVE-2018-14379",
+    "CVE-2018-14326",
+    "CVE-2018-14325",
+    "CVE-2018-14054"
+  ],
+  "name": "AVG-848",
+  "packages": [
+    "libmp4v2"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

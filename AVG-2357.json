@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "4.6.4.0-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-32833"
+  ],
+  "name": "AVG-2357",
+  "packages": [
+    "emby-server"
+  ],
+  "severity": "Medium",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "arbitrary filesystem access"
+}

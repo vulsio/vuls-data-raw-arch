@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.0.6-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-20205"
+  ],
+  "name": "AVG-1671",
+  "packages": [
+    "libjpeg-turbo"
+  ],
+  "severity": "Low",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "denial of service"
+}

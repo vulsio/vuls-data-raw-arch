@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.3.1-1",
+  "fixed": "5.4.0-1",
+  "issues": [
+    "CVE-2021-3673"
+  ],
+  "name": "AVG-2245",
+  "packages": [
+    "radare2"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

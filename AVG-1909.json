@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "6.2.2-1",
+  "fixed": "6.2.3-1",
+  "issues": [
+    "CVE-2021-29478",
+    "CVE-2021-29477"
+  ],
+  "name": "AVG-1909",
+  "packages": [
+    "redis"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

@@ -1,0 +1,19 @@
+{
+  "advisories": [],
+  "affected": "5.0.8.sdk205-1",
+  "fixed": "6.0.0.sdk100-1",
+  "issues": [
+    "CVE-2021-34532",
+    "CVE-2021-34485",
+    "CVE-2021-26423"
+  ],
+  "name": "AVG-2277",
+  "packages": [
+    "dotnet-sdk",
+    "dotnet-runtime"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

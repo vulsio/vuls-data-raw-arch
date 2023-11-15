@@ -1,0 +1,19 @@
+{
+  "advisories": [],
+  "affected": "2.4.0-1",
+  "fixed": "2.5.0-1",
+  "issues": [
+    "CVE-2021-29338",
+    "CVE-2019-6988",
+    "CVE-2018-20846",
+    "CVE-2018-16376"
+  ],
+  "name": "AVG-1390",
+  "packages": [
+    "openjpeg2"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

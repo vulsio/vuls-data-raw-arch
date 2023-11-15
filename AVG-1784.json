@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.11.22.hardened1-1",
+  "fixed": "5.12.6.hardened1-1",
+  "issues": [
+    "CVE-2021-30178"
+  ],
+  "name": "AVG-1784",
+  "packages": [
+    "linux-hardened"
+  ],
+  "severity": "Low",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}

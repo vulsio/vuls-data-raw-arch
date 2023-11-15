@@ -1,0 +1,22 @@
+{
+  "advisories": [],
+  "affected": "90.0.4430.85-1",
+  "fixed": "90.0.4430.93-1",
+  "issues": [
+    "CVE-2021-21233",
+    "CVE-2021-21232",
+    "CVE-2021-21231",
+    "CVE-2021-21230",
+    "CVE-2021-21229",
+    "CVE-2021-21228",
+    "CVE-2021-21227"
+  ],
+  "name": "AVG-1871",
+  "packages": [
+    "chromium"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

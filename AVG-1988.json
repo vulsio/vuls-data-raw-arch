@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202106-36"
+  ],
+  "affected": "1.20.0-1",
+  "fixed": "1.20.1-1",
+  "issues": [
+    "CVE-2021-23017"
+  ],
+  "name": "AVG-1988",
+  "packages": [
+    "nginx"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

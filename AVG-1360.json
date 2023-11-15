@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "202111-4",
+  "fixed": null,
+  "issues": [
+    "CVE-2019-14560"
+  ],
+  "name": "AVG-1360",
+  "packages": [
+    "edk2-shell"
+  ],
+  "severity": "Medium",
+  "status": "Vulnerable",
+  "ticket": null,
+  "type": "certificate verification bypass"
+}

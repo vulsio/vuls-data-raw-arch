@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "3.2.8.a-1",
+  "fixed": "3.2.8.b-1",
+  "issues": [
+    "CVE-2021-3561"
+  ],
+  "name": "AVG-1976",
+  "packages": [
+    "fig2dev"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

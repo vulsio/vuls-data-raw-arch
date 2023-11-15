@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202009-17"
+  ],
+  "affected": "4.12.6-1",
+  "fixed": "4.13.0-1",
+  "issues": [
+    "CVE-2020-1472"
+  ],
+  "name": "AVG-1236",
+  "packages": [
+    "samba"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": "67983",
+  "type": "access restriction bypass"
+}

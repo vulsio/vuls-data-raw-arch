@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2021.03.04-1",
+  "fixed": "2021.03.17-1",
+  "issues": [
+    "CVE-2021-21390"
+  ],
+  "name": "AVG-1715",
+  "packages": [
+    "minio"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "man-in-the-middle"
+}

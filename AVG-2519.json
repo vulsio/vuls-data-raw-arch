@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "91.2.1-1",
+  "fixed": "91.3.0-1",
+  "issues": [
+    "CVE-2021-38510",
+    "CVE-2021-38505"
+  ],
+  "name": "AVG-2519",
+  "packages": [
+    "thunderbird"
+  ],
+  "severity": "High",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "multiple issues"
+}

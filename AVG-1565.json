@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "365-1",
+  "fixed": "366-1",
+  "issues": [
+    "CVE-2021-27135"
+  ],
+  "name": "AVG-1565",
+  "packages": [
+    "xterm"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary code execution"
+}

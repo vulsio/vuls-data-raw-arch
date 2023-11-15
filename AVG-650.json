@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-201803-8"
+  ],
+  "affected": "3.18.0-1",
+  "fixed": "3.19.0-1",
+  "issues": [
+    "CVE-2018-7889"
+  ],
+  "name": "AVG-650",
+  "packages": [
+    "calibre"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary command execution"
+}

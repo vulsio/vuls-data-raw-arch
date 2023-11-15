@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "0.19.2-2",
+  "fixed": "0.19.3-1",
+  "issues": [
+    "CVE-2020-35605"
+  ],
+  "name": "AVG-1378",
+  "packages": [
+    "kitty"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "arbitrary command execution"
+}

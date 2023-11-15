@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.0.1-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-3557"
+  ],
+  "name": "AVG-1973",
+  "packages": [
+    "argocd"
+  ],
+  "severity": "High",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "information disclosure"
+}

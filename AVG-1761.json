@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "2.9.2-1",
+  "fixed": "2.10.0-1",
+  "issues": [
+    "CVE-2021-29421"
+  ],
+  "name": "AVG-1761",
+  "packages": [
+    "python-pikepdf"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "xml external entity injection"
+}

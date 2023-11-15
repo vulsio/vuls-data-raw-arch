@@ -1,0 +1,20 @@
+{
+  "advisories": [
+    "ASA-202001-5"
+  ],
+  "affected": "79.0.3945.117-1",
+  "fixed": "79.0.3945.130-1",
+  "issues": [
+    "CVE-2020-6380",
+    "CVE-2020-6379",
+    "CVE-2020-6378"
+  ],
+  "name": "AVG-1088",
+  "packages": [
+    "chromium"
+  ],
+  "severity": "Critical",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

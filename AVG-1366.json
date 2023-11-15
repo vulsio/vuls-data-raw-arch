@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "78.5.1-1",
+  "fixed": null,
+  "issues": [
+    "CVE-2020-35112"
+  ],
+  "name": "AVG-1366",
+  "packages": [
+    "thunderbird"
+  ],
+  "severity": "Low",
+  "status": "Not affected",
+  "ticket": null,
+  "type": "arbitrary command execution"
+}

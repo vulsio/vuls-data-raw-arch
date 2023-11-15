@@ -1,0 +1,18 @@
+{
+  "advisories": [
+    "ASA-202105-25"
+  ],
+  "affected": "2.26.0-2",
+  "fixed": "2.27.1-1",
+  "issues": [
+    "CVE-2021-29622"
+  ],
+  "name": "AVG-1971",
+  "packages": [
+    "prometheus"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "open redirect"
+}

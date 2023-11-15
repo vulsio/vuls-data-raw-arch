@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "1.2-2",
+  "fixed": null,
+  "issues": [
+    "CVE-2021-30219",
+    "CVE-2021-30218"
+  ],
+  "name": "AVG-1896",
+  "packages": [
+    "samurai"
+  ],
+  "severity": "Low",
+  "status": "Vulnerable",
+  "ticket": null,
+  "type": "denial of service"
+}

@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "5.15.2-1",
+  "fixed": "5.15.2-2",
+  "issues": [
+    "CVE-2021-3481"
+  ],
+  "name": "AVG-1769",
+  "packages": [
+    "qt5-svg"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": "70262",
+  "type": "information disclosure"
+}

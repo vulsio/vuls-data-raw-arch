@@ -1,0 +1,17 @@
+{
+  "advisories": [],
+  "affected": "4.9.81-1",
+  "fixed": "4.9.82-1",
+  "issues": [
+    "CVE-2017-8824",
+    "CVE-2017-16644"
+  ],
+  "name": "AVG-566",
+  "packages": [
+    "linux-lts"
+  ],
+  "severity": "High",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "multiple issues"
+}

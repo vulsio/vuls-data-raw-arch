@@ -1,0 +1,16 @@
+{
+  "advisories": [],
+  "affected": "1.3.4-2",
+  "fixed": "1.3.5-1",
+  "issues": [
+    "CVE-2021-40347"
+  ],
+  "name": "AVG-2375",
+  "packages": [
+    "postorius"
+  ],
+  "severity": "Medium",
+  "status": "Fixed",
+  "ticket": null,
+  "type": "denial of service"
+}
