@@ -1,19 +1,19 @@
 {
-  "advisories": [
-    "ASA-201901-4"
-  ],
-  "affected": "239.2-1",
-  "fixed": "240.0-3",
-  "issues": [
-    "CVE-2018-6954",
-    "CVE-2018-16866"
-  ],
-  "name": "AVG-615",
-  "packages": [
-    "systemd"
-  ],
-  "severity": "Medium",
-  "status": "Fixed",
-  "ticket": null,
-  "type": "multiple issues"
+	"advisories": [
+		"ASA-201901-4"
+	],
+	"affected": "239.2-1",
+	"fixed": "240.0-3",
+	"issues": [
+		"CVE-2018-6954",
+		"CVE-2018-16866"
+	],
+	"name": "AVG-615",
+	"packages": [
+		"systemd"
+	],
+	"severity": "Medium",
+	"status": "Fixed",
+	"ticket": null,
+	"type": "multiple issues"
 }

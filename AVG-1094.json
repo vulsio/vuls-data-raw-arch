@@ -1,18 +1,18 @@
 {
-  "advisories": [
-    "ASA-202002-8"
-  ],
-  "affected": "244.1-1",
-  "fixed": "244.2-1",
-  "issues": [
-    "CVE-2020-1712"
-  ],
-  "name": "AVG-1094",
-  "packages": [
-    "systemd"
-  ],
-  "severity": "High",
-  "status": "Fixed",
-  "ticket": null,
-  "type": "privilege escalation"
+	"advisories": [
+		"ASA-202002-8"
+	],
+	"affected": "244.1-1",
+	"fixed": "244.2-1",
+	"issues": [
+		"CVE-2020-1712"
+	],
+	"name": "AVG-1094",
+	"packages": [
+		"systemd"
+	],
+	"severity": "High",
+	"status": "Fixed",
+	"ticket": null,
+	"type": "privilege escalation"
 }

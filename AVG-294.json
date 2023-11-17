@@ -1,19 +1,19 @@
 {
-  "advisories": [
-    "ASA-201706-12",
-    "ASA-201706-12"
-  ],
-  "affected": "3.5.12-1",
-  "fixed": "3.5.13-1",
-  "issues": [
-    "CVE-2017-7507"
-  ],
-  "name": "AVG-294",
-  "packages": [
-    "gnutls"
-  ],
-  "severity": "Medium",
-  "status": "Fixed",
-  "ticket": null,
-  "type": "denial of service"
+	"advisories": [
+		"ASA-201706-12",
+		"ASA-201706-12"
+	],
+	"affected": "3.5.12-1",
+	"fixed": "3.5.13-1",
+	"issues": [
+		"CVE-2017-7507"
+	],
+	"name": "AVG-294",
+	"packages": [
+		"gnutls"
+	],
+	"severity": "Medium",
+	"status": "Fixed",
+	"ticket": null,
+	"type": "denial of service"
 }

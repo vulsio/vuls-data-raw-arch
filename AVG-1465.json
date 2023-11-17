@@ -1,20 +1,20 @@
 {
-  "advisories": [
-    "ASA-202102-37",
-    "ASA-202102-37"
-  ],
-  "affected": "3.9.1-2",
-  "fixed": "3.9.2-1",
-  "issues": [
-    "CVE-2021-3177",
-    "CVE-2021-23336"
-  ],
-  "name": "AVG-1465",
-  "packages": [
-    "python"
-  ],
-  "severity": "Medium",
-  "status": "Fixed",
-  "ticket": null,
-  "type": "multiple issues"
+	"advisories": [
+		"ASA-202102-37",
+		"ASA-202102-37"
+	],
+	"affected": "3.9.1-2",
+	"fixed": "3.9.2-1",
+	"issues": [
+		"CVE-2021-3177",
+		"CVE-2021-23336"
+	],
+	"name": "AVG-1465",
+	"packages": [
+		"python"
+	],
+	"severity": "Medium",
+	"status": "Fixed",
+	"ticket": null,
+	"type": "multiple issues"
 }

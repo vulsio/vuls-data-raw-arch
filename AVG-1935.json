@@ -1,18 +1,18 @@
 {
-  "advisories": [
-    "ASA-202107-29"
-  ],
-  "affected": "248.3-2",
-  "fixed": "249-2",
-  "issues": [
-    "CVE-2020-13529"
-  ],
-  "name": "AVG-1935",
-  "packages": [
-    "systemd"
-  ],
-  "severity": "Low",
-  "status": "Fixed",
-  "ticket": null,
-  "type": "denial of service"
+	"advisories": [
+		"ASA-202107-29"
+	],
+	"affected": "248.3-2",
+	"fixed": "249-2",
+	"issues": [
+		"CVE-2020-13529"
+	],
+	"name": "AVG-1935",
+	"packages": [
+		"systemd"
+	],
+	"severity": "Low",
+	"status": "Fixed",
+	"ticket": null,
+	"type": "denial of service"
 }

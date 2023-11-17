@@ -1,19 +1,19 @@
 {
-  "advisories": [
-    "ASA-201906-17",
-    "ASA-201906-17"
-  ],
-  "affected": "3.7.2-1",
-  "fixed": "3.7.3-1",
-  "issues": [
-    "CVE-2019-9636"
-  ],
-  "name": "AVG-977",
-  "packages": [
-    "python"
-  ],
-  "severity": "High",
-  "status": "Fixed",
-  "ticket": null,
-  "type": "information disclosure"
+	"advisories": [
+		"ASA-201906-17",
+		"ASA-201906-17"
+	],
+	"affected": "3.7.2-1",
+	"fixed": "3.7.3-1",
+	"issues": [
+		"CVE-2019-9636"
+	],
+	"name": "AVG-977",
+	"packages": [
+		"python"
+	],
+	"severity": "High",
+	"status": "Fixed",
+	"ticket": null,
+	"type": "information disclosure"
 }

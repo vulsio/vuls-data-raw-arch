@@ -1,18 +1,18 @@
 {
-  "advisories": [
-    "ASA-201610-2"
-  ],
-  "affected": "231-1",
-  "fixed": "231-2",
-  "issues": [
-    "CVE-2016-7795"
-  ],
-  "name": "AVG-38",
-  "packages": [
-    "systemd"
-  ],
-  "severity": "High",
-  "status": "Fixed",
-  "ticket": "51035",
-  "type": "denial of service"
+	"advisories": [
+		"ASA-201610-2"
+	],
+	"affected": "231-1",
+	"fixed": "231-2",
+	"issues": [
+		"CVE-2016-7795"
+	],
+	"name": "AVG-38",
+	"packages": [
+		"systemd"
+	],
+	"severity": "High",
+	"status": "Fixed",
+	"ticket": "51035",
+	"type": "denial of service"
 }

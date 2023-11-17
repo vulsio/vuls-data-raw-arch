@@ -1,18 +1,18 @@
 {
-  "advisories": [
-    "ASA-201902-24"
-  ],
-  "affected": "240.95-2",
-  "fixed": "241.7-1",
-  "issues": [
-    "CVE-2019-6454"
-  ],
-  "name": "AVG-906",
-  "packages": [
-    "systemd"
-  ],
-  "severity": "High",
-  "status": "Fixed",
-  "ticket": "61804",
-  "type": "denial of service"
+	"advisories": [
+		"ASA-201902-24"
+	],
+	"affected": "240.95-2",
+	"fixed": "241.7-1",
+	"issues": [
+		"CVE-2019-6454"
+	],
+	"name": "AVG-906",
+	"packages": [
+		"systemd"
+	],
+	"severity": "High",
+	"status": "Fixed",
+	"ticket": "61804",
+	"type": "denial of service"
 }

@@ -1,18 +1,18 @@
 {
-  "advisories": [
-    "ASA-201910-3"
-  ],
-  "affected": "242.84-2",
-  "fixed": "243.0-1",
-  "issues": [
-    "CVE-2019-15718"
-  ],
-  "name": "AVG-1035",
-  "packages": [
-    "systemd"
-  ],
-  "severity": "Medium",
-  "status": "Fixed",
-  "ticket": null,
-  "type": "access restriction bypass"
+	"advisories": [
+		"ASA-201910-3"
+	],
+	"affected": "242.84-2",
+	"fixed": "243.0-1",
+	"issues": [
+		"CVE-2019-15718"
+	],
+	"name": "AVG-1035",
+	"packages": [
+		"systemd"
+	],
+	"severity": "Medium",
+	"status": "Fixed",
+	"ticket": null,
+	"type": "access restriction bypass"
 }
