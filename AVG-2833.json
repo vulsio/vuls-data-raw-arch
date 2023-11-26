@@ -7,8 +7,8 @@
 	],
 	"name": "AVG-2833",
 	"packages": [
-		"lib32-glibc",
-		"glibc"
+		"glibc",
+		"lib32-glibc"
 	],
 	"severity": "Unknown",
 	"status": "Fixed",

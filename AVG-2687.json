@@ -12,9 +12,9 @@
 	],
 	"name": "AVG-2687",
 	"packages": [
-		"jre17-openjdk-headless",
 		"jre17-openjdk",
-		"jdk17-openjdk"
+		"jdk17-openjdk",
+		"jre17-openjdk-headless"
 	],
 	"severity": "High",
 	"status": "Fixed",

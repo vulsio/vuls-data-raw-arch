@@ -7,8 +7,8 @@
 	],
 	"name": "AVG-1324",
 	"packages": [
-		"lib32-glibc",
-		"glibc"
+		"glibc",
+		"lib32-glibc"
 	],
 	"severity": "Medium",
 	"status": "Not affected",
