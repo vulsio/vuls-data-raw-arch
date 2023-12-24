@@ -8,9 +8,9 @@
 	],
 	"name": "AVG-1915",
 	"packages": [
+		"kube-scheduler",
 		"kubelet",
 		"kube-controller-manager",
-		"kube-scheduler",
 		"kube-proxy",
 		"kube-apiserver"
 	],

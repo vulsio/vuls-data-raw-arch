@@ -10,8 +10,8 @@
 	"name": "AVG-2817",
 	"packages": [
 		"libcurl-compat",
-		"curl",
-		"libcurl-gnutls"
+		"libcurl-gnutls",
+		"curl"
 	],
 	"severity": "Unknown",
 	"status": "Fixed",
