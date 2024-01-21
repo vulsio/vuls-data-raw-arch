@@ -7,8 +7,8 @@
 	],
 	"name": "AVG-2192",
 	"packages": [
-		"gradle-src",
-		"gradle"
+		"gradle",
+		"gradle-src"
 	],
 	"severity": "High",
 	"status": "Fixed",

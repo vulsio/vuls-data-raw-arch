@@ -7,8 +7,8 @@
 	],
 	"name": "AVG-1847",
 	"packages": [
-		"jre-openjdk-headless",
-		"jdk-openjdk"
+		"jdk-openjdk",
+		"jre-openjdk-headless"
 	],
 	"severity": "Medium",
 	"status": "Fixed",
