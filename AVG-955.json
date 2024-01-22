@@ -1,5 +1,6 @@
 {
 	"advisories": [
+		"ASA-201905-2",
 		"ASA-201905-2"
 	],
 	"affected": "5.0.12.arch1-1",
