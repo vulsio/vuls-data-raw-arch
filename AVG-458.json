@@ -1,12 +1,8 @@
 {
 	"advisories": [
 		"ASA-201711-2",
-		"ASA-201711-2",
-		"ASA-201711-4",
 		"ASA-201711-4",
 		"ASA-201711-1",
-		"ASA-201711-1",
-		"ASA-201711-3",
 		"ASA-201711-3"
 	],
 	"affected": "1.11-4",
@@ -19,10 +15,10 @@
 	],
 	"name": "AVG-458",
 	"packages": [
-		"libmupdf",
-		"mupdf-tools",
 		"mupdf",
-		"mupdf-gl"
+		"libmupdf",
+		"mupdf-gl",
+		"mupdf-tools"
 	],
 	"severity": "High",
 	"status": "Fixed",

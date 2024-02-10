@@ -7,8 +7,8 @@
 	],
 	"name": "AVG-2390",
 	"packages": [
-		"gvim",
-		"vim"
+		"vim",
+		"gvim"
 	],
 	"severity": "Medium",
 	"status": "Fixed",
