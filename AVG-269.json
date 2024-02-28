@@ -1,16 +1,15 @@
 {
 	"advisories": [
-		"ASA-201705-11",
-		"ASA-201705-11"
+		"ASA-201705-12"
 	],
-	"affected": "2.0.0-1",
-	"fixed": "2.0.0-2",
+	"affected": "5.33.0-1",
+	"fixed": "5.33.0-2",
 	"issues": [
-		"CVE-2017-8849"
+		"CVE-2017-8422"
 	],
-	"name": "AVG-268",
+	"name": "AVG-269",
 	"packages": [
-		"smb4k"
+		"kauth"
 	],
 	"severity": "High",
 	"status": "Fixed",
