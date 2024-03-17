@@ -1,6 +1,5 @@
 {
 	"advisories": [
-		"ASA-202101-31",
 		"ASA-202101-31"
 	],
 	"affected": "5.10.6.zen1-1",
