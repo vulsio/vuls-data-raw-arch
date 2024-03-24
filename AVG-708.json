@@ -18,8 +18,8 @@
 	],
 	"name": "AVG-708",
 	"packages": [
-		"wireshark-qt",
-		"wireshark-cli"
+		"wireshark-cli",
+		"wireshark-qt"
 	],
 	"severity": "Critical",
 	"status": "Fixed",

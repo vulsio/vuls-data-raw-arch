@@ -12,8 +12,8 @@
 	],
 	"name": "AVG-2189",
 	"packages": [
-		"jdk11-openjdk",
-		"jre11-openjdk-headless"
+		"jre11-openjdk-headless",
+		"jdk11-openjdk"
 	],
 	"severity": "High",
 	"status": "Fixed",

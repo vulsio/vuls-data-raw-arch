@@ -13,8 +13,8 @@
 	],
 	"name": "AVG-1320",
 	"packages": [
-		"glibc",
-		"lib32-glibc"
+		"lib32-glibc",
+		"glibc"
 	],
 	"severity": "Low",
 	"status": "Fixed",
