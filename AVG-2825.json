@@ -7,8 +7,8 @@
 	],
 	"name": "AVG-2825",
 	"packages": [
-		"protobuf",
-		"python-protobuf"
+		"python-protobuf",
+		"protobuf"
 	],
 	"severity": "Medium",
 	"status": "Fixed",
