@@ -7,8 +7,8 @@
 	],
 	"name": "AVG-1849",
 	"packages": [
-		"jre8-openjdk-headless",
-		"jdk8-openjdk"
+		"jdk8-openjdk",
+		"jre8-openjdk-headless"
 	],
 	"severity": "Medium",
 	"status": "Fixed",
