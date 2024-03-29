@@ -1,6 +1,5 @@
 {
 	"advisories": [
-		"ASA-202010-3",
 		"ASA-202010-3"
 	],
 	"affected": "5.9.zen1-1",
