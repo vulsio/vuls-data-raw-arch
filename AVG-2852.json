@@ -11,7 +11,7 @@
 		"nodejs"
 	],
 	"severity": "High",
-	"status": "Vulnerable",
+	"status": "Fixed",
 	"ticket": null,
 	"type": "multiple issues"
 }
