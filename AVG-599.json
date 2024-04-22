@@ -18,8 +18,8 @@
 	"packages": [
 		"mupdf",
 		"libmupdf",
-		"mupdf-tools",
-		"mupdf-gl"
+		"mupdf-gl",
+		"mupdf-tools"
 	],
 	"severity": "High",
 	"status": "Fixed",

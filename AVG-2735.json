@@ -12,8 +12,8 @@
 	],
 	"name": "AVG-2735",
 	"packages": [
-		"nvidia-open-dkms",
-		"nvidia-open"
+		"nvidia-open",
+		"nvidia-open-dkms"
 	],
 	"severity": "Unknown",
 	"status": "Fixed",

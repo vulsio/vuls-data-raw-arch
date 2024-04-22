@@ -9,8 +9,8 @@
 	],
 	"name": "AVG-2817",
 	"packages": [
-		"libcurl-compat",
 		"curl",
+		"libcurl-compat",
 		"libcurl-gnutls"
 	],
 	"severity": "Unknown",
