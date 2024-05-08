@@ -1,5 +1,6 @@
 {
 	"advisories": [
+		"ASA-202107-50",
 		"ASA-202107-50"
 	],
 	"affected": "5.12.18.hardened1-1",
