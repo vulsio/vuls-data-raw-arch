@@ -13,8 +13,8 @@
 	],
 	"name": "AVG-78",
 	"packages": [
-		"wireshark-qt",
-		"wireshark-cli"
+		"wireshark-cli",
+		"wireshark-qt"
 	],
 	"severity": "High",
 	"status": "Fixed",

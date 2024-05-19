@@ -7,8 +7,8 @@
 	],
 	"name": "AVG-1778",
 	"packages": [
-		"syncthing",
-		"syncthing-relaysrv"
+		"syncthing-relaysrv",
+		"syncthing"
 	],
 	"severity": "Medium",
 	"status": "Fixed",
