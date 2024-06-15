@@ -12,10 +12,10 @@
 	],
 	"name": "AVG-599",
 	"packages": [
-		"mupdf-tools",
-		"mupdf",
 		"libmupdf",
-		"mupdf-gl"
+		"mupdf-gl",
+		"mupdf-tools",
+		"mupdf"
 	],
 	"severity": "High",
 	"status": "Fixed",

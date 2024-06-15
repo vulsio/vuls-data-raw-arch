@@ -8,9 +8,9 @@
 	],
 	"name": "AVG-2845",
 	"packages": [
-		"curl",
 		"libcurl-gnutls",
-		"libcurl-compat"
+		"libcurl-compat",
+		"curl"
 	],
 	"severity": "High",
 	"status": "Fixed",

@@ -11,8 +11,8 @@
 	],
 	"name": "AVG-2686",
 	"packages": [
-		"jre-openjdk",
 		"jre-openjdk-headless",
+		"jre-openjdk",
 		"jdk-openjdk"
 	],
 	"severity": "High",

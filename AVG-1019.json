@@ -11,8 +11,8 @@
 	],
 	"name": "AVG-1019",
 	"packages": [
-		"postgresql-libs",
-		"postgresql"
+		"postgresql",
+		"postgresql-libs"
 	],
 	"severity": "Medium",
 	"status": "Fixed",
