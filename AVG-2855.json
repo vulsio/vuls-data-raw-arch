@@ -1,0 +1,16 @@
+{
+	"advisories": [],
+	"affected": "9.7p1-2",
+	"fixed": "9.8p1-1",
+	"issues": [
+		"CVE-2024-6387"
+	],
+	"name": "AVG-2855",
+	"packages": [
+		"openssh"
+	],
+	"severity": "High",
+	"status": "Fixed",
+	"ticket": null,
+	"type": "authentication bypass"
+}

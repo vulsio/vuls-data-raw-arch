@@ -16,9 +16,9 @@
 	"name": "AVG-458",
 	"packages": [
 		"libmupdf",
+		"mupdf",
 		"mupdf-gl",
-		"mupdf-tools",
-		"mupdf"
+		"mupdf-tools"
 	],
 	"severity": "High",
 	"status": "Fixed",

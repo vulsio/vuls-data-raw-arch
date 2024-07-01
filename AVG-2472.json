@@ -11,8 +11,8 @@
 	],
 	"name": "AVG-2472",
 	"packages": [
-		"gvim",
-		"vim"
+		"vim",
+		"gvim"
 	],
 	"severity": "Low",
 	"status": "Fixed",
