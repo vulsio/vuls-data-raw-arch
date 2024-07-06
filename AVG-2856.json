@@ -1,0 +1,17 @@
+{
+	"advisories": [],
+	"affected": "1.21.2-1",
+	"fixed": "1.21.3-1",
+	"issues": [
+		"CVE-2024-37371",
+		"CVE-2024-37370"
+	],
+	"name": "AVG-2856",
+	"packages": [
+		"krb5"
+	],
+	"severity": "Medium",
+	"status": "Testing",
+	"ticket": null,
+	"type": "multiple issues"
+}
