@@ -10,8 +10,8 @@
 	],
 	"name": "AVG-174",
 	"packages": [
-		"vim",
-		"gvim"
+		"gvim",
+		"vim"
 	],
 	"severity": "Medium",
 	"status": "Fixed",
