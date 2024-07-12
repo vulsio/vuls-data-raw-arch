@@ -11,7 +11,7 @@
 		"krb5"
 	],
 	"severity": "Medium",
-	"status": "Testing",
+	"status": "Fixed",
 	"ticket": null,
 	"type": "multiple issues"
 }
