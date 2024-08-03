@@ -9,8 +9,8 @@
 	],
 	"name": "AVG-2277",
 	"packages": [
-		"dotnet-sdk",
-		"dotnet-runtime"
+		"dotnet-runtime",
+		"dotnet-sdk"
 	],
 	"severity": "Medium",
 	"status": "Fixed",

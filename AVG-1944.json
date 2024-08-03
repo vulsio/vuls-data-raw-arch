@@ -10,8 +10,8 @@
 	],
 	"name": "AVG-1944",
 	"packages": [
-		"dotnet-sdk",
-		"dotnet-runtime"
+		"dotnet-runtime",
+		"dotnet-sdk"
 	],
 	"severity": "Medium",
 	"status": "Fixed",

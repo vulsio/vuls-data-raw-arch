@@ -13,8 +13,8 @@
 	"name": "AVG-599",
 	"packages": [
 		"mupdf-gl",
-		"libmupdf",
 		"mupdf",
+		"libmupdf",
 		"mupdf-tools"
 	],
 	"severity": "High",
