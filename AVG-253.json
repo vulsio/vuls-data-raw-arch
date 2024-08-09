@@ -1,6 +1,5 @@
 {
 	"advisories": [
-		"ASA-201704-7",
 		"ASA-201704-7"
 	],
 	"affected": "1.7-2",
