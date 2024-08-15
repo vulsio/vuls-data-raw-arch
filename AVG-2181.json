@@ -1,5 +1,6 @@
 {
 	"advisories": [
+		"ASA-202107-48",
 		"ASA-202107-48"
 	],
 	"affected": "5.13.1.arch1-1",
