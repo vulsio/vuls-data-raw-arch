@@ -9,8 +9,8 @@
 	],
 	"name": "AVG-2190",
 	"packages": [
-		"jdk8-openjdk",
-		"jre8-openjdk-headless"
+		"jre8-openjdk-headless",
+		"jdk8-openjdk"
 	],
 	"severity": "High",
 	"status": "Vulnerable",

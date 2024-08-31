@@ -7,8 +7,8 @@
 	],
 	"name": "AVG-635",
 	"packages": [
-		"vim",
-		"gvim"
+		"gvim",
+		"vim"
 	],
 	"severity": "Medium",
 	"status": "Fixed",
