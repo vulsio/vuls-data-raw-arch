@@ -10,8 +10,8 @@
 	],
 	"name": "AVG-347",
 	"packages": [
-		"gvim",
-		"vim"
+		"vim",
+		"gvim"
 	],
 	"severity": "High",
 	"status": "Fixed",
