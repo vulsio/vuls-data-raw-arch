@@ -8,11 +8,11 @@
 	],
 	"name": "AVG-1915",
 	"packages": [
-		"kube-apiserver",
 		"kube-controller-manager",
-		"kube-proxy",
+		"kube-apiserver",
+		"kube-scheduler",
 		"kubelet",
-		"kube-scheduler"
+		"kube-proxy"
 	],
 	"severity": "Low",
 	"status": "Vulnerable",

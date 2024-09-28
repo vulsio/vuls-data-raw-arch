@@ -10,8 +10,8 @@
 	],
 	"name": "AVG-2377",
 	"packages": [
-		"element-web",
-		"element-desktop"
+		"element-desktop",
+		"element-web"
 	],
 	"severity": "High",
 	"status": "Fixed",
