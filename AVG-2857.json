@@ -1,0 +1,16 @@
+{
+	"advisories": [],
+	"affected": "2.6.11-1",
+	"fixed": "2.6.12-1",
+	"issues": [
+		"CVE-2024-47191"
+	],
+	"name": "AVG-2857",
+	"packages": [
+		"oath-toolkit"
+	],
+	"severity": "High",
+	"status": "Fixed",
+	"ticket": null,
+	"type": "privilege escalation"
+}
