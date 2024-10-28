@@ -11,8 +11,8 @@
 	],
 	"name": "AVG-460",
 	"packages": [
-		"glibc",
-		"lib32-glibc"
+		"lib32-glibc",
+		"glibc"
 	],
 	"severity": "High",
 	"status": "Fixed",

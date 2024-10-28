@@ -11,9 +11,9 @@
 	],
 	"name": "AVG-2688",
 	"packages": [
+		"jdk11-openjdk",
 		"jre11-openjdk",
-		"jre11-openjdk-headless",
-		"jdk11-openjdk"
+		"jre11-openjdk-headless"
 	],
 	"severity": "High",
 	"status": "Fixed",

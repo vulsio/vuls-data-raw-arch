@@ -10,8 +10,8 @@
 	],
 	"name": "AVG-2004",
 	"packages": [
-		"dhcp",
-		"dhclient"
+		"dhclient",
+		"dhcp"
 	],
 	"severity": "High",
 	"status": "Fixed",
