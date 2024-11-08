@@ -1,6 +1,5 @@
 {
 	"advisories": [
-		"ASA-202012-22",
 		"ASA-202012-22"
 	],
 	"affected": "2.4.0rc4-2",
