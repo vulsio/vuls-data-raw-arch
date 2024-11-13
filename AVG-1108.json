@@ -1,6 +1,5 @@
 {
 	"advisories": [
-		"ASA-202003-6",
 		"ASA-202003-6"
 	],
 	"affected": "5.5.6.arch1-1",
