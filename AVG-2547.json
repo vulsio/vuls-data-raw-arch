@@ -7,8 +7,8 @@
 	],
 	"name": "AVG-2547",
 	"packages": [
-		"postgresql-libs",
-		"postgresql"
+		"postgresql",
+		"postgresql-libs"
 	],
 	"severity": "Low",
 	"status": "Fixed",
