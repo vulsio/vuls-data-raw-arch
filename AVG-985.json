@@ -1,5 +1,6 @@
 {
 	"advisories": [
+		"ASA-201906-15",
 		"ASA-201906-15"
 	],
 	"affected": "5.1.10.zen1-1",
