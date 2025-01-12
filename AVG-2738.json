@@ -9,8 +9,8 @@
 	],
 	"name": "AVG-2738",
 	"packages": [
-		"gvim",
-		"vim"
+		"vim",
+		"gvim"
 	],
 	"severity": "High",
 	"status": "Fixed",
