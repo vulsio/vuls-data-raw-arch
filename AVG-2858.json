@@ -1,0 +1,21 @@
+{
+	"advisories": [],
+	"affected": "3.3.0-2",
+	"fixed": "3.4.0-1",
+	"issues": [
+		"CVE-2024-12747",
+		"CVE-2024-12088",
+		"CVE-2024-12087",
+		"CVE-2024-12086",
+		"CVE-2024-12085",
+		"CVE-2024-12084"
+	],
+	"name": "AVG-2858",
+	"packages": [
+		"rsync"
+	],
+	"severity": "Critical",
+	"status": "Fixed",
+	"ticket": null,
+	"type": "multiple issues"
+}
