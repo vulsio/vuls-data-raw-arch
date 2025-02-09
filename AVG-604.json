@@ -7,8 +7,8 @@
 	],
 	"name": "AVG-604",
 	"packages": [
-		"libunrar",
-		"unrar"
+		"unrar",
+		"libunrar"
 	],
 	"severity": "Critical",
 	"status": "Fixed",

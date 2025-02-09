@@ -8,8 +8,8 @@
 	],
 	"name": "AVG-2662",
 	"packages": [
-		"vim",
-		"gvim"
+		"gvim",
+		"vim"
 	],
 	"severity": "High",
 	"status": "Fixed",

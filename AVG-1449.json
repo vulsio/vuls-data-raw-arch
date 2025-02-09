@@ -12,8 +12,8 @@
 	],
 	"name": "AVG-1449",
 	"packages": [
-		"dotnet-runtime",
-		"dotnet-sdk"
+		"dotnet-sdk",
+		"dotnet-runtime"
 	],
 	"severity": "High",
 	"status": "Fixed",

@@ -10,8 +10,8 @@
 	],
 	"name": "AVG-766",
 	"packages": [
-		"bitcoin-qt",
-		"bitcoin-daemon"
+		"bitcoin-daemon",
+		"bitcoin-qt"
 	],
 	"severity": "Medium",
 	"status": "Fixed",
